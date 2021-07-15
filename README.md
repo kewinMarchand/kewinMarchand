@@ -27,9 +27,9 @@
 
 1. Applis [Datagora web](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora&hl=en_SG&gl=US)
 
-  Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
+> Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
 
-  **Intégration et développement React et React native.**
+>>**Intégration et développement React et React native.**
 
 
 2. Site de e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
