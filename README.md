@@ -2,14 +2,18 @@
 ## Intégrateur et Développeur Front - End
 ### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
 
-- En poste depuis 3 ans chez Purjus Communication, agence de communication globale.
-- En charge du développement et de l'intégration front-end des projets web.
-- Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular.
-- Curieux des nouveaux plugins et frameworks Ui.
-- Bonne maîtrise du CSS, SASS, JSS.
-- Attention portée aux problématiques liées à l'accessibilité et à la RGPD.
-- Ecriture de fonctions de tests unitaires.
-- Code review.
+---
+
+[x] En poste depuis 3 ans chez Purjus Communication, agence de communication globale.
+[x] En charge du développement et de l'intégration front-end des projets web.
+[x] Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular.
+[x] Curieux des nouveaux plugins et frameworks Ui.
+[x] Bonne maîtrise du CSS, SASS, JSS.
+[x] Attention portée aux problématiques liées à l'accessibilité et à la RGPD.
+[x] Ecriture de fonctions de tests unitaires.
+[x] Code review.
+
+---
 
 ### Parcours
 #### Développement web :
@@ -20,7 +24,7 @@
 
 #### Autres :
 - 04/2015 à 05/2017 : Infographiste paysager (Star's Jardin, Thibaud de Beschart)
-- 05/2005 @ 03/2013 : Ouvrier paysagite qualifié
+- 05/2005 à 03/2013 : Ouvrier paysagite qualifié (Indépendant, ManieBat, Jardins Sestian...)
 
 
 <!--
