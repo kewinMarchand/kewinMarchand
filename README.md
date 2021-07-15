@@ -2,11 +2,13 @@
 
 # Kewin Marchand
 ## Intégrateur et Développeur Front-End
-### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
-#### En poste depuis 3 ans au sein de Purjus Communication, agence de communication globale. 
-##### En charge du développement et de l'intégration front-end des projets web.
+### En charge du développement et de l'intégration front-end des projets web au sein de Purjus Communication, agence de communication globale.
+
+#### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
 
 ---
+
+## Compétences
 
 - [x] Utilisations quotidienne des principaux frameworks JS, principalement *React* mais aussi Vue, Svelte, Angular. 💪💪💪
 - [x] Recherche et mise en place de packages *NPM*, veille portant sur les nouveaux plugins et frameworks Ui. 💪💪💪
