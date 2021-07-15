@@ -8,7 +8,7 @@
 
 - [x] Code review. 💪💪💪
 - [x] Utilisations quotidienne des principaux frameworks JS, principalement *React* mais aussi Vue, Svelte, Angular. 💪💪💪
-- [x] Curieux des nouveaux plugins et frameworks Ui. 💪💪💪
+- [x] Recherche et mise en place de packages *NPM*, curieux des nouveaux plugins et frameworks Ui. 💪💪💪
 - [x] Bonne maîtrise du *CSS*, SASS, JSS. 💪💪💪
 - [x] Animations CSS, *SVG*, React. 💪💪
 - [x] Attention portée aux problématiques liées à l'*accessibilité* et à la *RGPD*. 💪💪
@@ -31,10 +31,10 @@
 
 ## Formation
 
-- 2016/2017 : **Designer web** Afpa le Pontet (Titre professionnel de niveau III)
-- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain** IRFEDD (Attestation compétences)
-- 2014 : **DAO - Professionnaliser sa pratique** GRETA (Attestation compétences)
-- 1999/2005 : **Aménagement de l'espace paysager** CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)
+- 2016/2017 : **Designer web**, Afpa le Pontet (Titre professionnel de niveau III)
+- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain**, IRFEDD (Attestation compétences)
+- 2014 : **DAO - Professionnaliser sa pratique**, GRETA (Attestation compétences)
+- 1999/2005 : **Aménagement de l'espace paysager**, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)
 
 ---
 
