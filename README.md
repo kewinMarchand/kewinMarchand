@@ -26,63 +26,73 @@
 ## Réalisations
 
 1. Applis [Datagora web](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora&hl=en_SG&gl=US)
-Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
 
-**Intégration et développement React et React native.**
+  Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
+
+  **Intégration et développement React et React native.**
 
 
 2. Site de e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
+  
   Vente de moto et pièces détrachées en ligne.
 
   **Participation à l'intégration du site TWIG et Vue js.**
 
 
 3. Site vitrine [AD13](https://comites-feux.com/)
-Association Départementale des Comités Communaux Feux de Forêts et des Réserves Communales de Sécurité Civile des Bouches du Rhône.
 
-**Intégration et développement React et React admin.**
+  Association Départementale des Comités Communaux Feux de Forêts et des Réserves Communales de Sécurité Civile des Bouches du Rhône.
+
+  **Intégration et développement React et React admin.**
 
 
 4. Site vitrine [Les soirées de St Marc](https://lessoireesdesaintmarc.fr/)
-Association loi 1901 organisatrice d'un festival en région Aixoise. 
 
-**Intégration et développement HTML, CSS et Vanilla JS.**
+  Association loi 1901 organisatrice d'un festival en région Aixoise. 
+
+  **Intégration et développement HTML, CSS et Vanilla JS.**
 
 
 5. Site vitrine [Kering Foundation](https://www.keringfoundation.org/en/)
-Fondation en vue de soutenir les femmes touchées par la violence.
+  
+  Fondation en vue de soutenir les femmes touchées par la violence.
 
-**Intégration et développement HTML, CSS et Vanilla JS.**
+  **Intégration et développement HTML, CSS et Vanilla JS.**
 
 
 6. Site de recrutement [Sodicam²](https://sodicam2.fr/), Groupe Renault.
-Société de Distribution pour la Chimie, l'Automobile et la Mécanique chargée de la commercialisation et de l'animation des pièces, accessoires et services après-vente automobile.
+  
+  Société de Distribution pour la Chimie, l'Automobile et la Mécanique chargée de la commercialisation et de l'animation des pièces, accessoires et services après-vente automobile.
 
-**Intégration et développement TWIG, SASS et Vanilla JS.**
+  **Intégration et développement TWIG, SASS et Vanilla JS.**
 
 
 7. Site de recrutement [RRG](https://jobsfrance.renaultretailgroup.com/), Groupe Renault.
-Site dédié à la consultation des annonces d'emplois de la société et aux dépots des candidatures des internautes qui l'utilisent.
 
-**Intégration et développement TWIG, SASS et Vue JS.**
+  Site dédié à la consultation des annonces d'emplois de la société et aux dépots des candidatures des internautes qui l'utilisent.
+
+  **Intégration et développement TWIG, SASS et Vue JS.**
 
 
 8. Site vitrine multilingue [Facets](https://facets.fr/fr)
-Aagence événementielle.
 
-**Intégration et développement Next, React, Framer.**
+  Agence événementielle.
+
+  **Intégration et développement Next, React, Framer.**
 
 
 9. Site vitrine multilingue [Oreca events](https://oreca-events.com/fr)
-Aagence expérientielle automobile
 
-**Intégration et développement Next, React, Framer.**
+  Agence expérientielle automobile
+
+  **Intégration et développement Next, React, Framer.**
 
 10. Site E-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
-Achat et réservation de véhicules et accessoires automobile.
 
-**Maintenance et migration des anciennes pages**
-**Intégration et développement React.**
+  Achat et réservation de véhicules et accessoires automobile.
+
+  **Maintenance et migration des anciennes pages**
+  **Intégration et développement React.**
 
 
 ---
