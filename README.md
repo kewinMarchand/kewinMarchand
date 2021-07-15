@@ -11,6 +11,16 @@
 - Ecriture de fonctions de tests unitaires.
 - Code review.
 
+### Parcours
+#### Développement web :
+
+- 08/2018 à aujourd'hui : Intégrateur et développeur front-end (Purjus Communication).
+- 09/2017 à 08/2018 : Formateur Infographiste en multimédia (AFPA Avigon le Pontet).
+- 05/2017 à 09/2017 : Intégrateur web (Agence Hors Pistes et Freelance)
+
+#### Autres :
+- 04/2015 à 05/2017 : Infographiste paysager (Star's Jardin, Thibaud de Beschart)
+- 05/2005 @ 03/2013 : Ouvrier paysagite qualifié
 
 
 <!--
