@@ -49,7 +49,7 @@
 
 - Français (langue maternelle)
 - Anglais (scolaire, technique)
-- Castillan (scolaire, voyages)
+- Castillan (scolaire)
 
 
 
