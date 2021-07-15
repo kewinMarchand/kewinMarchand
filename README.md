@@ -71,8 +71,7 @@
 
 10. Site E-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
 >Achat et réservation de véhicules et accessoires automobile.
->>**Maintenance et migration des anciennes pages**
->>**Intégration et développement React.**
+>>**Maintenance et migration des anciennes pages**, **intégration et développement React.**
 
 
 ---
@@ -112,3 +111,10 @@
 - Français (langue maternelle)
 - Anglais (scolaire, technique)
 - Castillan (scolaire)
+
+---
+
+## Plus d'infos
+
+[Linkedin](https://www.linkedin.com/in/kewin-marchand/)
+
