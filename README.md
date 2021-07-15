@@ -5,12 +5,12 @@
 
 ---
 
-- [x] Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular.
-- [x] Curieux des nouveaux plugins et frameworks Ui.
-- [x] Bonne maîtrise du CSS, SASS, JSS.
-- [x] Attention portée aux problématiques liées à l'accessibilité et à la RGPD.
-- [x] Ecriture de fonctions de tests unitaires.
-- [x] Code review.
+- [x] Code review. 💪💪💪
+- [x] Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular. 💪💪💪
+- [x] Curieux des nouveaux plugins et frameworks Ui. 💪💪💪
+- [x] Bonne maîtrise du CSS, SASS, JSS. 💪💪💪
+- [x] Attention portée aux problématiques liées à l'accessibilité et à la RGPD. 💪💪
+- [x] Ecriture de fonctions de tests unitaires. 💪
 
 ---
 
@@ -23,7 +23,7 @@
 
 #### Autres :
 - 04/2015 à 05/2017 : Infographiste paysager (Star's Jardin, Thibaud de Beschart)
-- 05/2005 à 03/2013 : Ouvrier paysagite qualifié (Indépendant, ManieBat, Jardins Sestian...)
+- 05/2005 à 03/2013 : Ouvrier paysagiste qualifié (Indépendant, ManieBat, Jardins Sestian)
 
 
 <!--
