@@ -2,12 +2,14 @@
 ## Intégrateur et Développeur Front - End
 ### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
 
-- En poste chez Purjus Communication depuis 3 ans, agence de communication globale, en charge du développement et de l'intégration front-end des projets web.
+- En poste depuis 3 ans chez Purjus Communication, agence de communication globale.
+- En charge du développement et de l'intégration front-end des projets web.
 - Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular.
-- Curieux des nouveaux plugins et framewoirks Ui.
-- Bonne maîtrise du CSS, SASS, JSS
+- Curieux des nouveaux plugins et frameworks Ui.
+- Bonne maîtrise du CSS, SASS, JSS.
 - Attention portée aux problématiques liées à l'accessibilité et à la RGPD.
-- Ecriture de fonctions de tests unitaires
+- Ecriture de fonctions de tests unitaires.
+- Code review.
 
 
 
