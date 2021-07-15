@@ -25,6 +25,14 @@
 - 04/2015 à 05/2017 : Infographiste paysager (Star's Jardin, Thibaud de Beschart)
 - 05/2005 à 03/2013 : Ouvrier paysagiste qualifié (Indépendant, ManieBat, Jardins Sestian)
 
+---
+
+### Formation
+
+- 2016/2017 : **Designer web** Afpa le Pontet (Titre professionnel de niveau III)
+- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain** IRFEDD (Attestation compétences)
+- 2014 : **DAO - Professionnaliser sa pratique** GRETA (Attestation compétences)
+- 1999/2005 : **Aménagement de l'espace paysager** CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)
 
 <!--
 **kewinMarchand/kewinMarchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
