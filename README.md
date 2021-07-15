@@ -43,6 +43,14 @@
 - Botanique
 - Lecture
 
+---
+
+## Langues
+
+- Français (langue maternelle)
+- Anglais (scolaire, technique)
+- Castillan (scolaire, voyages)
+
 
 
 
