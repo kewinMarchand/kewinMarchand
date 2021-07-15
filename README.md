@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://media-exp3.licdn.com/dms/image/C5603AQFr97lJgPe0Lg/profile-displayphoto-shrink_200_200/0/1517076606115?e=1631750400&v=beta&t=72LaUYELc3mcM02frlhXZTHWuZ4uDl1PMsMTYLU3PKs">
 
-# Kewin Marchand
+# Kewin Marchand 
 ## Intégrateur et Développeur Front-End
 ### En charge du développement et de l'intégration front-end des projets web au sein de Purjus Communication, agence de communication globale.
 
@@ -117,6 +117,8 @@
 ---
 
 ## Plus d'infos
+
+Né le 03/11/1982 à Paris XIV.
 
 [Linkedin](https://www.linkedin.com/in/kewin-marchand/)
 
