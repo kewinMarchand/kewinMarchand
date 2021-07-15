@@ -9,10 +9,14 @@
 - [x] Code review. 💪💪💪
 - [x] Utilisations quotidienne des principaux frameworks JS, principalement *React* mais aussi Vue, Svelte, Angular. 💪💪💪
 - [x] Recherche et mise en place de packages *NPM*, curieux des nouveaux plugins et frameworks Ui. 💪💪💪
-- [x] Bonne maîtrise du *CSS*, SASS, JSS. 💪💪💪
+- [x] Maîtrise du *HTML* et de *TWIG*. 💪💪💪
+- [x] Maîtrise du *CSS*, SASS, JSS. 💪💪💪
+- [x] Sites *responsives*, *mobile first*. 💪💪💪
 - [x] Animations CSS, *SVG*, React. 💪💪
 - [x] Attention portée aux problématiques liées à l'*accessibilité* et à la *RGPD*. 💪💪
 - [x] Ecriture de fonctions de *tests unitaires*. 💪
+- [x] Applications mobile *React native*. 💪
+- [x] Environnement: Docker, Symfony, Sonata, React admin, Node, Next.... 💪
 
 ---
 
