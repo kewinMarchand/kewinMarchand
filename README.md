@@ -27,7 +27,7 @@
 
 ## Réalisations
 
-Site E-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
+Site e-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
 >Achat et réservation de véhicules et accessoires automobile.
 >>**Maintenance et migration des anciennes pages**, **intégration et développement React.**
 
@@ -57,7 +57,7 @@ Applis [Datagora web](https://datagora.fr/) et [Datagora mobile](https://play.go
 >>**Intégration et développement React et React native.**
 
 
-Site de e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
+Site e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
 >Vente de moto et pièces détrachées en ligne.
 >>**Participation à l'intégration du site TWIG et Vue js.**
 
