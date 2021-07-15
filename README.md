@@ -32,9 +32,9 @@ Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des d
 
 
 2. Site de e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
-Vente de moto et pièces détrachées en ligne.
+  Vente de moto et pièces détrachées en ligne.
 
-**Participation à l'intégration du site TWIG et Vue js.**
+  **Participation à l'intégration du site TWIG et Vue js.**
 
 
 3. Site vitrine [AD13](https://comites-feux.com/)
