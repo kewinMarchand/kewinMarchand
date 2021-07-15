@@ -7,24 +7,24 @@
 ---
 
 - [x] Code review. 💪💪💪
-- [x] Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular. 💪💪💪
+- [x] Utilisations quotidienne des principaux frameworks JS, principalement *React* mais aussi Vue, Svelte, Angular. 💪💪💪
 - [x] Curieux des nouveaux plugins et frameworks Ui. 💪💪💪
-- [x] Bonne maîtrise du CSS, SASS, JSS. 💪💪💪
-- [x] Attention portée aux problématiques liées à l'accessibilité et à la RGPD. 💪💪
-- [x] Ecriture de fonctions de tests unitaires. 💪
+- [x] Bonne maîtrise du *CSS*, SASS, JSS. 💪💪💪
+- [x] Attention portée aux problématiques liées à l'*accessibilité* et à la *RGPD*. 💪💪
+- [x] Ecriture de fonctions de *tests unitaires*. 💪
 
 ---
 
 ## Parcours
 ### 💻 Développement web :
 
-- 08/2018 à aujourd'hui : Intégrateur et développeur Front-End (Purjus Communication).
-- 09/2017 à 08/2018 : Formateur Infographiste en multimédia (AFPA Avigon le Pontet).
-- 05/2017 à 09/2017 : Intégrateur web (Agence Hors Pistes et Freelance)
+- 08/2018 à aujourd'hui : **Intégrateur et développeur Front-End** (Purjus Communication).
+- 09/2017 à 08/2018 : **Formateur Infographiste en multimédia** (AFPA Avigon le Pontet).
+- 05/2017 à 09/2017 : **Intégrateur web** (Agence Hors Pistes et Freelance)
 
 ### 🌳 Paysagisme :
-- 04/2015 à 05/2017 : Infographiste paysager (Star's Jardin, Thibaud de Beschart)
-- 05/2005 à 03/2013 : Ouvrier paysagiste qualifié (Indépendant, ManieBat, Jardins Sestian)
+- 04/2015 à 05/2017 : **Infographiste paysager** (Star's Jardin, Thibaud de Beschart)
+- 05/2005 à 03/2013 : **Ouvrier paysagiste qualifié** (Indépendant, ManieBat, Jardins Sestian)
 
 ---
 
