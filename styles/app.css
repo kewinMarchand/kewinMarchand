@@ -4,8 +4,17 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-header {
+section {
+    margin-top: 96px;
+    padding-bottom: 32px;
+    padding-top: 32px;
+}
+
+section > header {
+    background: inherit;
     padding-bottom: 40px;
+    position: sticky;
+    top: 64px;
 }
 
 footer {

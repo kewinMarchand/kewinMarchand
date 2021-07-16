@@ -1,41 +1,48 @@
 import {createTheme, responsiveFontSizes} from "@material-ui/core";
 
-let theme = createTheme({
-    typography: {
-        fontFamily: ['Roboto',].join(','),
-        h1: {
-            fontSize: 32,
-        },
-        h2: {
-            fontSize: 30,
-        },
-        h3: {
-            fontSize: 28,
-        },
-        h4: {
-            fontSize: 24,
-        },
-        h5: {
-            fontSize: 20,
-        },
-        h6: {
-            fontSize: 18,
-        },
+let theme = createTheme({});
+
+const palette = {...theme.palette};
+const typography = {
+    ...theme.typography,
+    fontFamily: ['Roboto',].join(','),
+    h1: {
+        fontSize: 32,
     },
-    overrides: {
-        MuiContainer: {
-          root: {
-              marginTop: 128
-          }
-        },
-        MuiDivider: {
-            root: {
-                margin: "16px 0"
-            }
+    h2: {
+        fontSize: 30,
+    },
+    h3: {
+        fontSize: 28,
+    },
+    h4: {
+        fontSize: 24,
+    },
+    h5: {
+        fontSize: 20,
+    },
+    h6: {
+        fontSize: 18,
+    },
+};
+const overrides = {
+    MuiContainer: {
+        root: {
+            backgroundColor: palette.background.default,
+        }
+    },
+    MuiDivider: {
+        root: {
+            margin: "16px 0"
         }
     }
-});
+}
+theme.palette = palette;
+theme.typography = typography;
+theme.overrides = overrides;
 
+/*
 theme = responsiveFontSizes(theme);
+*/
 
 export {theme}
