@@ -7,15 +7,15 @@ export function Navbar() {
         <AppBar position={'relative'}>
             <Toolbar>
                 <Link href="/">
-                    <a>
-                        <Typography color={'textPrimary'}>
+                    <a style={{padding: 8}}>
+                        <Typography color={'inherit'}>
                             Accueil
                         </Typography>
                     </a>
                 </Link>
                 <Link href="/about">
-                    <a>
-                        <Typography color={'textPrimary'}>
+                    <a style={{padding: 8}}>
+                        <Typography color={'inherit'}>
                             À propos
                         </Typography>
                     </a>

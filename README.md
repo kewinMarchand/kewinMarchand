@@ -1,8 +1,8 @@
-<img align="right" width="200" height="200" src="https://media-exp3.licdn.com/dms/image/C5603AQFr97lJgPe0Lg/profile-displayphoto-shrink_200_200/0/1517076606115?e=1631750400&v=beta&t=72LaUYELc3mcM02frlhXZTHWuZ4uDl1PMsMTYLU3PKs">
+<img alt="Kewin Marchand" align="right" width="200" height="200" src="https://media-exp3.licdn.com/dms/image/C5603AQFr97lJgPe0Lg/profile-displayphoto-shrink_200_200/0/1517076606115?e=1631750400&v=beta&t=72LaUYELc3mcM02frlhXZTHWuZ4uDl1PMsMTYLU3PKs">
 
 # Kewin Marchand 
 ## Intégrateur et Développeur Front-End
-### En charge du développement et de l'intégration front-end des projets web au sein de Purjus Communication, agence de communication globale.
+### En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale.
 
 #### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
 
@@ -32,7 +32,7 @@ Site e-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
 >>**Maintenance et migration des anciennes pages**, **intégration et développement React.**
 
 
-Site de recrutement [RRG](https://jobsfrance.renaultretailgroup.com/), Groupe Renault.
+Site de recrutement [RRG RH](https://jobsfrance.renaultretailgroup.com/), Groupe Renault.
 >Site dédié à la consultation des annonces d'emplois de la société et aux dépots des candidatures des internautes qui l'utilisent.
 >>**Intégration et développement TWIG, SASS et Vue JS.**
 
@@ -53,7 +53,7 @@ Site vitrine multilingue [Oreca events](https://oreca-events.com/fr)
 
 
 Applis [Datagora web](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora&hl=en_SG&gl=US)
-> Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
+>Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
 >>**Intégration et développement React et React native.**
 
 
