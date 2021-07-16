@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export function Navbar() {
     return (
-        <AppBar position={'relative'}>
+        <AppBar position={'relative'} component={"nav"}>
             <Toolbar>
                 <Link href="/">
                     <a style={{padding: 8}}>

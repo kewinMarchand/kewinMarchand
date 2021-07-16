@@ -15,6 +15,7 @@ export function Layout({ children, title }: {children: React.ReactElement | Reac
             <CssBaseline/>
             <ThemeProvider theme={theme}>
                 <main>
+                    <a href="#content" className={"sr-only"} title={"Accéder directement au contenu"}>Contenu</a>
                     <Navbar/>
                     {children}
                     <Footer/>

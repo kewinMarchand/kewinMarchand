@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export function Footer() {
     return (
-        <AppBar position={'relative'}>
+        <AppBar position={'relative'} component={"footer"}>
             <Toolbar>
                 <Link href="/">
                     <a style={{padding: 8}}>
