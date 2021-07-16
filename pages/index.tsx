@@ -118,7 +118,7 @@ function HomePage() {
                     <header>
                         <Typography variant={"h1"}>Kewin Marchand</Typography>
                         <Typography variant={"h2"}>Intégrateur et Développeur Front-End</Typography>
-                        <Typography variant={"h3"}>En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale.</Typography>
+                        <Typography variant={"h3"}>En charge du développement et de l&apos;intégration des projets web au sein de Purjus Communication, agence de communication globale.</Typography>
                         <Typography variant={"h4"}>Vauvenargues, Provence-Alpes-Côte d’Azur, France</Typography>
                     </header>
                     <section>
