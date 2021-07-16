@@ -84,20 +84,20 @@ Site vitrine [Kering Foundation](https://www.keringfoundation.org/en/)
 
 - 08/2018 à aujourd'hui : **Intégrateur et développeur Front-End** (Purjus Communication).
 - 09/2017 à 08/2018 : **Formateur Infographiste en multimédia** (AFPA Avigon le Pontet).
-- 05/2017 à 09/2017 : **Intégrateur web** (Agence Hors Pistes et Freelance)
+- 05/2017 à 09/2017 : **Intégrateur web** (Agence Hors Pistes et Freelance).
 
 ### 🌳 Paysagisme :
-- 04/2015 à 05/2017 : **Infographiste paysager** (Star's Jardin, Thibaud de Beschart)
-- 05/2005 à 03/2013 : **Ouvrier paysagiste qualifié** (Indépendant, ManieBat, Jardins Sestian)
+- 04/2015 à 05/2017 : **Infographiste paysager** (Star's Jardin, Thibaud de Beschart).
+- 05/2005 à 03/2013 : **Ouvrier paysagiste qualifié** (Indépendant, ManieBat, Jardins Sestian).
 
 ---
 
 ## Formation
 
-- 2016/2017 : **Designer web**, Afpa le Pontet (Titre professionnel de niveau III)
-- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain**, IRFEDD (Attestation compétences)
-- 2014 : **DAO - Professionnaliser sa pratique**, GRETA (Attestation compétences)
-- 1999/2005 : **Aménagement de l'espace paysager**, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)
+- 2016/2017 : **Designer web**, Afpa le Pontet (Titre professionnel de niveau III).
+- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain**, IRFEDD (Attestation compétences).
+- 2014 : **DAO - Professionnaliser sa pratique**, GRETA (Attestation compétences).
+- 1999/2005 : **Aménagement de l'espace paysager**, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS).
 
 ---
 

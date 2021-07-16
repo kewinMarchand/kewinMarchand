@@ -1,7 +1,20 @@
-import React from "react";
+import React, { Fragment } from "react";
 import {Layout} from "../components/Layout";
-import {Button, Card,
-    CardActions, CardContent, CardHeader, Container, Grid, List, ListItem, ListItemIcon, ListItemText, Typography} from "@material-ui/core";
+import {
+    Button,
+    Card,
+    CardActions,
+    CardContent,
+    CardHeader,
+    Container, Divider,
+    Grid,
+    List,
+    ListItem,
+    ListItemIcon,
+    ListItemText,
+    ListSubheader,
+    Typography
+} from "@material-ui/core";
 import {CheckBoxRounded} from '@material-ui/icons';
 
 const SKILLS: string[] = [
@@ -109,69 +122,167 @@ const WORKS: work[] = [
         mission: "Intégration et développement HTML, CSS et Vanilla JS from scratch."
     },
 ]
+type background = {
+    categorie: string,
+    content: {date: string, job: string}[]
+}
+const BACKGROUNDS: background[] = [
+    {
+        categorie: "💻 Développement web",
+        content: [
+            {
+                date: "08/2018 à aujourd'hui",
+                job: "Intégrateur et développeur Front-End (Purjus Communication)."
+            },
+            {
+                date: "09/2017 à 08/2018",
+                job: "Formateur Infographiste en multimédia (AFPA Avigon le Pontet)."
+            },
+            {
+                date: "05/2017 à 09/2017",
+                job: "Intégrateur web (Agence Hors Pistes et Freelance)."
+            }
+        ]
+    },
+    {
+        categorie: "🌳 Paysagisme",
+        content: [
+            {
+                date: "04/2015 à 05/2017",
+                job: "Infographiste paysager (Star's Jardin, Thibaud de Beschart)."
+            },
+            {
+                date: "05/2005 à 03/2013",
+                job: "Ouvrier paysagiste qualifié (Indépendant, ManieBat, Jardins Sestian)."
+            },
+            {
+                date: "05/2017 à 09/2017",
+                job: "Intégrateur web (Agence Hors Pistes et Freelance)."
+            }
+        ]
+    }
+]
+type training = {
+    date: string,
+    course: string
+}
+const TRAININGS: training[] = [
+    {
+        date: "2016/2017",
+        course: "Designer web, Afpa le Pontet (Titre professionnel de niveau III)."
+    },
+    {
+        date: "2014/2015",
+        course: "Les énergies renouvelables d'aujourd'hui et de demain, IRFEDD (Attestation compétences)."
+    },
+    {
+        date: "2014",
+        course: "DAO - Professionnaliser sa pratique, GRETA (Attestation compétences)."
+    },
+    {
+        date: "1999/2005",
+        course: "Aménagement de l'espace paysager, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)."
+    },
+]
 
 function HomePage() {
     return (
-        <>
-            <Layout title={"Intégrateur et Développeur Front-End"}>
-                <Container>
-                    <header>
-                        <Typography variant={"h1"}>Kewin Marchand</Typography>
-                        <Typography variant={"h2"}>Intégrateur et Développeur Front-End</Typography>
-                        <Typography variant={"h3"}>En charge du développement et de l&apos;intégration des projets web au sein de Purjus Communication, agence de communication globale.</Typography>
-                        <Typography variant={"h4"}>Vauvenargues, Provence-Alpes-Côte d’Azur, France</Typography>
+        <Layout title={"Intégrateur et Développeur Front-End"}>
+                <Container component={"header"} style={{marginTop: 64}}>
+                    <Typography variant={"h1"}>Kewin Marchand</Typography>
+                    <Typography variant={"h2"}>Intégrateur et Développeur Front-End</Typography>
+                    <Typography variant={"h3"}>En charge du développement et de l&apos;intégration des projets web au sein de Purjus Communication, agence de communication globale.</Typography>
+                    <Typography variant={"h4"}>Vauvenargues, Provence-Alpes-Côte d’Azur, France</Typography>
+                </Container>
+                {/*Compétences*/}
+                <Container component={"section"} style={{marginTop: 64}}>
+                    <header style={{marginBottom: 40}}>
+                        <Typography variant={"h1"}>Compétences</Typography>
                     </header>
-                    <section>
-                        <header>
-                            <Typography variant={"h1"}>Compétences</Typography>
-                        </header>
-                        <List>
-                            {SKILLS.map((skill, i) => (
-                                <ListItem key={i}>
-                                    <ListItemIcon>
-                                        <CheckBoxRounded color={"primary"}/>
-                                    </ListItemIcon>
-                                    <ListItemText>
-                                        {skill}
-                                    </ListItemText>
-                                </ListItem>
-                            ))}
-                        </List>
-                    </section>
-                    <section>
-                        <header>
-                            <Typography variant={"h1"}>Réalisations</Typography>
-                        </header>
-                        <Grid container spacing={3}>
-                            {WORKS.map((work, i) => (
-                                <Grid item key={i} md={6}>
-                                    <Card style={{display: "flex", flexDirection: "column", height: "100%"}}>
-                                        <CardHeader
-                                            title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
-                                            subheader={work.type}
+                    <List>
+                        {SKILLS.map((skill, i) => (
+                            <ListItem key={i}>
+                                <ListItemIcon>
+                                    <CheckBoxRounded color={"primary"}/>
+                                </ListItemIcon>
+                                <ListItemText>
+                                    {skill}
+                                </ListItemText>
+                            </ListItem>
+                        ))}
+                    </List>
+                </Container>
+                {/*Réalisations*/}
+                <Container component={"section"} style={{marginTop: 64}}>
+                    <header style={{marginBottom: 40}}>
+                        <Typography variant={"h1"}>Réalisations</Typography>
+                    </header>
+                    <Grid container spacing={3}>
+                        {WORKS.map((work, i) => (
+                            <Grid item key={i} md={6}>
+                                <Card style={{display: "flex", flexDirection: "column", height: "100%"}}>
+                                    <CardHeader
+                                        title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
+                                        subheader={work.type}
+                                    />
+                                    <CardContent style={{flexGrow: 1}}>
+                                        <Typography>{work.description}</Typography>
+                                        <Typography>{work.mission}</Typography>
+                                    </CardContent>
+                                    <CardActions>
+                                        <Button
+                                            href={work.link}
+                                            title={`Voir le site ${work.name}`}
+                                            target={"_blank"}
+                                            rel={"noreferrer noopener"}
+                                        >
+                                            Voir le site
+                                        </Button>
+                                    </CardActions>
+                                </Card>
+                            </Grid>
+                        ))}
+                    </Grid>
+                </Container>
+                {/*Parcours*/}
+                <Container component={"section"} style={{marginTop: 64}}>
+                    <header style={{marginBottom: 40}}>
+                        <Typography variant={"h1"}>Parcours</Typography>
+                    </header>
+                    <List>
+                        {BACKGROUNDS.map((background, i) => (
+                            <Fragment key={i}>
+                                <ListSubheader disableSticky>{background.categorie} :</ListSubheader>
+                                {background.content.map((content, i) => (
+                                    <ListItem key={i}>
+                                        <ListItemText
+                                            primary={content.date}
+                                            secondary={content.job}
                                         />
-                                        <CardContent style={{flexGrow: 1}}>
-                                            <Typography>{work.description}</Typography>
-                                            <Typography>{work.mission}</Typography>
-                                        </CardContent>
-                                        <CardActions>
-                                            <Button
-                                                href={work.link}
-                                                title={`Voir le site ${work.name}`}
-                                                target={"_blank"}
-                                                rel={"noreferrer noopener"}
-                                            >
-                                                Voir le site
-                                            </Button>
-                                        </CardActions>
-                                    </Card>
-                                </Grid>
-                            ))}
-                        </Grid>
-                    </section>
+                                    </ListItem>
+                                ))}
+                                {0 === i && <Divider/>}
+                            </Fragment>
+                        ))}
+                    </List>
+                </Container>
+                {/*Formation*/}
+                <Container component={"section"} style={{marginTop: 64}}>
+                    <header style={{marginBottom: 40}}>
+                        <Typography variant={"h1"}>Formation</Typography>
+                    </header>
+                    <List>
+                        {TRAININGS.map((training, i) => (
+                            <ListItem key={i}>
+                                <ListItemText
+                                    primary={training.date}
+                                    secondary={training.course}
+                                />
+                            </ListItem>
+                        ))}
+                    </List>
                 </Container>
             </Layout>
-        </>
     )
 }
 

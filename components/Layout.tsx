@@ -3,8 +3,9 @@ import {Navbar} from "./Navbar";
 import {CssBaseline, ThemeProvider} from "@material-ui/core";
 import Head from "next/head";
 import {theme} from "../theme/theme";
+import {Footer} from "./Footer";
 
-export function Layout({ children, title }: {children: React.ReactElement, title: string}) {
+export function Layout({ children, title }: {children: React.ReactElement | React.ReactElement[], title: string}) {
     return (
         <>
             <Head>
@@ -16,6 +17,7 @@ export function Layout({ children, title }: {children: React.ReactElement, title
                 <main>
                     <Navbar/>
                     {children}
+                    <Footer/>
                 </main>
             </ThemeProvider>
         </>
