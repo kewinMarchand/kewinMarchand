@@ -1,11 +1,16 @@
 import React from "react";
 import {CssBaseline} from "@material-ui/core";
 import {AppHead} from "./layout/AppHead";
-import {Providers} from "./layout/providers";
+import {Providers} from "./layout/Providers";
 import {Navbar} from "./Navbar";
 import {Footer} from "./Footer";
 
-export function Layout({ children, title }: {children: React.ReactElement | React.ReactElement[], title: string}): React.ReactElement {
+type Layout = {
+    children: React.ReactElement | React.ReactElement[],
+    title: string
+};
+
+export function Layout({ children, title }: Layout): React.ReactElement {
     return (
         <>
             <AppHead title={title}/>

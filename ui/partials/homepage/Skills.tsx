@@ -1,25 +1,19 @@
 import React, {useContext} from "react";
 import {
-    Container,
     List,
     ListItem,
     ListItemIcon,
     ListItemText,
-    Typography
 } from "@material-ui/core";
 import {CheckBoxRounded} from '@material-ui/icons';
 import {DeveloperContext} from "../../context/DeveloperContext";
+import {Section} from "../../components/Section";
 
 export function Skills(): React.ReactElement {
     const {skills} = useContext(DeveloperContext);
 
     return (
-        <Container component={"section"}>
-            <header>
-                <Typography variant={"h1"}>
-                    Compétences
-                </Typography>
-            </header>
+        <Section title={"Compétences"}>
             <List disablePadding>
                 {skills.map((skill, i) => (
                     <ListItem disableGutters key={i}>
@@ -32,6 +26,6 @@ export function Skills(): React.ReactElement {
                     </ListItem>
                 ))}
             </List>
-        </Container>
+        </Section>
     )
 }

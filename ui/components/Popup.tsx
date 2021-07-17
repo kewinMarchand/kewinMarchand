@@ -7,7 +7,7 @@ export interface PopupRef {
 }
 
 type Popup = {children: React.ReactElement | React.ReactElement[]}
-// eslint-disable-next-line react/display-name
+
 export const Popup = forwardRef((props: Popup, ref): React.ReactElement => {
     const [dialogIsOpen, setDialogIsOpen] = useState(false);
 
@@ -25,3 +25,5 @@ export const Popup = forwardRef((props: Popup, ref): React.ReactElement => {
         </>
     )
 })
+
+Popup.displayName = "Popup";

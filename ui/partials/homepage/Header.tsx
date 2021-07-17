@@ -1,25 +1,25 @@
 import React, {useContext} from "react";
 import Image from "next/image";
 import {
-    Container,
     Divider,
     Grid,
     Typography
 } from "@material-ui/core";
 import {DeveloperContext} from "../../context/DeveloperContext";
+import {Section} from "../../components/Section";
 
 export function Header(): React.ReactElement {
     const {developer} = useContext(DeveloperContext);
 
     return (
-        <Container component={"header"}>
-            <Typography variant={"h1"}>
-                {developer.name}
-            </Typography>
+        <Section title={developer.name}>
             <Grid container justifyContent={"space-between"} alignItems={"center"}>
                 <Grid item>
                     <Typography variant={"h2"} gutterBottom>
                         {developer.job}
+                    </Typography>
+                    <Typography variant={"body2"} gutterBottom>
+                        {developer.getAge(developer.birthdate)}
                     </Typography>
                     <Typography variant={"body2"}>
                         {developer.city}
@@ -38,6 +38,6 @@ export function Header(): React.ReactElement {
             <Typography>
                 {developer.mission}
             </Typography>
-        </Container>
+        </Section>
     )
 }

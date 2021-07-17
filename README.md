@@ -1,4 +1,4 @@
-<img alt="Kewin Marchand" align="right" width="200" height="200" src="https://media-exp3.licdn.com/dms/image/C5603AQFr97lJgPe0Lg/profile-displayphoto-shrink_200_200/0/1517076606115?e=1631750400&v=beta&t=72LaUYELc3mcM02frlhXZTHWuZ4uDl1PMsMTYLU3PKs">
+<img alt="Kewin Marchand" align="right" width="200" height="200" src="public/images/me.jpg">
 
 # Kewin Marchand 
 ## Intégrateur et Développeur Front-End

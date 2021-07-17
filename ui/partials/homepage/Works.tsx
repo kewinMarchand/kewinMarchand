@@ -5,12 +5,12 @@ import {
     CardActions,
     CardContent,
     CardHeader,
-    Container,
     Grid,
     Typography
 } from "@material-ui/core";
 import {Popup, PopupRef} from "../../components/Popup";
 import {DeveloperContext, work} from "../../context/DeveloperContext";
+import {Section} from "../../components/Section";
 
 export function Works(): React.ReactElement {
     const {works} = useContext(DeveloperContext);
@@ -23,15 +23,10 @@ export function Works(): React.ReactElement {
     }
 
     return (
-        <Container component={"section"} style={{background: "white"}}>
-            <header>
-                <Typography variant={"h1"}>
-                    Réalisations
-                </Typography>
-            </header>
+        <Section title={"Réalisations"}>
             <Grid container spacing={3}>
                 {works.map((work, i) => (
-                    <Grid item key={i} xs={12} md={6}>
+                    <Grid item key={i} xs={12} md={6} lg={3}>
                         <Card style={{display: "flex", flexDirection: "column", height: "100%"}}>
                             <CardHeader
                                 title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
@@ -64,6 +59,6 @@ export function Works(): React.ReactElement {
                     }
                 </div>
             </Popup>
-        </Container>
+        </Section>
     )
 }

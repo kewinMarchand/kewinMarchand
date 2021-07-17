@@ -1,23 +1,17 @@
 import React, {useContext} from "react";
 import {
-    Container,
     List,
     ListItem,
     ListItemText,
-    Typography
 } from "@material-ui/core";
 import {DeveloperContext} from "../../context/DeveloperContext";
+import {Section} from "../../components/Section";
 
 export function Training(): React.ReactElement {
     const {trainings} = useContext(DeveloperContext);
 
     return (
-        <Container component={"section"}>
-            <header>
-                <Typography variant={"h1"}>
-                    Formation
-                </Typography>
-            </header>
+        <Section title={"Formation"}>
             <List disablePadding>
                 {trainings.map((training, i) => (
                     <ListItem disableGutters key={i}>
@@ -28,6 +22,6 @@ export function Training(): React.ReactElement {
                     </ListItem>
                 ))}
             </List>
-        </Container>
+        </Section>
     )
 }

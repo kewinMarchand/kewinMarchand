@@ -1,20 +1,26 @@
 import React from 'react';
 import PROFIL_PICTURE from "../../public/images/me.jpg";
+import {dateHelper} from "../helpers/dateHelper";
 
 type developer = {
     profilPicture: StaticImageData,
     name: string,
+    birthdate: string,
     job: string,
     city: string,
     mission: string,
+    getAge(birthdate: string): string;
 }
 
+// @ts-ignore
 const DEVELOPER: developer = {
     profilPicture: PROFIL_PICTURE,
     name: "Kewin Marchand",
+    birthdate: "1982/11/03",
     job: "Intégrateur et Développeur Front-End",
     city: "Vauvenargues, Provence-Alpes-Côte d’Azur, France",
-    mission: "En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale."
+    mission: "En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale.",
+    getAge: dateHelper.getAge,
 }
 
 const SKILLS: string[] = [

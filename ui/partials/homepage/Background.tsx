@@ -1,25 +1,19 @@
 import React, {Fragment, useContext} from "react";
 import {
-    Container,
     Divider,
     List,
     ListItem,
     ListItemText,
     ListSubheader,
-    Typography
 } from "@material-ui/core";
 import {DeveloperContext} from "../../context/DeveloperContext";
+import {Section} from "../../components/Section";
 
 export function Background(): React.ReactElement {
     const {backgrounds} = useContext(DeveloperContext);
 
     return (
-        <Container component={"section"}>
-            <header>
-                <Typography variant={"h1"}>
-                    Parcours
-                </Typography>
-            </header>
+        <Section title={"Parcours"}>
             <List disablePadding>
                 {backgrounds.map((background, i) => (
                     <Fragment key={i}>
@@ -36,6 +30,6 @@ export function Background(): React.ReactElement {
                     </Fragment>
                 ))}
             </List>
-        </Container>
+        </Section>
     )
 }
