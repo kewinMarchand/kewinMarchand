@@ -1,8 +1,14 @@
 import React, {forwardRef, useImperativeHandle, useState} from "react";
 import {Dialog} from "@material-ui/core";
 
+export interface PopupRef {
+    handlePopup(): void;
+    dialogIsOpen: boolean;
+}
+
+type Popup = {children: React.ReactElement | React.ReactElement[]}
 // eslint-disable-next-line react/display-name
-export const Popup = forwardRef(({ children, title, ref }: {children: React.ReactElement | React.ReactElement[], title: string, ref: any}) => {
+export const Popup = forwardRef((props: Popup, ref): React.ReactElement => {
     const [dialogIsOpen, setDialogIsOpen] = useState(false);
 
     const handlePopup = () => {
@@ -13,8 +19,8 @@ export const Popup = forwardRef(({ children, title, ref }: {children: React.Reac
 
     return (
         <>
-            <Dialog open={dialogIsOpen}>
-                {children}
+            <Dialog open={dialogIsOpen} onClose={handlePopup} maxWidth={'lg'}>
+                {props.children}
             </Dialog>
         </>
     )

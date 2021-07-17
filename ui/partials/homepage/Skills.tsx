@@ -11,7 +11,7 @@ import {CheckBoxRounded} from '@material-ui/icons';
 
 const SKILLS: string[] = [
     "Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular. 💪💪💪",
-    "Recherche et mise en place de packages NPM, veille portant sur les nouveaux plugins et frameworks Ui. 💪💪💪",
+    "Recherche et mise en place de packages NPM, veille portant sur les nouveaux plugins et frameworks ui. 💪💪💪",
     "HTML, TWIG. 💪💪💪",
     "CSS, SASS, JSS. 💪💪💪",
     "Vanilla JS, Typescript. 💪💪💪",
@@ -28,7 +28,9 @@ function Skills() {
     return (
         <Container component={"section"}>
             <header>
-                <Typography variant={"h1"}>Compétences</Typography>
+                <Typography variant={"h1"}>
+                    Compétences
+                </Typography>
             </header>
             <List disablePadding>
                 {SKILLS.map((skill, i) => (

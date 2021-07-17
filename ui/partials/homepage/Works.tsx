@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useRef, useState} from "react";
 import {
     Button,
     Card,
@@ -9,6 +9,7 @@ import {
     Grid,
     Typography
 } from "@material-ui/core";
+import {Popup, PopupRef} from "../../components/Popup";
 
 type work = {
     name: string,
@@ -101,29 +102,41 @@ const WORKS: work[] = [
     },
 ]
 function Works() {
+    const [iframeSrc, setIframeSrc] = useState("")
+    const popup = useRef<PopupRef>(null);
+
+    const handleIframe = (work: work) => {
+        popup.current?.handlePopup();
+        setIframeSrc(work.link);
+    }
+
     return (
         <Container component={"section"} style={{background: "white"}}>
             <header>
-                <Typography variant={"h1"}>Réalisations</Typography>
+                <Typography variant={"h1"}>
+                    Réalisations
+                </Typography>
             </header>
             <Grid container spacing={3}>
                 {WORKS.map((work, i) => (
-                    <Grid item key={i} md={6}>
+                    <Grid item key={i} xs={12} md={6}>
                         <Card style={{display: "flex", flexDirection: "column", height: "100%"}}>
                             <CardHeader
                                 title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
                                 subheader={work.type}
                             />
                             <CardContent style={{flexGrow: 1}}>
-                                <Typography>{work.description}</Typography>
-                                <Typography>{work.mission}</Typography>
+                                <Typography>
+                                    {work.description}
+                                </Typography>
+                                <Typography>
+                                    {work.mission}
+                                </Typography>
                             </CardContent>
                             <CardActions>
                                 <Button
-                                    href={work.link}
                                     title={`Voir le site ${work.name}`}
-                                    target={"_blank"}
-                                    rel={"noreferrer noopener"}
+                                    onClick={() => handleIframe(work)}
                                 >
                                     Voir le site
                                 </Button>
@@ -132,6 +145,13 @@ function Works() {
                     </Grid>
                 ))}
             </Grid>
+            <Popup ref={popup}>
+                <div style={{minWidth: "80vw"}}>
+                    {"" !== iframeSrc &&
+                        <iframe src={iframeSrc} height={1200} width={1600}/>
+                    }
+                </div>
+            </Popup>
         </Container>
     )
 }

@@ -28,12 +28,28 @@ const typography = {
 const overrides = {
     MuiContainer: {
         root: {
-            backgroundColor: palette.background.default,
+            backgroundColor: "inherit",
         }
     },
     MuiDivider: {
         root: {
             margin: "16px 0"
+        }
+    },
+    MuiListItem: {
+        root: {
+            alignItems: "flex-start"
+        }
+    },
+    MuiListItemIcon: {
+        root: {
+            lineHeight: "30px",
+        }
+    },
+    MuiListItemText: {
+        root: {
+            marginBottom: 0,
+            marginTop: 0,
         }
     }
 }

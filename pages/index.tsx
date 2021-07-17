@@ -1,10 +1,10 @@
 import React from "react";
-import {Layout} from "../components/Layout";
-import {Header} from "../partials/homepage/Header";
-import {Skills} from "../partials/homepage/Skills";
-import {Works} from "../partials/homepage/Works";
-import {Background} from "../partials/homepage/Background";
-import {Training} from "../partials/homepage/Training";
+import {Layout} from "../ui/components/Layout";
+import {Header} from "../ui/partials/homepage/Header";
+import {Skills} from "../ui/partials/homepage/Skills";
+import {Works} from "../ui/partials/homepage/Works";
+import {Background} from "../ui/partials/homepage/Background";
+import {Training} from "../ui/partials/homepage/Training";
 
 function HomePage() {
     return (

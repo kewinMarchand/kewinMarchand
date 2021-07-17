@@ -4,17 +4,27 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+main {
+    background-color: inherit;
+}
+
 section {
     margin-top: 96px;
     padding-bottom: 32px;
     padding-top: 32px;
 }
 
+main > header h1 {
+    position: sticky;
+    top: 8px;
+    z-index: 1200;
+}
+
 section > header {
-    background: inherit;
     padding-bottom: 40px;
     position: sticky;
-    top: 64px;
+    top: 8px;
+    z-index: 1200;
 }
 
 footer {

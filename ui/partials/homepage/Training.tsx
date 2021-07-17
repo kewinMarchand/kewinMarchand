@@ -34,7 +34,9 @@ function Training() {
     return (
         <Container component={"section"}>
             <header>
-                <Typography variant={"h1"}>Formation</Typography>
+                <Typography variant={"h1"}>
+                    Formation
+                </Typography>
             </header>
             <List disablePadding>
                 {TRAININGS.map((training, i) => (

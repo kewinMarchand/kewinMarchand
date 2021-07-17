@@ -54,7 +54,9 @@ function Background() {
     return (
         <Container component={"section"}>
             <header>
-                <Typography variant={"h1"}>Parcours</Typography>
+                <Typography variant={"h1"}>
+                    Parcours
+                </Typography>
             </header>
             <List disablePadding>
                 {BACKGROUNDS.map((background, i) => (

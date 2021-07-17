@@ -1,5 +1,5 @@
 import React from "react";
-import {Layout} from "../components/Layout";
+import {Layout} from "../ui/components/Layout";
 import {Container} from "@material-ui/core";
 
 function About() {
