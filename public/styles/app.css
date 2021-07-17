@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -22,6 +26,7 @@ main > header h1 {
 
 section > header {
     padding-bottom: 40px;
+    pointer-events: none;
     position: sticky;
     top: 8px;
     z-index: 1200;

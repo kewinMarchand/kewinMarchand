@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useContext} from "react";
 import {
     Container,
     List,
@@ -6,31 +6,11 @@ import {
     ListItemText,
     Typography
 } from "@material-ui/core";
+import {DeveloperContext} from "../../context/DeveloperContext";
 
-type training = {
-    date: string,
-    course: string
-}
-const TRAININGS: training[] = [
-    {
-        date: "2016/2017",
-        course: "Designer web, Afpa le Pontet (Titre professionnel de niveau III)."
-    },
-    {
-        date: "2014/2015",
-        course: "Les énergies renouvelables d'aujourd'hui et de demain, IRFEDD (Attestation compétences)."
-    },
-    {
-        date: "2014",
-        course: "DAO - Professionnaliser sa pratique, GRETA (Attestation compétences)."
-    },
-    {
-        date: "1999/2005",
-        course: "Aménagement de l'espace paysager, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS)."
-    },
-]
+export function Training(): React.ReactElement {
+    const {trainings} = useContext(DeveloperContext);
 
-function Training() {
     return (
         <Container component={"section"}>
             <header>
@@ -39,7 +19,7 @@ function Training() {
                 </Typography>
             </header>
             <List disablePadding>
-                {TRAININGS.map((training, i) => (
+                {trainings.map((training, i) => (
                     <ListItem disableGutters key={i}>
                         <ListItemText
                             primary={training.date}
@@ -51,5 +31,3 @@ function Training() {
         </Container>
     )
 }
-
-export {Training}

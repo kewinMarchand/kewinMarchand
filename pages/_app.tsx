@@ -1,6 +1,6 @@
 import React from "react";
-import '../ui/styles/app.css'
+import '../public/styles/app.css'
 
-export default function MyApp({ Component, pageProps }) {
+export default function MyApp({ Component, pageProps }): React.ReactElement {
     return <Component {...pageProps} />
 }

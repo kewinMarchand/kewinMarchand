@@ -6,7 +6,7 @@ import {Works} from "../ui/partials/homepage/Works";
 import {Background} from "../ui/partials/homepage/Background";
 import {Training} from "../ui/partials/homepage/Training";
 
-function HomePage() {
+function HomePage(): React.ReactElement {
     return (
         <Layout title={"Intégrateur et Développeur Front-End"}>
             {/*Entête*/}

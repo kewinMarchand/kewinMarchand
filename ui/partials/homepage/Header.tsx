@@ -1,33 +1,34 @@
 import React, {useContext} from "react";
+import Image from "next/image";
 import {
     Container,
     Divider,
     Grid,
     Typography
 } from "@material-ui/core";
-import {DataContext} from "../../context/DataContext";
+import {DeveloperContext} from "../../context/DeveloperContext";
 
-function Header() {
-    const data = useContext(DataContext);
+export function Header(): React.ReactElement {
+    const {developer} = useContext(DeveloperContext);
 
     return (
         <Container component={"header"}>
             <Typography variant={"h1"}>
-                {data.kewinMarchand.name}
+                {developer.name}
             </Typography>
             <Grid container justifyContent={"space-between"} alignItems={"center"}>
                 <Grid item>
                     <Typography variant={"h2"} gutterBottom>
-                        {data.kewinMarchand.job}
+                        {developer.job}
                     </Typography>
                     <Typography variant={"body2"}>
-                        {data.kewinMarchand.city}
+                        {developer.city}
                     </Typography>
                 </Grid>
                 <Grid item component={"picture"}>
-                    <img
-                        src={data.kewinMarchand.profilPicture}
-                        alt={data.kewinMarchand.name}
+                    <Image
+                        src={developer.profilPicture}
+                        alt={developer.name}
                         height={200}
                         width={200}
                     />
@@ -35,10 +36,8 @@ function Header() {
             </Grid>
             <Divider/>
             <Typography>
-                {data.kewinMarchand.mission}
+                {developer.mission}
             </Typography>
         </Container>
     )
 }
-
-export {Header}

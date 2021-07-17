@@ -1,6 +1,13 @@
 import React from 'react';
 import {useMediaQuery, useTheme} from '@material-ui/core';
 
+type screenResolution = {
+    isDesktop: boolean,
+    isLaptop: boolean,
+    isTablet: boolean,
+    isMobile: boolean
+}
+
 export const UiContext = React.createContext(
     {
         screenResolution: {
@@ -8,11 +15,11 @@ export const UiContext = React.createContext(
             isLaptop: false,
             isTablet: false,
             isMobile: false
-        },
+        } as screenResolution,
     }
 );
 
-export const UiProvider = (props: {children: React.ReactElement }): React.ReactElement => {
+export const UiProvider = (props: {children: React.ReactElement | React.ReactElement[] }): React.ReactElement => {
     const theme = useTheme();
 
     const screenResolution = {

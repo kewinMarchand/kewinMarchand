@@ -2,7 +2,7 @@ import React from "react";
 import {Layout} from "../ui/components/Layout";
 import {Container} from "@material-ui/core";
 
-function About() {
+function About(): React.ReactElement {
     return (
         <>
             <Layout title={"À propos"}>
