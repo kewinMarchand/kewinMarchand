@@ -8,26 +8,22 @@ import {
     Grid,
     Typography
 } from "@material-ui/core";
-import {Popup, PopupRef} from "../../components/Popup";
 import {DeveloperContext, work} from "../../context/DeveloperContext";
 import {Section} from "../../components/Section";
 
 export function Works(): React.ReactElement {
     const {works} = useContext(DeveloperContext);
-    const [iframeSrc, setIframeSrc] = useState("")
-    const popup = useRef<PopupRef>(null);
-
-    const handleIframe = (work: work) => {
-        popup.current?.handlePopup();
-        setIframeSrc(work.link);
-    }
 
     return (
-        <Section title={"Réalisations"}>
+        <Section title={"Réalisations"} background={"white"}>
             <Grid container spacing={3}>
                 {works.map((work, i) => (
                     <Grid item key={i} xs={12} md={6} lg={3}>
-                        <Card style={{display: "flex", flexDirection: "column", height: "100%"}}>
+                        <Card
+                            square
+                            elevation={1}
+                            style={{display: "flex", flexDirection: "column", height: "100%"}}
+                        >
                             <CardHeader
                                 title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
                                 subheader={work.type}
@@ -42,8 +38,10 @@ export function Works(): React.ReactElement {
                             </CardContent>
                             <CardActions>
                                 <Button
+                                    href={work.link}
                                     title={`Voir le site ${work.name}`}
-                                    onClick={() => handleIframe(work)}
+                                    target={"_blank"}
+                                    rel={"noreferrer noopenner"}
                                 >
                                     Voir le site
                                 </Button>
@@ -52,13 +50,6 @@ export function Works(): React.ReactElement {
                     </Grid>
                 ))}
             </Grid>
-            <Popup ref={popup}>
-                <div style={{minWidth: "80vw"}}>
-                    {"" !== iframeSrc &&
-                        <iframe src={iframeSrc} height={1200} width={1600}/>
-                    }
-                </div>
-            </Popup>
         </Section>
     )
 }

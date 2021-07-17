@@ -12,10 +12,8 @@ main {
     background-color: inherit;
 }
 
-section {
-    margin-top: 96px;
-    padding-bottom: 32px;
-    padding-top: 32px;
+picture {
+    display: flex;
 }
 
 main > header h1 {
@@ -25,11 +23,7 @@ main > header h1 {
 }
 
 section > header {
-    padding-bottom: 40px;
     pointer-events: none;
-    position: sticky;
-    top: 8px;
-    z-index: 1200;
 }
 
 footer {

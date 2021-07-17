@@ -14,10 +14,15 @@ export function Background(): React.ReactElement {
 
     return (
         <Section title={"Parcours"}>
-            <List disablePadding>
+            <List dense disablePadding>
                 {backgrounds.map((background, i) => (
                     <Fragment key={i}>
-                        <ListSubheader disableGutters disableSticky>{background.categorie} :</ListSubheader>
+                        <ListSubheader
+                            disableGutters
+                            disableSticky
+                        >
+                            {background.categorie} :
+                        </ListSubheader>
                         {background.content.map((content, i) => (
                             <ListItem disableGutters key={i}>
                                 <ListItemText

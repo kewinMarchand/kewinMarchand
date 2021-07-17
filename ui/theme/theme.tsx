@@ -38,12 +38,12 @@ const overrides = {
     },
     MuiListItem: {
         root: {
-            alignItems: "flex-start"
+
         }
     },
     MuiListItemIcon: {
         root: {
-            lineHeight: "30px",
+
         }
     },
     MuiListItemText: {

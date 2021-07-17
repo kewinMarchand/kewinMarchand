@@ -16,6 +16,7 @@ export const UiContext = React.createContext(
             isTablet: false,
             isMobile: false
         } as screenResolution,
+        isAboveTablet: false,
     }
 );
 
@@ -29,10 +30,13 @@ export const UiProvider = (props: {children: React.ReactElement | React.ReactEle
         isMobile: useMediaQuery(theme.breakpoints.only('xs')),
     }
 
+    const isAboveTablet = screenResolution.isLaptop || screenResolution.isDesktop;
+
     return (
         <UiContext.Provider
             value={{
                 screenResolution: screenResolution,
+                isAboveTablet: isAboveTablet,
             }}
         >
             {props.children}

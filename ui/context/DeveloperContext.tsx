@@ -9,10 +9,10 @@ type developer = {
     job: string,
     city: string,
     mission: string,
+    email: string,
     getAge(birthdate: string): string;
 }
 
-// @ts-ignore
 const DEVELOPER: developer = {
     profilPicture: PROFIL_PICTURE,
     name: "Kewin Marchand",
@@ -20,6 +20,7 @@ const DEVELOPER: developer = {
     job: "Intégrateur et Développeur Front-End",
     city: "Vauvenargues, Provence-Alpes-Côte d’Azur, France",
     mission: "En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale.",
+    email: "kewin.marchand@gmail.com",
     getAge: dateHelper.getAge,
 }
 

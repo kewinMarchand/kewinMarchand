@@ -1,27 +1,43 @@
 import React, {useContext} from "react";
 import Image from "next/image";
 import {
+    Container,
     Divider,
     Grid,
     Typography
 } from "@material-ui/core";
 import {DeveloperContext} from "../../context/DeveloperContext";
-import {Section} from "../../components/Section";
+import {UiContext} from "../../context/UiContext";
 
 export function Header(): React.ReactElement {
     const {developer} = useContext(DeveloperContext);
+    const {isAboveTablet} = useContext(UiContext);
 
     return (
-        <Section title={developer.name}>
-            <Grid container justifyContent={"space-between"} alignItems={"center"}>
+        <Container component={"header"} style={{paddingBottom: 96}}>
+            <Typography
+                variant={"h1"}
+                gutterBottom
+            >
+                {developer.name}
+            </Typography>
+            <Grid
+                container
+                justifyContent={"space-between"}
+                alignItems={isAboveTablet ? "center" : "flex-start"}
+                direction={isAboveTablet ? "row" : "column-reverse"}
+            >
                 <Grid item>
-                    <Typography variant={"h2"} gutterBottom>
+                    <Typography
+                        variant={"h2"}
+                        gutterBottom
+                    >
                         {developer.job}
                     </Typography>
-                    <Typography variant={"body2"} gutterBottom>
+                    <Typography gutterBottom>
                         {developer.getAge(developer.birthdate)}
                     </Typography>
-                    <Typography variant={"body2"}>
+                    <Typography gutterBottom>
                         {developer.city}
                     </Typography>
                 </Grid>
@@ -38,6 +54,6 @@ export function Header(): React.ReactElement {
             <Typography>
                 {developer.mission}
             </Typography>
-        </Section>
+        </Container>
     )
 }

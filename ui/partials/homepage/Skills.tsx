@@ -14,9 +14,13 @@ export function Skills(): React.ReactElement {
 
     return (
         <Section title={"Compétences"}>
-            <List disablePadding>
+            <List dense disablePadding>
                 {skills.map((skill, i) => (
-                    <ListItem disableGutters key={i}>
+                    <ListItem
+                        dense
+                        disableGutters
+                        key={i}
+                    >
                         <ListItemIcon>
                             <CheckBoxRounded color={"primary"}/>
                         </ListItemIcon>

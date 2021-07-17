@@ -12,9 +12,9 @@ export function Training(): React.ReactElement {
 
     return (
         <Section title={"Formation"}>
-            <List disablePadding>
+            <List dense disablePadding>
                 {trainings.map((training, i) => (
-                    <ListItem disableGutters key={i}>
+                    <ListItem dense disableGutters key={i}>
                         <ListItemText
                             primary={training.date}
                             secondary={training.course}
