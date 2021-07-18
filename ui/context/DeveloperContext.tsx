@@ -27,7 +27,7 @@ const DEVELOPER: developer = {
 const SKILLS: string[] = [
     "Utilisations quotidienne des principaux frameworks JS, principalement React mais aussi Vue, Svelte, Angular. 💪💪💪",
     "Recherche et mise en place de packages NPM, veille portant sur les nouveaux plugins et frameworks ui. 💪💪💪",
-    "HTML, TWIG. 💪💪💪",
+    "HTML, Twig. 💪💪💪",
     "CSS, SASS, JSS. 💪💪💪",
     "Vanilla JS, Typescript. 💪💪💪",
     "Sites responsives, mobile first. 💪💪💪",
@@ -45,7 +45,8 @@ export type work = {
     owner?: string,
     link: string,
     description: string,
-    mission: string
+    mission: string,
+    technos: string[]
 }
 
 const WORKS: work[] = [
@@ -55,7 +56,8 @@ const WORKS: work[] = [
         owner: "groupe Renault",
         link: "https://www.renault-retail-group.fr/",
         description: "Achat et réservation de véhicules et accessoires automobile.",
-        mission: "Maintenance et migration des anciennes pages, intégration et développement React."
+        mission: "Maintenance et migration des anciennes pages, intégration et développement.",
+        technos: ["Angular", "React", "SASS", "Redux"],
     },
     {
         name: "RRG RH",
@@ -63,7 +65,8 @@ const WORKS: work[] = [
         owner: "groupe Renault",
         link: "https://jobsfrance.renaultretailgroup.com/",
         description: "Site dédié à la consultation des annonces d'emplois de la société et aux dépots des candidatures.",
-        mission: "Intégration et développement TWIG, SASS et Vue JS from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["Twig", "SASS", "Vue"],
     },
     {
         name: "Sodicam²",
@@ -71,63 +74,72 @@ const WORKS: work[] = [
         owner: "groupe Renault",
         link: "https://sodicam2.fr/",
         description: "Société de Distribution pour la Chimie, l'Automobile et la Mécanique chargée de la commercialisation et de l'animation des pièces, accessoires et services après-vente automobile.",
-        mission: "Intégration et développement TWIG, SASS et Vanilla JS from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["Twig", "SASS", "Vanilla JS"],
     },
     {
         name: "Facets",
         type: "Site vitrine multilingue",
         link: "https://facets.fr/fr",
         description: "Agence événementielle.",
-        mission: "Intégration et développement Next, React, Framer from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["Next", "React", "Framer"],
     },
     {
         name: "Oreca events",
         type: "Site vitrine multilingue",
         link: "https://oreca-events.com/fr",
         description: "Agence expérientielle automobile.",
-        mission: "Intégration et développement Next, React, Framer from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["Next", "React", "Framer"],
     },
     {
         name: "Datagora",
-        type: "Applications web",
+        type: "Application web",
         link: "https://datagora.fr/",
         description: "Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.",
-        mission: "Intégration et développement React from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["React"],
     },
     {
         name: "Datagora",
-        type: "Applications mobile",
+        type: "Application mobile",
         link: "https://play.google.com/store/apps/details?id=com.datagora&hl=en_SG&gl=US",
         description: "",
-        mission: "Intégration et développement React native from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["React native"],
     },
     {
         name: "Dépamoto",
         type: "Site e-commerce",
         link: "https://depamoto.com/fr-FR/home",
         description: "Vente de moto et pièces détrachées en ligne.",
-        mission: "Participation à l'intégration du site TWIG et Vue js."
+        mission: "Participation à l'intégration du site.",
+        technos: ["Twig", "Vue"],
     },
     {
         name: "AD13",
         type: "Site vitrine",
         link: "https://comites-feux.com/",
         description: "Association Départementale des Comités Communaux Feux de Forêts et des Réserves Communales de Sécurité Civile des Bouches du Rhône.",
-        mission: "Intégration et développement React et React admin from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["React", "React admin"],
     },
     {
         name: "Les soirées de St Marc",
         type: "Site vitrine",
         link: "https://lessoireesdesaintmarc.fr/",
         description: "Association loi 1901 organisatrice d'un festival en région Aixoise.",
-        mission: "Intégration et développement HTML, CSS et Vanilla JS from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["HTML", "CSS", "Vanilla JS"],
     },
     {
         name: "Kering Foundation",
         type: "Site vitrine",
         link: "https://www.keringfoundation.org/en/",
         description: "Fondation en vue de soutenir les femmes touchées par la violence.",
-        mission: "Intégration et développement HTML, CSS et Vanilla JS from scratch."
+        mission: "Intégration et développement from scratch.",
+        technos: ["HTML", "CSS", "Vanilla JS"],
     },
 ]
 

@@ -37,9 +37,14 @@ export function Header(): React.ReactElement {
                     <Typography gutterBottom>
                         {developer.getAge(developer.birthdate)}
                     </Typography>
-                    <Typography gutterBottom>
+                    <a
+                        href={"https://goo.gl/maps/C3RDSNnbZbZSxzzQ8"}
+                        title={`Me situer sur google map`}
+                        target={"_blank"}
+                        rel={"noreferrer noopenner"}
+                    >
                         {developer.city}
-                    </Typography>
+                    </a>
                 </Grid>
                 <Grid item component={"picture"}>
                     <Image

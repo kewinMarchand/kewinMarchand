@@ -13,7 +13,7 @@ export function Background(): React.ReactElement {
     const {backgrounds} = useContext(DeveloperContext);
 
     return (
-        <Section title={"Parcours"}>
+        <Section title={"Parcours"} background={"white"}>
             <List dense disablePadding>
                 {backgrounds.map((background, i) => (
                     <Fragment key={i}>

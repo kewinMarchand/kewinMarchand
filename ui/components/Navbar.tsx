@@ -6,7 +6,7 @@ export function Navbar(): React.ReactElement {
     return (
         <AppBar position={'sticky'} style={{marginBottom: 40}}>
             <Container component={"nav"}>
-                <Toolbar style={{justifyContent: "flex-end"}}>
+                <Toolbar disableGutters style={{justifyContent: "flex-end"}}>
                     <Link href={"/"}>
                         <a style={{padding: 8, cursor: "pointer"}}>
                             <Typography color={'inherit'}>
