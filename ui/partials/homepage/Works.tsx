@@ -1,42 +1,44 @@
-import React, {useContext} from "react";
+import React, { useContext } from "react";
 import {
-    Button,
-    Card,
-    CardActions,
-    CardContent,
-    CardHeader,
-    Grid,
-    Tooltip,
-    Typography
+  Button,
+  Card,
+  CardActions,
+  CardContent,
+  CardHeader,
+  Grid,
+  Typography
 } from "@material-ui/core";
-import {DeveloperContext} from "../../context/DeveloperContext";
-import {Section} from "../../components/Section";
+import { DeveloperContext } from "../../contexts/DeveloperContext";
+import { Section } from "../../components/Section";
 
-export function Works(): React.ReactElement {
-    const {works} = useContext(DeveloperContext);
+export function Works (): React.ReactElement {
+  const { works } = useContext(DeveloperContext);
 
-    return (
+  return (
         <Section title={"Réalisations"}>
             <Grid container spacing={3}>
                 {works.map((work, i) => (
                     <Grid item key={i} xs={12} md={6} lg={4}>
                         <Card
                             square
-                            elevation={0}
-                            style={{display: "flex", flexDirection: "column", height: "100%"}}
+                            elevation={1}
+                            style={{ display: "flex", flexDirection: "column", height: "100%" }}
                         >
-                            <Tooltip title={work.description} placement={"top"} arrow>
-                                <CardHeader
-                                    title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
-                                    subheader={work.type}
-                                />
-                            </Tooltip>
-                            <CardContent style={{flexGrow: 1}}>
+
+                            <CardHeader
+                                title={`${work.name}${work.owner ? ", " + work.owner : ""}`}
+                                subheader={work.type}
+                            />
+
+                            <CardContent style={{ flexGrow: 1 }}>
+                                <Typography variant={"caption"} gutterBottom>
+                                    {work.description}
+                                </Typography>
                                 <Typography gutterBottom>
                                     {work.mission}
                                 </Typography>
                                 <Typography variant={"caption"}>
-                                    {work.technos.map(((techno, i) => `${techno}${i !== work.technos.length - 1 ? "," : ""} `))}
+                                    {work.technos.map((techno, i) => `${techno}${i !== work.technos.length - 1 ? "," : ""} `)}
                                 </Typography>
                             </CardContent>
                             <CardActions>
@@ -55,5 +57,5 @@ export function Works(): React.ReactElement {
                 ))}
             </Grid>
         </Section>
-    )
+  );
 }

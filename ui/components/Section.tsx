@@ -1,39 +1,39 @@
 import React from "react";
 import {
-    AppBar,
-    Container,
-    Toolbar,
-    Typography
+  AppBar, Card,
+  CardContent,
+  Toolbar,
+  Typography
 } from "@material-ui/core";
 
 type section = {
     children: React.ReactElement | React.ReactElement[],
-    background?: string,
     title: string
 }
 
-export function Section({children, background = "transparent", title}: section): React.ReactElement {
-
-    return (
-        <section style={{background}}>
-            <Container
-                style={{paddingBottom: 96, paddingTop: 32}}
+export function Section ({ children, title }: section): React.ReactElement {
+  return (
+        <Card
+            square
+            component={"section"}
+            style={{ marginBottom: 64, overflow: "visible" }}
+        >
+            <AppBar
+                position={"sticky"}
+                color={"transparent"}
+                elevation={0}
             >
-                <AppBar
-                    position={"sticky"}
-                    color={"transparent"}
-                    elevation={0}
-                >
-                    <Toolbar disableGutters>
-                        <Typography variant={"h1"}>
-                            {title}
-                        </Typography>
-                    </Toolbar>
-                </AppBar>
-                <div style={{marginTop: 24}}>
+                <Toolbar disableGutters style={{ paddingLeft: 16 }}>
+                    <Typography variant={"h1"}>
+                        {title}
+                    </Typography>
+                </Toolbar>
+            </AppBar>
+            <CardContent>
+                <div style={{ marginTop: 24 }}>
                     {children}
                 </div>
-            </Container>
-        </section>
-    )
+            </CardContent>
+        </Card>
+  );
 }

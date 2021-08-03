@@ -1,6 +1,6 @@
-import React, {useContext, useEffect, useState} from "react";
+import React, { useContext, useEffect, useState } from "react";
 import Head from "next/head";
-import {DeveloperContext} from "../../context/DeveloperContext";
+import { DeveloperContext } from "../../contexts/DeveloperContext";
 
 type siteInfos = {
     title: string,
@@ -12,24 +12,24 @@ type siteInfos = {
     color: string,
 }
 
-export function AppHead({ title }: {title: string}): React.ReactElement {
-    const {developer} = useContext(DeveloperContext);
-    const [site, setSite] = useState<siteInfos>();
+export function AppHead ({ title }: {title: string}): React.ReactElement {
+  const { developer } = useContext(DeveloperContext);
+  const [site, setSite] = useState<siteInfos>();
 
-    useEffect(() => {
-        const siteInfos: siteInfos = {
-            title: `${developer.name} - ${title}`,
-            name: `Portfolio de ${developer.name}`,
-            description: `${developer.name} ${developer.job} ${developer.mission}`,
-            locale: "fr",
-            image: developer.profilPicture as unknown as string,
-            url: "https://kewin-marchand.netlify.app/",
-            color: "#ffffff",
-        }
-        setSite(siteInfos);
-    }, [developer])
+  useEffect(() => {
+    const siteInfos: siteInfos = {
+      title: `${developer.name} - ${title}`,
+      name: `Portfolio de ${developer.name}`,
+      description: `${developer.name} ${developer.job} ${developer.mission}`,
+      locale: "fr",
+      image: developer.profilPicture as unknown as string,
+      url: "https://kewin-marchand.netlify.app/",
+      color: "#ffffff"
+    };
+    setSite(siteInfos);
+  }, [developer, title]);
 
-    return (
+  return (
         <Head>
             <meta charSet="utf-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0, maximum-scale=5"/>
@@ -62,5 +62,5 @@ export function AppHead({ title }: {title: string}): React.ReactElement {
 
             <link rel="image_src" href={site?.image}/>
         </Head>
-    )
+  );
 }

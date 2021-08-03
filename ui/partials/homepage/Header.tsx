@@ -1,64 +1,61 @@
-import React, {useContext} from "react";
-import Image from "next/image";
+import React, { useContext } from "react";
 import {
-    Container,
-    Divider,
-    Grid,
-    Typography
+  AppBar,
+  Card,
+  CardContent,
+  Divider,
+  Toolbar,
+  Typography
 } from "@material-ui/core";
-import {DeveloperContext} from "../../context/DeveloperContext";
-import {UiContext} from "../../context/UiContext";
+import { DeveloperContext } from "../../contexts/DeveloperContext";
 
-export function Header(): React.ReactElement {
-    const {developer} = useContext(DeveloperContext);
-    const {isAboveTablet} = useContext(UiContext);
+export function Header (): React.ReactElement {
+  const { developer } = useContext(DeveloperContext);
 
-    return (
-        <Container component={"header"} style={{paddingBottom: 96}}>
-            <Typography
-                variant={"h1"}
-                gutterBottom
+  return (
+        <Card
+            square
+            component={"header"}
+            style={{ marginBottom: 64, overflow: "visible" }}
+        >
+            <AppBar
+                position={"sticky"}
+                color={"transparent"}
+                elevation={0}
             >
-                {developer.name}
-            </Typography>
-            <Grid
-                container
-                justifyContent={"space-between"}
-                alignItems={isAboveTablet ? "center" : "flex-start"}
-                direction={isAboveTablet ? "row" : "column-reverse"}
-            >
-                <Grid item>
+                <Toolbar disableGutters style={{ paddingLeft: 16 }}>
                     <Typography
-                        variant={"h2"}
+                        variant={"h1"}
                         gutterBottom
                     >
-                        {developer.job}
+                        {developer.name}
                     </Typography>
-                    <Typography gutterBottom>
-                        {developer.getAge(developer.birthdate)}
-                    </Typography>
-                    <a
-                        href={"https://goo.gl/maps/C3RDSNnbZbZSxzzQ8"}
-                        title={`Me situer sur google map`}
-                        target={"_blank"}
-                        rel={"noreferrer noopenner"}
-                    >
-                        {developer.city}
-                    </a>
-                </Grid>
-                <Grid item component={"picture"}>
-                    <Image
-                        src={developer.profilPicture}
-                        alt={developer.name}
-                        height={200}
-                        width={200}
-                    />
-                </Grid>
-            </Grid>
-            <Divider/>
-            <Typography>
-                {developer.mission}
-            </Typography>
-        </Container>
-    )
+                </Toolbar>
+            </AppBar>
+            <CardContent>
+                <Typography
+                    variant={"h2"}
+                    gutterBottom
+                >
+                    {developer.job}
+                </Typography>
+                <Typography gutterBottom>
+                    {developer.getAge(developer.birthdate)}
+                </Typography>
+                <a
+                    href={"https://goo.gl/maps/C3RDSNnbZbZSxzzQ8"}
+                    title={"Me situer sur google map"}
+                    target={"_blank"}
+                    rel={"noreferrer noopenner"}
+                >
+                    {developer.city}
+                </a>
+
+                <Divider/>
+                <Typography>
+                    {developer.mission}
+                </Typography>
+            </CardContent>
+        </Card>
+  );
 }

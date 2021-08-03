@@ -1,16 +1,16 @@
-import React, {useContext} from "react";
+import React, { useContext } from "react";
 import {
-    List,
-    ListItem,
-    ListItemText,
+  List,
+  ListItem,
+  ListItemText
 } from "@material-ui/core";
-import {DeveloperContext} from "../../context/DeveloperContext";
-import {Section} from "../../components/Section";
+import { DeveloperContext } from "../../contexts/DeveloperContext";
+import { Section } from "../../components/Section";
 
-export function Training(): React.ReactElement {
-    const {trainings} = useContext(DeveloperContext);
+export function Training (): React.ReactElement {
+  const { trainings } = useContext(DeveloperContext);
 
-    return (
+  return (
         <Section title={"Formation"}>
             <List dense disablePadding>
                 {trainings.map((training, i) => (
@@ -23,5 +23,5 @@ export function Training(): React.ReactElement {
                 ))}
             </List>
         </Section>
-    )
+  );
 }
