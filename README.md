@@ -39,7 +39,7 @@ dernières années — pas une liste de technologies croisées.
 | **TypeScript** | `strict` sans `any`, types générés depuis un schéma OpenAPI plutôt qu'écrits à la main, unions plutôt qu'enums |
 | **Vue.js, Svelte** | Projets livrés en production sur les deux |
 | **CSS, Sass, MUI, CSS-in-JS** | Mobile-first, intégration pixel-perfect depuis Figma sur tous les points de rupture, thème multi-marques |
-| **Design system** | Conception et maintenance d'un système de **41 composants** encapsulant la librairie tierce, pour isoler l'application de ses changements d'API |
+| **Design system** | Conception et maintenance d'un système d'**une quarantaine de composants** encapsulant la librairie tierce, pour isoler l'application de ses changements d'API |
 | **État & données** | Redux Toolkit, React Query, `redux-persist`, client typé `openapi-fetch` |
 | **HTML, Twig, Stimulus, Symfony UX** | Intégration côté Symfony |
 | **React Native** | Une application mobile livrée et publiée sur le Play Store |
@@ -57,7 +57,7 @@ dernières années — pas une liste de technologies croisées.
 
 | | |
 |---|---|
-| **Tests end-to-end** | Conception de l'architecture de test autant que son écriture : **261 scénarios**, **2 700 pas Gherkin**, 148 définitions de pas minces, 12 modules d'actions typées, stack de test isolée reconstruite à chaque exécution, couverture des rendus conditionnels en présence **et** en absence |
+| **Tests end-to-end** | Conception de l'architecture de test autant que son écriture : **plus de 250 scénarios**, **quelques milliers de pas Gherkin**, près de 150 définitions de pas minces, une douzaine de modules d'actions typées, stack de test isolée reconstruite à chaque exécution, couverture des rendus conditionnels en présence **et** en absence |
 | **CodeceptJS, Gherkin, Playwright** | |
 | **Core Web Vitals** | LCP, CLS, INP : mesure, arbitrage, chargement à la demande des librairies tierces, audits Lighthouse automatisés à chaque livraison |
 | **Recette technique** | Recettes priorisées en MoSCoW, checklists de mise en production renseignées |
@@ -68,10 +68,10 @@ dernières années — pas une liste de technologies croisées.
 
 | | |
 |---|---|
-| **Revue de code** | **983 revues** de pull requests et merge requests sur **29 développeurs**, dont des prestataires externes et des développeurs côté client |
-| **Décisions d'architecture** | **31 ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
-| **Documentation technique** | 58 documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
-| **Git** | ~1 300 pull requests et ~1 150 merge requests créées, GitHub et GitLab |
+| **Revue de code** | **Près d'un millier de revues** de pull requests et de merge requests, sur **une trentaine de développeurs** — dont des prestataires externes et des développeurs côté client |
+| **Décisions d'architecture** | **Une trentaine d'ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
+| **Documentation technique** | une soixantaine de documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
+| **Git** | plus de 1 200 pull requests et autant de merge requests créées, GitHub et GitLab |
 | **Environnement** | Docker, Docker Compose, Makefile de pilotage, CI (lint, contrôle de types, tests), Sentry |
 | **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
 | **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
@@ -98,7 +98,7 @@ Modélisation de bases de données et SQL, administration système, développeme
 
 ## Réalisations
 
-Une quarantaine de projets clients, **1 469 tickets** traités sur **37 comptes** entre 2018 et 2026.
+Une quarantaine de projets clients, **près de 1 500 tickets** traités sur **une trentaine de comptes** entre 2018 et 2026.
 Sélection par nature de projet.
 
 ### Plateformes e-commerce et configurateurs
@@ -110,10 +110,10 @@ Sélection par nature de projet.
 > localisateur de concessions.
 >> **Refonte complète** de l'application : suppression d'Angular, réécriture des stores et
 >> contrôleurs JavaScript, migration vers **Next.js App Router / React 19 / TypeScript** adossé à
->> une API Symfony / API Platform. Architecture en **20 domaines fonctionnels** et 18 briques
->> transverses, design system de 41 composants, thème multi-marques, suite de 261 scénarios de
+>> une API Symfony / API Platform. Architecture en **une vingtaine de domaines fonctionnels** et autant de briques
+>> transverses, design system d'une quarantaine de composants, thème multi-marques, suite de plus de 250 scénarios de
 >> tests end-to-end, conformité RGAA et suivi des Core Web Vitals à chaque livraison.
->> **Premier contributeur du dépôt** — 505 des 2 255 commits.
+>> **Premier contributeur du dépôt**, avec un peu plus d'un commit sur cinq.
 
 **[Sodicam²](https://sodicam2.fr/)** — Groupe Renault
 > Distribution de pièces, accessoires et services après-vente automobile.
@@ -189,7 +189,8 @@ Sélection par nature de projet.
   le développement sur-mesure. CDD puis CDI ; statut ETAM puis cadre.
 - **09/2017 → 08/2018** — **Formateur infographiste multimédia** *(AFPA, centres du Pontet et de
   Salon-de-Provence)*. Animation et suivi des stagiaires sur la formation certifiante « Web
-  designer » — 1 259 heures, 8 modules, 66 séances : intégration web, CMS, design graphique.
+  designer » — environ 1 260 heures, 8 modules, une soixantaine de séances : intégration web,
+  CMS, design graphique.
   C'est la formation que j'avais suivie et validée l'année précédente.
 - **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
 
@@ -207,7 +208,7 @@ Sélection par nature de projet.
 ## Formation
 
 - **2016-2017** — **Designer web**, AFPA Le Pontet. Titre professionnel de niveau III, **niveau 5
-  du cadre européen**, 1 259 heures. Obtenu le 11/05/2017. Modules : design graphique d'outils de
+  du cadre européen**, environ 1 260 heures. Obtenu le 11/05/2017. Modules : design graphique d'outils de
   communication numérique, intégration et publication de pages web, contenus interactifs et
   dynamiques, sites avec CMS.
 - **2014-2015** — *Les énergies renouvelables d'aujourd'hui et de demain*, IRFEDD (400 heures).
