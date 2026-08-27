@@ -1,22 +1,33 @@
 <img alt="Kewin Marchand" align="right" width="200" height="200" src="public/images/me.jpg">
 
 # Kewin Marchand
-## Développeur front-end · Accessibilité numérique & qualité web
+## Développeur front-end React / TypeScript
+### Accessibilité numérique & qualité web
 
-### Aix-en-Provence, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+#### Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
 
-Huit ans de développement front-end en agence indépendante, sur une quarantaine de projets clients.
+Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**. Refonte d'une
+plateforme e-commerce à fort trafic (Retail Renault Group) en Next.js / React / TypeScript :
+architecture modulaire, design system de plus de 40 composants, suites de tests end-to-end.
+Habitué à cadrer avec le produit, le design et la QA avant d'écrire la première ligne.
+
 Spécialisé dans l'**accessibilité numérique (RGAA)**, la **qualité web** et les **tests
-automatisés** — les endroits où le travail se mesure et s'engage.
-
-Reconverti du paysagisme au développement web en 2017, après un titre professionnel Designer web
-que je suis revenu enseigner à l'AFPA l'année suivante.
+automatisés**. Reconverti du paysagisme au développement web en 2017, après un titre professionnel
+Designer web que je suis revenu enseigner à l'AFPA l'année suivante.
 
 ---
 
 ## Compétences
 
-Les niveaux ci-dessous décrivent une pratique effective, mesurée sur la production réelle des huit
+| | |
+|---|---|
+| **Langages** | TypeScript · JavaScript / ES6+ · HTML5 · CSS3 / SCSS |
+| **Frameworks & bibliothèques** | React · Next.js · Redux Toolkit · React Query · GraphQL · MUI · Tailwind · Vue 3 / Nuxt · Svelte |
+| **Architecture & qualité** | Micro-frontends · Design system · Rendu serveur (SSR / RSC) · Tests e2e (CodeceptJS) · Revue de code · WCAG / RGAA · Core Web Vitals · Lighthouse |
+| **Outils & back-end** | Git · Docker · Node.js · Figma · Symfony / API Platform |
+| **Méthodes** | Agile / Scrum · Accompagnement d'équipe · Développement assisté par IA (Claude Code) |
+
+Le détail ci-dessous décrit une pratique effective, mesurée sur la production réelle des huit
 dernières années — pas une liste de technologies croisées.
 
 ### Front-end — cœur de métier
@@ -65,10 +76,23 @@ dernières années — pas une liste de technologies croisées.
 | **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
 | **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
 
+### Développement assisté par IA
+
+Pratique quotidienne de **Claude Code**, outillée plutôt qu'improvisée :
+
+| | |
+|---|---|
+| **Contexte projet versionné** | Stack, conventions et décisions d'architecture écrites dans le dépôt et chargées à chaque session — l'assistant travaille contre la documentation du projet, pas contre des suppositions |
+| **Agents dédiés** | Un agent d'implémentation qui cadre contre la doc et les ADR avant d'écrire, un agent de relecture en lecture seule, un agent de recette qui joue la suite end-to-end et interprète les sorties |
+| **Skills et commandes** | Automatisation des tâches récurrentes du projet |
+| **Hooks de contrôle** | Vérifications avant commit, pour que rien ne parte sans lint, contrôle de types et tests |
+
+L'intérêt n'est pas d'écrire plus de code, c'est d'en **relire et d'en vérifier davantage** : la
+revue, les tests et la conformité sont les endroits où le gain est réel.
+
 ### Ce que je ne fais pas
 
-Modélisation de bases de données et SQL, administration système, développement back-end. Je préfère
-le dire que le laisser découvrir.
+Modélisation de bases de données et SQL, administration système, développement back-end.
 
 ---
 
@@ -161,30 +185,38 @@ Sélection par nature de projet.
 ### 💻 Développement web
 
 - **08/2018 → 2026** — **Développeur front-end**, en charge de la revue du code de l'équipe et des
-  prestataires *(Purjus Communication, Vauvenargues)*. CDD puis CDI ; statut ETAM puis cadre.
-- **09/2017 → 08/2018** — **Formateur infographiste en multimédia** *(AFPA Avignon Le Pontet)*.
-  Animation et suivi des stagiaires sur la formation qualifiante Designer web — 1 259 heures,
-  8 modules, 66 séances — celle-là même que j'avais suivie et validée l'année précédente.
-- **05/2017 → 09/2017** — **Intégrateur web** *(agence Hors Pistes, et freelance)*.
+  prestataires *(PURJUS Communication, Vauvenargues)*. Agence digitale indépendante spécialisée dans
+  le développement sur-mesure. CDD puis CDI ; statut ETAM puis cadre.
+- **09/2017 → 08/2018** — **Formateur infographiste multimédia** *(AFPA, centres du Pontet et de
+  Salon-de-Provence)*. Animation et suivi des stagiaires sur la formation certifiante « Web
+  designer » — 1 259 heures, 8 modules, 66 séances : intégration web, CMS, design graphique.
+  C'est la formation que j'avais suivie et validée l'année précédente.
+- **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
 
 ### 🌳 Paysagisme
 
-- **04/2015 → 05/2017** — **Infographiste paysager** *(Star's Jardin, Thibaud de Beschart)*.
-  Conception et dessin de projets d'aménagement — c'est par là que le métier du numérique a commencé.
-- **05/2005 → 03/2013** — **Ouvrier paysagiste qualifié** *(indépendant, ManieBat, Jardins Sestian)*.
-  Création et entretien d'espaces verts, lecture de plans, chiffrage de chantier.
-
----
+- **09/2015 → 01/2017** — **Graphiste, dessin de plans** *(Star's Jardin)*. Conception et dessin de
+  projets d'aménagement — c'est par là que le métier du numérique a commencé.
+- **05/2015 → 08/2015** — **Vendeur conseil jardinerie** *(Botanic)*.
+- **10/2011 → 03/2013** — **Ouvrier paysagiste** *(Les Jardins Sestian)*.
+- **07/2010 → 03/2011** — **Ouvrier paysagiste** *(Maniebat)*.
+- **2005 → 06/2010** — **Jardinier-paysagiste** *(particuliers employeurs, CESU)*.
+- **09/1999 → 06/2005** — **Apprenti paysagiste** *(Jardin Vert, Mondouzil)*, pendant le BEPA, le
+  Bac professionnel et le BTSA.
 
 ## Formation
 
-- **2016-2017** — **Designer web**, AFPA Le Pontet. Titre professionnel de **niveau 5 européen**
-  (ex-niveau III), 1 259 heures. Obtenu le 11/05/2017.
+- **2016-2017** — **Designer web**, AFPA Le Pontet. Titre professionnel de niveau III, **niveau 5
+  du cadre européen**, 1 259 heures. Obtenu le 11/05/2017. Modules : design graphique d'outils de
+  communication numérique, intégration et publication de pages web, contenus interactifs et
+  dynamiques, sites avec CMS.
 - **2014-2015** — *Les énergies renouvelables d'aujourd'hui et de demain*, IRFEDD (400 heures).
-- **2014** — *DAO, professionnaliser sa pratique*, GRETA.
-- **1999-2005** — **Aménagement de l'espace paysager**, CFPPA Auzeville-Tolosane :
-  **BEPA** Travaux paysagers, **Bac professionnel** Aménagements paysagers, **BTSA** Aménagement de
-  l'espace paysager (en apprentissage).
+- **2014** — **Dessin assisté par ordinateur (DAO)**, GRETA — certificat de compétences.
+- **2003-2005** — **BTSA Aménagement de l'espace paysager**, en apprentissage — CFPPA / EPL
+  agricole d'Auzeville-Tolosane (31).
+- **2001-2003** — **Baccalauréat professionnel Aménagements paysagers**, en apprentissage — même
+  établissement.
+- **1999-2001** — **BEPA Travaux paysagers**, en apprentissage — même établissement.
 
 ### Autoformation continue
 
@@ -195,17 +227,24 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
-## Langues
+## Distinctions
 
-- **Français** — langue maternelle
-- **Anglais** — lecture technique courante, échanges écrits. Pas d'animation de réunion en anglais.
-- **Castillan** — notions scolaires
+- **2005** — **Prix de l'apprentissage Midi-Pyrénées**, Conseil général de Midi-Pyrénées et CFPPA
+  d'Auzeville-Tolosane, pour l'apprentissage effectué chez Jardin Vert (Mondouzil, 31).
 
 ---
 
-## Centres d'intérêt
+## Langues
 
-Programmation · Botanique · Lecture
+- **Français** — langue maternelle
+- **Anglais** — lecture de documentation technique, pas de conversation
+- **Espagnol** — intermédiaire
+
+---
+
+## Divers
+
+Permis B · Passionné par la botanique
 
 ---
 
