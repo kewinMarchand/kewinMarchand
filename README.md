@@ -1,138 +1,214 @@
 <img alt="Kewin Marchand" align="right" width="200" height="200" src="public/images/me.jpg">
 
-# Kewin Marchand 
-## Intégrateur et Développeur Front-End
-### En charge du développement et de l'intégration des projets web au sein de Purjus Communication, agence de communication globale.
+# Kewin Marchand
+## Développeur front-end · Accessibilité numérique & qualité web
 
-#### Vauvenargues, Provence-Alpes-Côte d’Azur, France 
+### Aix-en-Provence, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+
+Huit ans de développement front-end en agence indépendante, sur une quarantaine de projets clients.
+Spécialisé dans l'**accessibilité numérique (RGAA)**, la **qualité web** et les **tests
+automatisés** — les endroits où le travail se mesure et s'engage.
+
+Reconverti du paysagisme au développement web en 2017, après un titre professionnel Designer web
+que je suis revenu enseigner à l'AFPA l'année suivante.
 
 ---
 
 ## Compétences
 
-- [x] Utilisations quotidienne des principaux frameworks JS, principalement *React* mais aussi Vue, Svelte, Angular. 💪💪💪
-- [x] Recherche et mise en place de packages *NPM*, veille portant sur les nouveaux plugins et frameworks Ui. 💪💪💪
-- [x] *HTML*, *TWIG*. 💪💪💪
-- [x] *CSS*, SASS, JSS. 💪💪💪
-- [x] *Vanilla JS*, *Typescript*. 💪💪💪
-- [x] Sites *responsives*, *mobile first*. 💪💪💪
-- [x] Animations CSS, *SVG*, React. 💪💪💪
-- [x] Code review. 💪💪💪
-- [x] Attention portée aux problématiques liées à l'*accessibilité* et à la *RGPD*. 💪💪
-- [x] Ecriture de fonctions de tests unitaires, *CodeceptJs*. 💪
-- [x] Applications mobile *React native*. 💪
-- [x] Environnement: Docker, Symfony, Sonata, React admin, Node, Next, Redux... 💪
+Les niveaux ci-dessous décrivent une pratique effective, mesurée sur la production réelle des huit
+dernières années — pas une liste de technologies croisées.
+
+### Front-end — cœur de métier
+
+| | |
+|---|---|
+| **React** | Pratique quotidienne depuis 2018. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
+| **Next.js** | App Router, Server Components, frontière serveur/client, stratégies de cache et de revalidation, `next/image`, `next/font` |
+| **TypeScript** | `strict` sans `any`, types générés depuis un schéma OpenAPI plutôt qu'écrits à la main, unions plutôt qu'enums |
+| **Vue.js, Svelte** | Projets livrés en production sur les deux |
+| **CSS, Sass, MUI, CSS-in-JS** | Mobile-first, intégration pixel-perfect depuis Figma sur tous les points de rupture, thème multi-marques |
+| **Design system** | Conception et maintenance d'un système de **41 composants** encapsulant la librairie tierce, pour isoler l'application de ses changements d'API |
+| **État & données** | Redux Toolkit, React Query, `redux-persist`, client typé `openapi-fetch` |
+| **HTML, Twig, Stimulus, Symfony UX** | Intégration côté Symfony |
+| **React Native** | Une application mobile livrée et publiée sur le Play Store |
+
+### Accessibilité numérique — spécialité
+
+| | |
+|---|---|
+| **RGAA 4.1** | **Quatre audits livrés**, dont un **audit complet sur les 106 critères** : taux de conformité mesuré, liste des non-conformités, plan de remédiation priorisé, chiffrage en jours, benchmark sectoriel |
+| **WCAG 2.1 AA** | Conformité tenue au fil du développement plutôt que rattrapée en fin de cycle |
+| **Pratique** | Sémantique HTML, ARIA employé à bon escient, gestion du focus et focus trap, ordre de tabulation, contrastes, navigation clavier, restitution lecteur d'écran |
+| **Cadre légal** | Loi du 11 février 2005, loi du 7 octobre 2016, décret n° 2019-768, European Accessibility Act, déclaration d'accessibilité et schéma pluriannuel |
+
+### Qualité, tests et performance
+
+| | |
+|---|---|
+| **Tests end-to-end** | Conception de l'architecture de test autant que son écriture : **261 scénarios**, **2 700 pas Gherkin**, 148 définitions de pas minces, 12 modules d'actions typées, stack de test isolée reconstruite à chaque exécution, couverture des rendus conditionnels en présence **et** en absence |
+| **CodeceptJS, Gherkin, Playwright** | |
+| **Core Web Vitals** | LCP, CLS, INP : mesure, arbitrage, chargement à la demande des librairies tierces, audits Lighthouse automatisés à chaque livraison |
+| **Recette technique** | Recettes priorisées en MoSCoW, checklists de mise en production renseignées |
+| **SEO technique** | `hreflang`, canoniques, données structurées, `robots.txt`, `sitemap.xml`, en-têtes `X-Robots-Tag`, hiérarchie de titres |
+| **Analytics** | Plans de mesure GA4 et leur contrôle qualité, Matomo, gestion du consentement |
+
+### Architecture et pratiques d'équipe
+
+| | |
+|---|---|
+| **Revue de code** | **983 revues** de pull requests et merge requests sur **29 développeurs**, dont des prestataires externes et des développeurs côté client |
+| **Décisions d'architecture** | **31 ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
+| **Documentation technique** | 58 documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
+| **Git** | ~1 300 pull requests et ~1 150 merge requests créées, GitHub et GitLab |
+| **Environnement** | Docker, Docker Compose, Makefile de pilotage, CI (lint, contrôle de types, tests), Sentry |
+| **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
+| **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
+
+### Ce que je ne fais pas
+
+Modélisation de bases de données et SQL, administration système, développement back-end. Je préfère
+le dire que le laisser découvrir.
 
 ---
 
 ## Réalisations
 
-Site e-commerce [RRG](https://www.renault-retail-group.fr/), Groupe Renault.
->Achat et réservation de véhicules et accessoires automobile.
->>**Maintenance et migration des anciennes pages**, **intégration et développement React.**
+Une quarantaine de projets clients, **1 469 tickets** traités sur **37 comptes** entre 2018 et 2026.
+Sélection par nature de projet.
 
+### Plateformes e-commerce et configurateurs
 
-Site de recrutement [RRG RH](https://jobsfrance.renaultretailgroup.com/), Groupe Renault.
->Site dédié à la consultation des annonces d'emplois de la société et aux dépots des candidatures des internautes qui l'utilisent.
->>**Intégration et développement TWIG, SASS et Vue JS.**
+**[Retail Renault Group](https://www.retail-renault-group.fr/)** — Groupe Renault
+> Plateforme de vente de véhicules neufs, d'occasion et de démonstration pour un réseau
+> multi-concessions : recherche à facettes, fiches produit, tunnel d'achat en ligne, dépôt
+> d'acompte, simulateur de financement, reprise, prise de rendez-vous atelier, comptes clients,
+> localisateur de concessions.
+>> **Refonte complète** de l'application : suppression d'Angular, réécriture des stores et
+>> contrôleurs JavaScript, migration vers **Next.js App Router / React 19 / TypeScript** adossé à
+>> une API Symfony / API Platform. Architecture en **20 domaines fonctionnels** et 18 briques
+>> transverses, design system de 41 composants, thème multi-marques, suite de 261 scénarios de
+>> tests end-to-end, conformité RGAA et suivi des Core Web Vitals à chaque livraison.
+>> **Premier contributeur du dépôt** — 505 des 2 255 commits.
 
+**[Sodicam²](https://sodicam2.fr/)** — Groupe Renault
+> Distribution de pièces, accessoires et services après-vente automobile.
+>> Intégration et développement Twig, Sass, JavaScript.
 
-Site de recrutement [Sodicam²](https://sodicam2.fr/), Groupe Renault.
->Société de Distribution pour la Chimie, l'Automobile et la Mécanique chargée de la commercialisation et de l'animation des pièces, accessoires et services après-vente automobile.
->>**Intégration et développement TWIG, SASS et Vanilla JS.**
+**[Dépamoto](https://depamoto.com/)**
+> Vente en ligne de motos et de pièces détachées.
+>> Intégration Twig et Vue.js.
 
+**[Quartier des Jantes](https://www.quartierdesjantes.com/) et [Jantes et Pneus](https://www.jantesetpneus.com/)**
+> E-commerce de jantes et pneumatiques, avec configurateur de compatibilité véhicule.
+>> Intégration et développement, maintenance évolutive sur plusieurs années.
 
-Site vitrine multilingue [Facets](https://facets.fr/fr)
->Agence événementielle.
->>**Intégration et développement Next, React, Framer.**
+**Plateformes B2B Djust** — Fleury Michon, Socoda, Monoprix, Codeal
+> Portails de commande B2B adossés à la solution e-commerce Djust : catalogues, comptes
+> multi-acheteurs, cinématiques de commande, back-offices.
+>> Intégration et développement React et TypeScript sur les applications front.
 
+### Sites vitrines et institutionnels
 
-Site vitrine multilingue [Oreca events](https://oreca-events.com/fr)
->Agence expérientielle automobile
->>**Intégration et développement Next, React, Framer.**
+**[DHL Express France](https://www.dhlexpress.fr/)**
+> Site du transporteur express.
+>> Intégration, maintenance, **audit RGAA** et **recommandations techniques** (montées de version
+> majeures PHP et Symfony, correctifs issus de tests d'intrusion, mise en conformité RGPD).
 
+**[Oreca Events](https://oreca-events.com/) · Oreca Group · Driving Center · [Alpine](https://www.alpinecars.fr/)**
+> Sites du groupe Oreca (sport automobile, événementiel, stages de pilotage) et pages produit du
+> constructeur Alpine, dont des pages immersives animées au défilement.
+>> Intégration et développement Next.js, React, Framer Motion. Cadrage fonctionnel et recette
+>> technique SEO sur le projet Oreca Experience.
 
-Applis [Datagora web](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora&hl=en_SG&gl=US)
->Sous la forme d’un fil d'actualité, la plateforme Datagora vous propose des dépêches synthétiques - les datapoints - qui mettent en avant les résultats clés de publications provenant d'instituts statistiques, d'études ou de recherche.
->>**Intégration et développement React et React native.**
+**[Facets](https://facets.fr/)** · **[Kering Foundation](https://www.keringfoundation.org/)** · **[AD13](https://comites-feux.com/)** · **[Guira FM](https://www.guirafm.com/)** · **[Aerokart](https://www.aerokart.com/)** · **[Eiffage](https://www.eiffage.com/)** · **[SPK](https://www.spk-conseil.fr/)** · **AA Biomasse** · **Elyse Technology** · **Pharmaspaces** · **Milano Design** · **Yekrak** · **Uniskip** · **[Les soirées de Saint Marc](https://lessoireesdesaintmarc.fr/)**
+> Sites vitrines et institutionnels, dont plusieurs multilingues.
+>> Intégration et développement selon les projets : React, Next.js, Vue.js, Svelte, Twig, Sass,
+>> JavaScript. Back-offices Builder.io, WordPress, Sonata.
 
+### Applications et back-offices
 
-Site e-commerce [Dépamoto](https://depamoto.com/fr-FR/home)
->Vente de moto et pièces détrachées en ligne.
->>**Participation à l'intégration du site TWIG et Vue js.**
+**[RRG RH](https://jobsfrance.renaultretailgroup.com/)** — Groupe Renault
+> Site de recrutement : consultation des annonces, dépôt de candidatures, back-office de gestion.
+>> Intégration et développement Twig, Sass et Vue.js, puis refonte.
 
+**[Datagora](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora)**
+> Fil d'actualité de dépêches synthétiques restituant les résultats clés de publications
+> statistiques et de recherche.
+>> Intégration et développement React et **React Native**.
 
-Site vitrine [AD13](https://comites-feux.com/)
->Association Départementale des Comités Communaux Feux de Forêts et des Réserves Communales de Sécurité Civile des Bouches du Rhône.
->>**Intégration et développement React et React admin.**
+**Montaclair ADR**
+> Application tablette et back-office pour des audits terrain : création de dossiers, formulaires
+> de saisie hors ligne, circuit de validation client.
+>> Cadrage fonctionnel, intégration et développement.
 
+### Accessibilité et conformité
 
-Site vitrine [Les soirées de St Marc](https://lessoireesdesaintmarc.fr/)
->Association loi 1901 organisatrice d'un festival en région Aixoise. 
->>**Intégration et développement HTML, CSS et Vanilla JS.**
+**Audit RGAA complet — fournisseur de solutions de paiement**
+> Audit de conformité sur les **106 critères du RGAA 4.1** d'un parcours de saisie de code
+> confidentiel : taux de conformité mesuré, non-conformités relevées et qualifiées, benchmark de
+> conformité du secteur bancaire, cible argumentée, plan de remédiation priorisé et **chiffrage en
+> jours**, puis mise en conformité.
 
-
-Site vitrine [Kering Foundation](https://www.keringfoundation.org/en/)
->Fondation en vue de soutenir les femmes touchées par la violence.
->>**Intégration et développement HTML, CSS et Vanilla JS.**
-
+**Trois audits RGAA complémentaires** — transport express, secteur bancaire, section applicative
+> Relevés d'écarts classés par famille (HTML, styles, JavaScript), plans de modifications
+> priorisés, préconisations de correction avec impact utilisateur et textes de référence.
 
 ---
 
 ## Parcours
-### 💻 Développement web :
 
-- 08/2018 à aujourd'hui : **Intégrateur et développeur Front-End** (Purjus Communication).
-- 09/2017 à 08/2018 : **Formateur Infographiste en multimédia** (AFPA Avigon le Pontet).
-- 05/2017 à 09/2017 : **Intégrateur web** (Agence Hors Pistes et Freelance).
+### 💻 Développement web
 
-### 🌳 Paysagisme :
-- 04/2015 à 05/2017 : **Infographiste paysager** (Star's Jardin, Thibaud de Beschart).
-- 05/2005 à 03/2013 : **Ouvrier paysagiste qualifié** (Indépendant, ManieBat, Jardins Sestian).
+- **08/2018 → 2026** — **Développeur front-end**, en charge de la revue du code de l'équipe et des
+  prestataires *(Purjus Communication, Vauvenargues)*. CDD puis CDI ; statut ETAM puis cadre.
+- **09/2017 → 08/2018** — **Formateur infographiste en multimédia** *(AFPA Avignon Le Pontet)*.
+  Animation et suivi des stagiaires sur la formation qualifiante Designer web — 1 259 heures,
+  8 modules, 66 séances — celle-là même que j'avais suivie et validée l'année précédente.
+- **05/2017 → 09/2017** — **Intégrateur web** *(agence Hors Pistes, et freelance)*.
+
+### 🌳 Paysagisme
+
+- **04/2015 → 05/2017** — **Infographiste paysager** *(Star's Jardin, Thibaud de Beschart)*.
+  Conception et dessin de projets d'aménagement — c'est par là que le métier du numérique a commencé.
+- **05/2005 → 03/2013** — **Ouvrier paysagiste qualifié** *(indépendant, ManieBat, Jardins Sestian)*.
+  Création et entretien d'espaces verts, lecture de plans, chiffrage de chantier.
 
 ---
 
 ## Formation
 
-- 2016/2017 : **Designer web**, Afpa le Pontet (Titre professionnel de niveau III).
-- 2014/2015 : **Les énergies renouvelables d'aujourd'hui et de demain**, IRFEDD (Attestation compétences).
-- 2014 : **DAO - Professionnaliser sa pratique**, GRETA (Attestation compétences).
-- 1999/2005 : **Aménagement de l'espace paysager**, CFPPA Auzeville Tolosane (BEP, BAC pro, BTS).
+- **2016-2017** — **Designer web**, AFPA Le Pontet. Titre professionnel de **niveau 5 européen**
+  (ex-niveau III), 1 259 heures. Obtenu le 11/05/2017.
+- **2014-2015** — *Les énergies renouvelables d'aujourd'hui et de demain*, IRFEDD (400 heures).
+- **2014** — *DAO, professionnaliser sa pratique*, GRETA.
+- **1999-2005** — **Aménagement de l'espace paysager**, CFPPA Auzeville-Tolosane :
+  **BEPA** Travaux paysagers, **Bac professionnel** Aménagements paysagers, **BTSA** Aménagement de
+  l'espace paysager (en apprentissage).
 
----
+### Autoformation continue
 
-## Centres d'interêt
-
-- Programmation
-- Botanique
-- Lecture
+Une vingtaine de certificats OpenClassrooms, dont le parcours complet **Intégrateur web** : HTML5 et
+CSS3, découpage et intégration de maquette, JavaScript, jQuery, Node.js, Git et GitHub, WordPress,
+Bootstrap, Illustrator, Python, algorithmique, design thinking, posture d'agilité. Certifications
+Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
 ## Langues
 
-- Français (langue maternelle)
-- Anglais (scolaire, technique)
-- Castillan (scolaire)
+- **Français** — langue maternelle
+- **Anglais** — lecture technique courante, échanges écrits. Pas d'animation de réunion en anglais.
+- **Castillan** — notions scolaires
 
 ---
 
-## À propos
+## Centres d'intérêt
 
-- Né le 03/11/1982 à Paris XIV.
+Programmation · Botanique · Lecture
 
 ---
 
-## Plus d'infos et contact
+## Contact
 
-[Linkedin](https://www.linkedin.com/in/kewin-marchand/)
-
-<!---
- <h2>🚀 Demo</h2>
-
-[https://kewin-marchand.netlify.app/](https://kewin-marchand.netlify.app/)
- -->
- 
-<p align="center"><img src="https://socialify.git.ci/kewinMarchand/kewinMarchand/image?description=1&amp;descriptionEditable=Int%C3%A9grateur%20et%20D%C3%A9veloppeur%20Front-End%0AEn%20charge%20du%20d%C3%A9veloppement%20et%20de%20l%27int%C3%A9gration%20de%20projets%20web&amp;font=Source%20Code%20Pro&amp;language=1&amp;owner=1&amp;pattern=Formal%20Invitation&amp;theme=Dark" alt="project"></p>
-
-
+[LinkedIn](https://www.linkedin.com/in/kewin-marchand/)
