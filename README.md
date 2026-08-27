@@ -1,14 +1,15 @@
 <img alt="Kewin Marchand" align="right" width="200" height="200" src="public/images/me.jpg">
 
 # Kewin Marchand
-## Développeur front-end React / TypeScript
+## Développeur front-end React / TypeScript — référent front-end
 ### Accessibilité numérique & qualité web
 
 #### Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
 
-Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**. Refonte d'une
-plateforme e-commerce à fort trafic (Retail Renault Group) en Next.js / React / TypeScript :
-architecture modulaire, design system de plus de 40 composants, suites de tests end-to-end.
+Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**. **Auteur principal
+de la refonte** d'une plateforme e-commerce à fort trafic (Retail Renault Group) en Next.js /
+React / TypeScript : architecture modulaire, design system de plus de 40 composants, suites de tests
+end-to-end.
 Habitué à cadrer avec le produit, le design et la QA avant d'écrire la première ligne.
 
 Spécialisé dans l'**accessibilité numérique (RGAA)**, la **qualité web** et les **tests
@@ -68,7 +69,7 @@ dernières années — pas une liste de technologies croisées.
 
 | | |
 |---|---|
-| **Revue de code** | **Près d'un millier de revues** de pull requests et de merge requests, sur **une trentaine de développeurs** — dont des prestataires externes et des développeurs côté client |
+| **Revue de code** | Référent front-end de fait : **près d'un millier de revues** de pull requests et de merge requests, sur **une trentaine de développeurs** — dont des prestataires externes et des développeurs côté client |
 | **Décisions d'architecture** | **Une trentaine d'ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
 | **Documentation technique** | une soixantaine de documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
 | **Git** | plus de 1 200 pull requests et autant de merge requests créées, GitHub et GitLab |
@@ -113,7 +114,8 @@ Sélection par nature de projet.
 >> une API Symfony / API Platform. Architecture en **une vingtaine de domaines fonctionnels** et autant de briques
 >> transverses, design system d'une quarantaine de composants, thème multi-marques, suite de plus de 250 scénarios de
 >> tests end-to-end, conformité RGAA et suivi des Core Web Vitals à chaque livraison.
->> **Premier contributeur du dépôt**, avec un peu plus d'un commit sur cinq.
+>> **Auteur principal du dépôt** : l'essentiel du code source de l'application actuelle, la refonte
+>> ayant été livrée d'un bloc après plusieurs mois de travail.
 
 **[Sodicam²](https://sodicam2.fr/)** — Groupe Renault
 > Distribution de pièces, accessoires et services après-vente automobile.
@@ -184,13 +186,13 @@ Sélection par nature de projet.
 
 ### 💻 Développement web
 
-- **08/2018 → 2026** — **Développeur front-end**, en charge de la revue du code de l'équipe et des
-  prestataires *(PURJUS Communication, Vauvenargues)*. Agence digitale indépendante spécialisée dans
+- **08/2018 → 2026** — **Développeur front-end et référent front-end**, en charge de la revue du
+  code de l'équipe et des prestataires *(PURJUS Communication, Vauvenargues)*. Agence digitale indépendante spécialisée dans
   le développement sur-mesure. CDD puis CDI ; statut ETAM puis cadre.
 - **09/2017 → 08/2018** — **Formateur infographiste multimédia** *(AFPA, centres du Pontet et de
-  Salon-de-Provence)*. Animation et suivi des stagiaires sur la formation certifiante « Web
-  designer » — environ 1 260 heures, 8 modules, une soixantaine de séances : intégration web,
-  CMS, design graphique.
+  Salon-de-Provence)*. **Seul formateur de la session** : animation et suivi des stagiaires
+  sur la formation certifiante « Web designer », **environ 1 260 heures dispensées** — 8 modules,
+  une soixantaine de séances : intégration web, CMS, design graphique.
   C'est la formation que j'avais suivie et validée l'année précédente.
 - **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
 
