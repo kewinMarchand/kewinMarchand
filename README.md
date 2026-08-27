@@ -1,22 +1,57 @@
-<table>
-<tr>
-<td width="230" valign="top">
-<img alt="Kewin Marchand" width="200" height="200" src="public/images/me.jpg">
-</td>
-<td valign="top">
+<p align="center">
+  <img src="public/images/me.jpg" width="170" alt="Kewin Marchand">
+</p>
 
-# Kewin Marchand
+<h1 align="center">Kewin Marchand</h1>
 
-### Développeur front-end React / TypeScript
-### Référent front-end
+<p align="center">
+  <b>Développeur front-end React / TypeScript</b>
+  <br>
+  Référent front-end
+  <br>
+  <i>Accessibilité numérique &amp; qualité web</i>
+</p>
 
-**Accessibilité numérique & qualité web**
+<p align="center">
+  Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+</p>
 
-Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+<p align="center">
+  <a href="cv-kewin-marchand.pdf"><b>📄 Mon CV en PDF</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kewin-marchand/">LinkedIn</a>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img alt="8 ans d'expérience" src="https://img.shields.io/badge/exp%C3%A9rience-8%20ans-1f4e79?style=for-the-badge">
+  <img alt="Une quarantaine de projets" src="https://img.shields.io/badge/projets%20clients-~40-1f4e79?style=for-the-badge">
+  <img alt="Une trentaine de comptes" src="https://img.shields.io/badge/comptes-~30-1f4e79?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img alt="60 % du code source" src="https://img.shields.io/badge/code%20source%20du%20projet%20phare-~60%25-2d7d46?style=for-the-badge">
+  <img alt="Près d'un millier de revues" src="https://img.shields.io/badge/revues%20de%20code-~1%20000-2d7d46?style=for-the-badge">
+  <img alt="Plus de 250 scénarios e2e" src="https://img.shields.io/badge/sc%C3%A9narios%20e2e-250%2B-2d7d46?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img alt="4 audits RGAA" src="https://img.shields.io/badge/audits%20RGAA-4%20livr%C3%A9s-8a4b9c?style=for-the-badge">
+  <img alt="Audit complet 106 critères" src="https://img.shields.io/badge/audit%20complet-106%20crit%C3%A8res-8a4b9c?style=for-the-badge">
+  <img alt="1260 heures de formation dispensées" src="https://img.shields.io/badge/formation%20dispens%C3%A9e-1%20260%20h-8a4b9c?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs">
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white">
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony">
+  <img alt="RGAA" src="https://img.shields.io/badge/RGAA%204.1-1f4e79?style=flat-square">
+</p>
 
 &nbsp;
 
@@ -36,17 +71,11 @@ que je suis revenu enseigner à l'AFPA l'année suivante.
 
 &nbsp;
 
-📄 **[Mon CV en PDF](cv-kewin-marchand.pdf)**
-
-&nbsp;
-
 ---
-
-&nbsp;
 
 ## Compétences
 
-| | |
+| Domaine | Technologies |
 |---|---|
 | **Langages** | TypeScript · JavaScript / ES6+ · HTML5 · CSS3 / SCSS |
 | **Frameworks & bibliothèques** | React · Next.js · Redux Toolkit · React Query · GraphQL · MUI · Tailwind · Vue 3 / Nuxt · Svelte |
@@ -57,11 +86,9 @@ que je suis revenu enseigner à l'AFPA l'année suivante.
 Le détail ci-dessous décrit une pratique effective, mesurée sur la production réelle des huit
 dernières années — pas une liste de technologies croisées.
 
-&nbsp;
-
 ### Front-end — cœur de métier
 
-| | |
+| Compétence | Pratique effective |
 |---|---|
 | **React** | Pratique quotidienne depuis 2018. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
 | **Next.js** | App Router, Server Components, frontière serveur/client, stratégies de cache et de revalidation, `next/image`, `next/font` |
@@ -73,35 +100,29 @@ dernières années — pas une liste de technologies croisées.
 | **HTML, Twig, Stimulus, Symfony UX** | Intégration côté Symfony |
 | **React Native** | Une application mobile livrée et publiée sur le Play Store |
 
-&nbsp;
-
 ### Accessibilité numérique — spécialité
 
-| | |
+| Volet | Pratique effective |
 |---|---|
 | **RGAA 4.1** | **Quatre audits livrés**, dont un **audit complet sur les 106 critères** : taux de conformité mesuré, liste des non-conformités, plan de remédiation priorisé, chiffrage en jours, benchmark sectoriel |
 | **WCAG 2.1 AA** | Conformité tenue au fil du développement plutôt que rattrapée en fin de cycle |
 | **Pratique** | Sémantique HTML, ARIA employé à bon escient, gestion du focus et focus trap, ordre de tabulation, contrastes, navigation clavier, restitution lecteur d'écran |
 | **Cadre légal** | Loi du 11 février 2005, loi du 7 octobre 2016, décret n° 2019-768, European Accessibility Act, déclaration d'accessibilité et schéma pluriannuel |
 
-&nbsp;
-
 ### Qualité, tests et performance
 
-| | |
+| Volet | Pratique effective |
 |---|---|
 | **Tests end-to-end** | Conception de l'architecture de test autant que son écriture : **plus de 250 scénarios**, **quelques milliers de pas Gherkin**, près de 150 définitions de pas minces, une douzaine de modules d'actions typées, stack de test isolée reconstruite à chaque exécution, couverture des rendus conditionnels en présence **et** en absence |
-| **CodeceptJS, Gherkin, Playwright** | |
+| **Outillage de test** | CodeceptJS · Gherkin · Playwright · steps minces et actions typées, pour que les scénarios restent lisibles par un non-développeur |
 | **Core Web Vitals** | LCP, CLS, INP : mesure, arbitrage, chargement à la demande des librairies tierces, audits Lighthouse automatisés à chaque livraison |
 | **Recette technique** | Recettes priorisées en MoSCoW, checklists de mise en production renseignées |
 | **SEO technique** | `hreflang`, canoniques, données structurées, `robots.txt`, `sitemap.xml`, en-têtes `X-Robots-Tag`, hiérarchie de titres |
 | **Analytics** | Plans de mesure GA4 et leur contrôle qualité, Matomo, gestion du consentement |
 
-&nbsp;
-
 ### Architecture et pratiques d'équipe
 
-| | |
+| Volet | Pratique effective |
 |---|---|
 | **Revue de code** | Référent front-end de fait : **près d'un millier de revues** de pull requests et de merge requests, sur **une trentaine de développeurs** — dont des prestataires externes et des développeurs côté client |
 | **Décisions d'architecture** | **Une trentaine d'ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
@@ -111,15 +132,11 @@ dernières années — pas une liste de technologies croisées.
 | **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
 | **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
 
-&nbsp;
-
 ### Ce que je ne fais pas
 
 Modélisation de bases de données et SQL, administration système, développement back-end.
 
 ---
-
-&nbsp;
 
 ## Développement assisté par IA
 
@@ -155,14 +172,10 @@ effort constant.
 
 ---
 
-&nbsp;
-
 ## Réalisations
 
 Une quarantaine de projets clients, **près de 1 500 tickets** traités sur **une trentaine de comptes** entre 2018 et 2026.
 Sélection par nature de projet.
-
-&nbsp;
 
 ### Plateformes e-commerce et configurateurs
 
@@ -196,8 +209,6 @@ Sélection par nature de projet.
 > multi-acheteurs, cinématiques de commande, back-offices.
 >> Intégration et développement React et TypeScript sur les applications front.
 
-&nbsp;
-
 ### Sites vitrines et institutionnels
 
 **[DHL Express France](https://www.dhlexpress.fr/)**
@@ -216,8 +227,6 @@ Sélection par nature de projet.
 >> Intégration et développement selon les projets : React, Next.js, Vue.js, Svelte, Twig, Sass,
 >> JavaScript. Back-offices Builder.io, WordPress, Sonata.
 
-&nbsp;
-
 ### Applications et back-offices
 
 **[RRG RH](https://jobsfrance.renaultretailgroup.com/)** — Groupe Renault
@@ -234,8 +243,6 @@ Sélection par nature de projet.
 > de saisie hors ligne, circuit de validation client.
 >> Cadrage fonctionnel, intégration et développement.
 
-&nbsp;
-
 ### Accessibilité et conformité
 
 **Audit RGAA complet — fournisseur de solutions de paiement**
@@ -250,34 +257,35 @@ Sélection par nature de projet.
 
 ---
 
-&nbsp;
-
 ## Parcours
-
-&nbsp;
 
 ### 💻 Développement web
 
 - **08/2018 → 2026** — **Développeur front-end et référent front-end**, en charge de la revue du
   code de l'équipe et des prestataires *(PURJUS Communication, Vauvenargues)*. Agence digitale indépendante spécialisée dans
   le développement sur-mesure. CDD puis CDI ; statut ETAM puis cadre.
+
 - **09/2017 → 08/2018** — **Formateur infographiste multimédia** *(AFPA, centres du Pontet et de
   Salon-de-Provence)*. **Seul formateur de la session** : animation et suivi des stagiaires
   sur la formation certifiante « Web designer », **environ 1 260 heures dispensées** — 8 modules,
   une soixantaine de séances : intégration web, CMS, design graphique.
   C'est la formation que j'avais suivie et validée l'année précédente.
-- **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
 
-&nbsp;
+- **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
 
 ### 🌳 Paysagisme
 
 - **09/2015 → 01/2017** — **Graphiste, dessin de plans** *(Star's Jardin)*. Conception et dessin de
   projets d'aménagement — c'est par là que le métier du numérique a commencé.
+
 - **05/2015 → 08/2015** — **Vendeur conseil jardinerie** *(Botanic)*.
+
 - **10/2011 → 03/2013** — **Ouvrier paysagiste** *(Les Jardins Sestian)*.
+
 - **07/2010 → 03/2011** — **Ouvrier paysagiste** *(Maniebat)*.
+
 - **2005 → 06/2010** — **Jardinier-paysagiste** *(particuliers employeurs, CESU)*.
+
 - **09/1999 → 06/2005** — **Apprenti paysagiste** *(Jardin Vert, Mondouzil)*, pendant le BEPA, le
   Bac professionnel et le BTSA.
 
@@ -287,15 +295,18 @@ Sélection par nature de projet.
   du cadre européen**, environ 1 260 heures. Obtenu le 11/05/2017. Modules : design graphique d'outils de
   communication numérique, intégration et publication de pages web, contenus interactifs et
   dynamiques, sites avec CMS.
+
 - **2014-2015** — *Les énergies renouvelables d'aujourd'hui et de demain*, IRFEDD (400 heures).
+
 - **2014** — **Dessin assisté par ordinateur (DAO)**, GRETA — certificat de compétences.
+
 - **2003-2005** — **BTSA Aménagement de l'espace paysager**, en apprentissage — CFPPA / EPL
   agricole d'Auzeville-Tolosane (31).
+
 - **2001-2003** — **Baccalauréat professionnel Aménagements paysagers**, en apprentissage — même
   établissement.
-- **1999-2001** — **BEPA Travaux paysagers**, en apprentissage — même établissement.
 
-&nbsp;
+- **1999-2001** — **BEPA Travaux paysagers**, en apprentissage — même établissement.
 
 ### Autoformation continue
 
@@ -306,8 +317,6 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
-&nbsp;
-
 ## Distinctions
 
 - **2005** — **Prix de l'apprentissage Midi-Pyrénées**, Conseil général de Midi-Pyrénées et CFPPA
@@ -315,25 +324,21 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
-&nbsp;
-
 ## Langues
 
 - **Français** — langue maternelle
+
 - **Anglais** — lecture de documentation technique, pas de conversation
+
 - **Espagnol** — intermédiaire
 
 ---
-
-&nbsp;
 
 ## Divers
 
 Permis B · Passionné par la botanique
 
 ---
-
-&nbsp;
 
 ## Contact
 
