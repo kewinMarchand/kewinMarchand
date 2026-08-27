@@ -1,22 +1,48 @@
-<img alt="Kewin Marchand" align="right" width="200" height="200" src="public/images/me.jpg">
+<table>
+<tr>
+<td width="230" valign="top">
+<img alt="Kewin Marchand" width="200" height="200" src="public/images/me.jpg">
+</td>
+<td valign="top">
 
 # Kewin Marchand
-## Développeur front-end React / TypeScript — référent front-end
-### Accessibilité numérique & qualité web
 
-#### Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+### Développeur front-end React / TypeScript
+### Référent front-end
 
-Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**. **Auteur principal
-de la refonte** d'une plateforme e-commerce à fort trafic (Retail Renault Group) en Next.js /
-React / TypeScript : architecture modulaire, design system de plus de 40 composants, suites de tests
-end-to-end.
+**Accessibilité numérique & qualité web**
+
+Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**.
+
+**Auteur principal de la refonte** d'une plateforme e-commerce à fort trafic (Retail Renault Group)
+en Next.js / React / TypeScript : architecture modulaire, design system de plus de 40 composants,
+suites de tests end-to-end.
+
 Habitué à cadrer avec le produit, le design et la QA avant d'écrire la première ligne.
 
 Spécialisé dans l'**accessibilité numérique (RGAA)**, la **qualité web** et les **tests
-automatisés**. Reconverti du paysagisme au développement web en 2017, après un titre professionnel
-Designer web que je suis revenu enseigner à l'AFPA l'année suivante.
+automatisés**.
+
+Reconverti du paysagisme au développement web en 2017, après un titre professionnel Designer web
+que je suis revenu enseigner à l'AFPA l'année suivante.
+
+&nbsp;
+
+📄 **[Mon CV en PDF](cv-kewin-marchand.pdf)**
+
+&nbsp;
 
 ---
+
+&nbsp;
 
 ## Compétences
 
@@ -30,6 +56,8 @@ Designer web que je suis revenu enseigner à l'AFPA l'année suivante.
 
 Le détail ci-dessous décrit une pratique effective, mesurée sur la production réelle des huit
 dernières années — pas une liste de technologies croisées.
+
+&nbsp;
 
 ### Front-end — cœur de métier
 
@@ -45,6 +73,8 @@ dernières années — pas une liste de technologies croisées.
 | **HTML, Twig, Stimulus, Symfony UX** | Intégration côté Symfony |
 | **React Native** | Une application mobile livrée et publiée sur le Play Store |
 
+&nbsp;
+
 ### Accessibilité numérique — spécialité
 
 | | |
@@ -53,6 +83,8 @@ dernières années — pas une liste de technologies croisées.
 | **WCAG 2.1 AA** | Conformité tenue au fil du développement plutôt que rattrapée en fin de cycle |
 | **Pratique** | Sémantique HTML, ARIA employé à bon escient, gestion du focus et focus trap, ordre de tabulation, contrastes, navigation clavier, restitution lecteur d'écran |
 | **Cadre légal** | Loi du 11 février 2005, loi du 7 octobre 2016, décret n° 2019-768, European Accessibility Act, déclaration d'accessibilité et schéma pluriannuel |
+
+&nbsp;
 
 ### Qualité, tests et performance
 
@@ -64,6 +96,8 @@ dernières années — pas une liste de technologies croisées.
 | **Recette technique** | Recettes priorisées en MoSCoW, checklists de mise en production renseignées |
 | **SEO technique** | `hreflang`, canoniques, données structurées, `robots.txt`, `sitemap.xml`, en-têtes `X-Robots-Tag`, hiérarchie de titres |
 | **Analytics** | Plans de mesure GA4 et leur contrôle qualité, Matomo, gestion du consentement |
+
+&nbsp;
 
 ### Architecture et pratiques d'équipe
 
@@ -77,19 +111,7 @@ dernières années — pas une liste de technologies croisées.
 | **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
 | **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
 
-### Développement assisté par IA
-
-Pratique quotidienne de **Claude Code**, outillée plutôt qu'improvisée :
-
-| | |
-|---|---|
-| **Contexte projet versionné** | Stack, conventions et décisions d'architecture écrites dans le dépôt et chargées à chaque session — l'assistant travaille contre la documentation du projet, pas contre des suppositions |
-| **Agents dédiés** | Un agent d'implémentation qui cadre contre la doc et les ADR avant d'écrire, un agent de relecture en lecture seule, un agent de recette qui joue la suite end-to-end et interprète les sorties |
-| **Skills et commandes** | Automatisation des tâches récurrentes du projet |
-| **Hooks de contrôle** | Vérifications avant commit, pour que rien ne parte sans lint, contrôle de types et tests |
-
-L'intérêt n'est pas d'écrire plus de code, c'est d'en **relire et d'en vérifier davantage** : la
-revue, les tests et la conformité sont les endroits où le gain est réel.
+&nbsp;
 
 ### Ce que je ne fais pas
 
@@ -97,10 +119,50 @@ Modélisation de bases de données et SQL, administration système, développeme
 
 ---
 
+&nbsp;
+
+## Développement assisté par IA
+
+Pratique quotidienne de **Claude Code**, outillée plutôt qu'improvisée. L'enjeu n'est pas d'écrire
+plus de code — c'est d'en **relire et d'en vérifier davantage**.
+
+&nbsp;
+
+**Contexte projet versionné**
+
+Stack, conventions et décisions d'architecture écrites dans le dépôt et chargées à chaque session.
+L'assistant travaille contre la documentation du projet, pas contre des suppositions.
+
+**Agents dédiés**
+
+Un agent d'implémentation qui cadre contre la doc et les ADR avant d'écrire.
+Un agent de relecture, en lecture seule, qui relit un diff contre les conventions.
+Un agent de recette qui joue la suite end-to-end et interprète les sorties.
+
+**Skills et commandes**
+
+Les tâches récurrentes du projet automatisées et versionnées avec lui.
+
+**Hooks de contrôle**
+
+Vérifications avant commit : rien ne part sans lint, contrôle de types et tests.
+
+&nbsp;
+
+Le gain réel n'est pas dans la vitesse de frappe. Il est dans la **revue**, les **tests** et la
+**conformité** — les endroits où le travail se mesure, et où l'on peut en vérifier davantage à
+effort constant.
+
+---
+
+&nbsp;
+
 ## Réalisations
 
 Une quarantaine de projets clients, **près de 1 500 tickets** traités sur **une trentaine de comptes** entre 2018 et 2026.
 Sélection par nature de projet.
+
+&nbsp;
 
 ### Plateformes e-commerce et configurateurs
 
@@ -134,6 +196,8 @@ Sélection par nature de projet.
 > multi-acheteurs, cinématiques de commande, back-offices.
 >> Intégration et développement React et TypeScript sur les applications front.
 
+&nbsp;
+
 ### Sites vitrines et institutionnels
 
 **[DHL Express France](https://www.dhlexpress.fr/)**
@@ -152,6 +216,8 @@ Sélection par nature de projet.
 >> Intégration et développement selon les projets : React, Next.js, Vue.js, Svelte, Twig, Sass,
 >> JavaScript. Back-offices Builder.io, WordPress, Sonata.
 
+&nbsp;
+
 ### Applications et back-offices
 
 **[RRG RH](https://jobsfrance.renaultretailgroup.com/)** — Groupe Renault
@@ -168,6 +234,8 @@ Sélection par nature de projet.
 > de saisie hors ligne, circuit de validation client.
 >> Cadrage fonctionnel, intégration et développement.
 
+&nbsp;
+
 ### Accessibilité et conformité
 
 **Audit RGAA complet — fournisseur de solutions de paiement**
@@ -182,7 +250,11 @@ Sélection par nature de projet.
 
 ---
 
+&nbsp;
+
 ## Parcours
+
+&nbsp;
 
 ### 💻 Développement web
 
@@ -195,6 +267,8 @@ Sélection par nature de projet.
   une soixantaine de séances : intégration web, CMS, design graphique.
   C'est la formation que j'avais suivie et validée l'année précédente.
 - **02/2017 → 09/2017** — **Intégrateur web** *(Agence Hors Pistes)*.
+
+&nbsp;
 
 ### 🌳 Paysagisme
 
@@ -221,6 +295,8 @@ Sélection par nature de projet.
   établissement.
 - **1999-2001** — **BEPA Travaux paysagers**, en apprentissage — même établissement.
 
+&nbsp;
+
 ### Autoformation continue
 
 Une vingtaine de certificats OpenClassrooms, dont le parcours complet **Intégrateur web** : HTML5 et
@@ -230,12 +306,16 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
+&nbsp;
+
 ## Distinctions
 
 - **2005** — **Prix de l'apprentissage Midi-Pyrénées**, Conseil général de Midi-Pyrénées et CFPPA
   d'Auzeville-Tolosane, pour l'apprentissage effectué chez Jardin Vert (Mondouzil, 31).
 
 ---
+
+&nbsp;
 
 ## Langues
 
@@ -245,11 +325,15 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ---
 
+&nbsp;
+
 ## Divers
 
 Permis B · Passionné par la botanique
 
 ---
+
+&nbsp;
 
 ## Contact
 
