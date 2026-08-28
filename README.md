@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/me.jpg" width="170" alt="Kewin Marchand">
+  <img src="public/images/me.png" width="170" alt="Portrait de Kewin Marchand">
 </p>
 
 <h1 align="center">Kewin Marchand</h1>
