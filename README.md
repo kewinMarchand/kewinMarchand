@@ -90,7 +90,7 @@ dernières années — pas une liste de technologies croisées.
 
 | Compétence | Pratique effective |
 |---|---|
-| **React** | Pratique quotidienne **depuis 2019**, date du premier fichier mesurée sur l'historique git. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
+| **React** | Pratique quotidienne **depuis 2018**, dès l'arrivée en agence — vérifié : `react` 16.2 au `package.json` du projet et composants `import React from 'react'`. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
 | **Next.js** | App Router, Server Components, frontière serveur/client, stratégies de cache et de revalidation, `next/image`, `next/font` |
 | **TypeScript** | `strict` sans `any`, types générés depuis un schéma OpenAPI plutôt qu'écrits à la main, unions plutôt qu'enums |
 | **Vue.js, Svelte** | Projets livrés en production sur les deux |
