@@ -5,9 +5,9 @@
 <h1 align="center">Kewin Marchand</h1>
 
 <p align="center">
-  <b>Accessibilité numérique &amp; qualité web</b>
+  <b>Développeur front-end senior React / TypeScript</b>
   <br>
-  Développeur front-end senior React / TypeScript — référent technique
+  Référent technique — accessibilité numérique &amp; qualité web
   <br>
   <i>Audits RGAA 4.1, remédiation, tests end-to-end</i>
 </p>
@@ -338,4 +338,6 @@ Google *Digital Active* et *Ateliers Numériques*.
 
 ## Divers
 
-Permis B · Passionné par la botanique
+- Permis B
+
+- Passionné par la botanique
