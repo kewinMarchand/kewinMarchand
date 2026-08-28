@@ -57,7 +57,7 @@
 
 Huit ans de développement front-end, l'essentiel en **React** et **TypeScript**.
 
-**Auteur principal de la refonte** d'une plateforme e-commerce à fort trafic (Retail Renault Group)
+**Auteur principal de la refonte** d'une plateforme e-commerce à fort trafic (un groupe de distribution automobile)
 en Next.js / React / TypeScript : architecture modulaire, design system de plus de 40 composants,
 suites de tests end-to-end.
 
@@ -131,7 +131,7 @@ dernières années — pas une liste de technologies croisées.
 | **Documentation technique** | une soixantaine de documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
 | **Git** | plus de 1 200 pull requests et autant de merge requests créées, GitHub et GitLab |
 | **Environnement** | Docker, Docker Compose, Makefile de pilotage, CI (lint, contrôle de types, tests), Sentry |
-| **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, Djust (e-commerce B2B) |
+| **CMS & back-office** | Builder.io, WordPress, Sonata, React Admin, une solution e-commerce B2B (e-commerce B2B) |
 | **Back-end consommé** | Symfony, API Platform, REST, GraphQL — je consomme et j'intègre des back-ends dont je lis le code sans les écrire |
 
 ### Ce que je ne fais pas
@@ -181,7 +181,7 @@ Sélection par nature de projet.
 
 ### Plateformes e-commerce et configurateurs
 
-**[Retail Renault Group](https://www.retail-renault-group.fr/)** — Groupe Renault
+**Groupe de distribution automobile**
 > Plateforme de vente de véhicules neufs, d'occasion et de démonstration pour un réseau
 > multi-concessions : recherche à facettes, fiches produit, tunnel d'achat en ligne, dépôt
 > d'acompte, simulateur de financement, reprise, prise de rendez-vous atelier, comptes clients,
@@ -194,53 +194,53 @@ Sélection par nature de projet.
 >> **Auteur principal du dépôt** : l'essentiel du code source de l'application actuelle, la refonte
 >> ayant été livrée d'un bloc après plusieurs mois de travail.
 
-**[Sodicam²](https://sodicam2.fr/)** — Groupe Renault
+**Distributeur de pièces et accessoires automobiles**
 > Distribution de pièces, accessoires et services après-vente automobile.
 >> Intégration et développement Twig, Sass, JavaScript.
 
-**[Dépamoto](https://depamoto.com/)**
+**Vendeur en ligne de motos et de pièces détachées**
 > Vente en ligne de motos et de pièces détachées.
 >> Intégration Twig et Vue.js.
 
-**[Quartier des Jantes](https://www.quartierdesjantes.com/) et [Jantes et Pneus](https://www.jantesetpneus.com/)**
+**Deux e-commerçants de jantes et pneumatiques**
 > E-commerce de jantes et pneumatiques, avec configurateur de compatibilité véhicule.
 >> Intégration et développement, maintenance évolutive sur plusieurs années.
 
-**Plateformes B2B Djust** — Fleury Michon, Socoda, Monoprix, Codeal, Yack
-> Portails de commande B2B adossés à la solution e-commerce Djust : catalogues, comptes
+**Plateformes B2B** — un industriel agroalimentaire, un réseau de distribution professionnelle, une enseigne de distribution alimentaire, un distributeur professionnel, une plateforme B2B
+> Portails de commande B2B adossés à une solution e-commerce B2B : catalogues, comptes
 > multi-acheteurs, cinématiques de commande, back-offices.
 >> Intégration et développement React et TypeScript sur les applications front.
 
 ### Sites vitrines et institutionnels
 
-**[DHL Express France](https://www.dhlexpress.fr/)**
+**Transporteur international**
 > Site du transporteur express.
 >> Intégration, maintenance, **audit RGAA** et **recommandations techniques** (montées de version
 > majeures PHP et Symfony, correctifs issus de tests d'intrusion, mise en conformité RGPD).
 
-**[Oreca Events](https://oreca-events.com/) · Oreca Group · Driving Center · [Alpine](https://www.alpinecars.fr/)**
-> Sites du groupe Oreca (sport automobile, événementiel, stages de pilotage) et pages produit du
-> constructeur Alpine, dont des pages immersives animées au défilement.
+**Groupe de sport automobile — événementiel, centre de pilotage — et constructeur automobile sportif**
+> Sites du groupe un groupe de sport automobile (sport automobile, événementiel, stages de pilotage) et pages produit du
+> constructeur un constructeur automobile sportif, dont des pages immersives animées au défilement.
 >> Intégration et développement Next.js, React, Framer Motion. Cadrage fonctionnel et recette
->> technique SEO sur le projet Oreca Experience.
+>> technique SEO sur le projet un groupe de sport automobile Experience.
 
-**[Facets](https://facets.fr/)** · **[Kering Foundation](https://www.keringfoundation.org/)** · **[AD13](https://comites-feux.com/)** · **[Guira FM](https://www.guirafm.com/)** · **[Aerokart](https://www.aerokart.com/)** · **[Eiffage](https://www.eiffage.com/)** · **[SPK](https://www.spk-conseil.fr/)** · **AA Biomasse** · **Elyse Technology** · **Pharmaspaces** · **Milano Design** · **Yekrak** · **Uniskip** · **[Les soirées de Saint Marc](https://lessoireesdesaintmarc.fr/)** · **Atechsys** · **MF Power Competition** · **Gaarden** · **Cellois Handball** · **Helipse** · **Immo Souchon** · **Paraclub Aix** · **Punta Serena**
+**Plateforme de facettes** · **Fondation d’entreprise** · **Association départementale de prévention** · **Radio associative** · **Complexe de loisirs indoor** · **Groupe de construction** · **Cabinet de conseil** · **Acteur de la biomasse** · **PME industrielle** · **Distributeur pour officines** · **Agence de design** · **Place de marché** · **Acteur de la logistique** · **Événement culturel** · **Société de drones** · **Préparateur automobile** · **Acteur du jardin** · **Club sportif** · **Opérateur d’hélicoptères** · **Agence immobilière** · **Club de parachutisme** · **Établissement hôtelier**
 > Sites vitrines et institutionnels, dont plusieurs multilingues.
 >> Intégration et développement selon les projets : React, Next.js, Vue.js, Svelte, Twig, Sass,
 >> JavaScript. Back-offices Builder.io, WordPress, Sonata.
 
 ### Applications et back-offices
 
-**[RRG RH](https://jobsfrance.renaultretailgroup.com/)** — Groupe Renault
+**Groupe de distribution automobile**
 > Site de recrutement : consultation des annonces, dépôt de candidatures, back-office de gestion.
 >> Intégration et développement Twig, Sass et Vue.js, puis refonte.
 
-**[Datagora](https://datagora.fr/) et [Datagora mobile](https://play.google.com/store/apps/details?id=com.datagora)**
+**Média de vulgarisation statistique et L’application mobile d’un média de vulgarisation statistique**
 > Fil d'actualité de dépêches synthétiques restituant les résultats clés de publications
 > statistiques et de recherche.
 >> Intégration et développement React et **React Native**.
 
-**Montaclair ADR**
+**une société d’audits terrain ADR**
 > Application tablette et back-office pour des audits terrain : création de dossiers, formulaires
 > de saisie hors ligne, circuit de validation client.
 >> Cadrage fonctionnel, intégration et développement.
