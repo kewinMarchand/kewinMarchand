@@ -206,7 +206,7 @@ Sélection par nature de projet.
 > E-commerce de jantes et pneumatiques, avec configurateur de compatibilité véhicule.
 >> Intégration et développement, maintenance évolutive sur plusieurs années.
 
-**Plateformes B2B Djust** — Fleury Michon, Socoda, Monoprix, Codeal
+**Plateformes B2B Djust** — Fleury Michon, Socoda, Monoprix, Codeal, Yack
 > Portails de commande B2B adossés à la solution e-commerce Djust : catalogues, comptes
 > multi-acheteurs, cinématiques de commande, back-offices.
 >> Intégration et développement React et TypeScript sur les applications front.
@@ -224,7 +224,7 @@ Sélection par nature de projet.
 >> Intégration et développement Next.js, React, Framer Motion. Cadrage fonctionnel et recette
 >> technique SEO sur le projet Oreca Experience.
 
-**[Facets](https://facets.fr/)** · **[Kering Foundation](https://www.keringfoundation.org/)** · **[AD13](https://comites-feux.com/)** · **[Guira FM](https://www.guirafm.com/)** · **[Aerokart](https://www.aerokart.com/)** · **[Eiffage](https://www.eiffage.com/)** · **[SPK](https://www.spk-conseil.fr/)** · **AA Biomasse** · **Elyse Technology** · **Pharmaspaces** · **Milano Design** · **Yekrak** · **Uniskip** · **[Les soirées de Saint Marc](https://lessoireesdesaintmarc.fr/)**
+**[Facets](https://facets.fr/)** · **[Kering Foundation](https://www.keringfoundation.org/)** · **[AD13](https://comites-feux.com/)** · **[Guira FM](https://www.guirafm.com/)** · **[Aerokart](https://www.aerokart.com/)** · **[Eiffage](https://www.eiffage.com/)** · **[SPK](https://www.spk-conseil.fr/)** · **AA Biomasse** · **Elyse Technology** · **Pharmaspaces** · **Milano Design** · **Yekrak** · **Uniskip** · **[Les soirées de Saint Marc](https://lessoireesdesaintmarc.fr/)** · **Atechsys** · **MF Power Competition** · **Gaarden** · **Cellois Handball** · **Helipse** · **Immo Souchon** · **Paraclub Aix** · **Punta Serena**
 > Sites vitrines et institutionnels, dont plusieurs multilingues.
 >> Intégration et développement selon les projets : React, Next.js, Vue.js, Svelte, Twig, Sass,
 >> JavaScript. Back-offices Builder.io, WordPress, Sonata.
