@@ -339,9 +339,3 @@ Google *Digital Active* et *Ateliers Numériques*.
 ## Divers
 
 Permis B · Passionné par la botanique
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/kewin-marchand/)
