@@ -5,15 +5,15 @@
 <h1 align="center">Kewin Marchand</h1>
 
 <p align="center">
-  <b>Développeur front-end React / TypeScript</b>
+  <b>Accessibilité numérique &amp; qualité web</b>
   <br>
-  Référent front-end
+  Développeur front-end senior React / TypeScript — référent technique
   <br>
-  <i>Accessibilité numérique &amp; qualité web</i>
+  <i>Audits RGAA 4.1, remédiation, tests end-to-end</i>
 </p>
 
 <p align="center">
-  Vauvenargues, Provence-Alpes-Côte d'Azur — ouvert au télétravail
+  Vauvenargues, Provence-Alpes-Côte d'Azur — télétravail complet, déplacements groupés
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 <p align="center">
   <img alt="8 ans d'expérience" src="https://img.shields.io/badge/exp%C3%A9rience-8%20ans-1f4e79?style=for-the-badge">
-  <img alt="Une quarantaine de projets" src="https://img.shields.io/badge/projets%20clients-~40-1f4e79?style=for-the-badge">
+  <img alt="Une cinquantaine de projets" src="https://img.shields.io/badge/projets%20clients-~50-1f4e79?style=for-the-badge">
   <img alt="Une trentaine de comptes" src="https://img.shields.io/badge/comptes-~30-1f4e79?style=for-the-badge">
 </p>
 
 <p align="center">
   <img alt="60 % du code source" src="https://img.shields.io/badge/code%20source%20du%20projet%20phare-~60%25-2d7d46?style=for-the-badge">
-  <img alt="Près d'un millier de revues" src="https://img.shields.io/badge/revues%20de%20code-~1%20000-2d7d46?style=for-the-badge">
+  <img alt="Plus de 950 revues" src="https://img.shields.io/badge/revues%20de%20code-950%2B-2d7d46?style=for-the-badge">
   <img alt="Plus de 250 scénarios e2e" src="https://img.shields.io/badge/sc%C3%A9narios%20e2e-250%2B-2d7d46?style=for-the-badge">
 </p>
 
@@ -90,12 +90,12 @@ dernières années — pas une liste de technologies croisées.
 
 | Compétence | Pratique effective |
 |---|---|
-| **React** | Pratique quotidienne depuis 2018. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
+| **React** | Pratique quotidienne **depuis 2019**, date du premier fichier mesurée sur l'historique git. Composition, hooks, découpage de responsabilités, mémoïsation uniquement quand elle est mesurée |
 | **Next.js** | App Router, Server Components, frontière serveur/client, stratégies de cache et de revalidation, `next/image`, `next/font` |
 | **TypeScript** | `strict` sans `any`, types générés depuis un schéma OpenAPI plutôt qu'écrits à la main, unions plutôt qu'enums |
 | **Vue.js, Svelte** | Projets livrés en production sur les deux |
 | **CSS, Sass, MUI, CSS-in-JS** | Mobile-first, intégration pixel-perfect depuis Figma sur tous les points de rupture, thème multi-marques |
-| **Design system** | Conception et maintenance d'un système d'**une quarantaine de composants** encapsulant la librairie tierce, pour isoler l'application de ses changements d'API |
+| **Design system** | Terrain de travail **depuis huit ans**, sur chaque année sans exception. Conception et maintenance d'un système d'**une quarantaine de composants** encapsulant la librairie tierce, pour isoler l'application de ses changements d'API |
 | **État & données** | Redux Toolkit, React Query, `redux-persist`, client typé `openapi-fetch` |
 | **HTML, Twig, Stimulus, Symfony UX** | Intégration côté Symfony |
 | **React Native** | Une application mobile livrée et publiée sur le Play Store |
@@ -106,6 +106,7 @@ dernières années — pas une liste de technologies croisées.
 |---|---|
 | **RGAA 4.1** | **Quatre audits livrés**, dont un **audit complet sur les 106 critères** : taux de conformité mesuré, liste des non-conformités, plan de remédiation priorisé, chiffrage en jours, benchmark sectoriel |
 | **WCAG 2.1 AA** | Conformité tenue au fil du développement plutôt que rattrapée en fin de cycle |
+| **Antériorité** | Pratiquée **sans interruption depuis 2019**, mesurée sur l'historique git de 82 dépôts. Enseignée avant d'être pratiquée : deux séances de la formation « Web designer » animée à l'AFPA en 2017-2018 y étaient consacrées |
 | **Pratique** | Sémantique HTML, ARIA employé à bon escient, gestion du focus et focus trap, ordre de tabulation, contrastes, navigation clavier, restitution lecteur d'écran |
 | **Cadre légal** | Loi du 11 février 2005, loi du 7 octobre 2016, décret n° 2019-768, European Accessibility Act, déclaration d'accessibilité et schéma pluriannuel |
 
@@ -124,8 +125,9 @@ dernières années — pas une liste de technologies croisées.
 
 | Volet | Pratique effective |
 |---|---|
-| **Revue de code** | Référent front-end de fait : **près d'un millier de revues** de pull requests et de merge requests, sur **une trentaine de développeurs** — dont des prestataires externes et des développeurs côté client |
+| **Revue de code** | Référent front-end de fait : **plus de 950 revues** de pull requests et de merge requests, auprès de **29 développeurs distincts** — dont des prestataires externes et des développeurs côté client |
 | **Décisions d'architecture** | **Une trentaine d'ADR** rédigées : architecture hexagonale par domaine, règles d'isolation opposables, injection de dépendances, frontière serveur/client explicite |
+| **Conduite en parallèle** | Jusqu'à **27 projets suivis la même année** (2025), et **81 fusions menées** en 2024 — l'intégration et la mise en production des livraisons de l'équipe |
 | **Documentation technique** | une soixantaine de documents maintenus dans le dépôt — conventions, cache, thème, tests, médias, exceptions |
 | **Git** | plus de 1 200 pull requests et autant de merge requests créées, GitHub et GitLab |
 | **Environnement** | Docker, Docker Compose, Makefile de pilotage, CI (lint, contrôle de types, tests), Sentry |
