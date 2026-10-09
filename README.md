@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Développeur front-end senior · React · TypeScript · Next.js</b><br>
-  Commerce en ligne B2B et B2C · Design system · Qualité web
+  Design system · Qualité web · Tests end-to-end
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ---
 
-> **Je construis des interfaces de commerce en ligne qui tiennent dans la durée.** Huit ans de front-end en React et TypeScript, dont trois comme référent front-end.
-> Plateformes e-commerce, portails de commande B2B, design system. Les tests, la performance et l'accessibilité sont tenus pendant le développement, pas rattrapés en fin de projet.
+> Huit ans de développement front-end en React et TypeScript, dont trois comme référent front-end.
+> Design system, revue de code, tests end-to-end : la qualité est tenue pendant le développement, pas rattrapée en fin de projet.
 
 ## En chiffres
 
@@ -31,9 +31,9 @@
 
 ## Ce que j'apporte
 
-| 🛒 Commerce en ligne | 🧱 Construire | ✅ Fiabiliser |
-|---|---|---|
-| Parcours d'achat B2C, de la recherche au paiement. Portails de commande B2B : catalogue, comptes multi-acheteurs, circuits de commande, back-office. | Applications React, Next.js et TypeScript en `strict`, découpées en domaines, avec un design system qui isole l'application des librairies tierces. | Revue de code d'une trentaine de développeurs, une trentaine de décisions d'architecture écrites, tests end-to-end desktop et mobile, Core Web Vitals et accessibilité contrôlés. |
+| 🧱 Construire | ✅ Fiabiliser |
+|---|---|
+| Applications React, Next.js et TypeScript en `strict`, découpées en domaines, avec un design system qui isole l'application des librairies tierces. | Revue de code d'une trentaine de développeurs, une trentaine de décisions d'architecture écrites, tests end-to-end desktop et mobile, Core Web Vitals et accessibilité contrôlés. |
 
 ## Réalisations
 
@@ -79,7 +79,6 @@ Refonte graphique complète du front, **plus de 260 templates**, site maintenu d
 |---|---|
 | **Front-end** | React, Next.js (App Router, Server Components), TypeScript, Redux Toolkit, TanStack Query, Vue 3 et Nuxt, Svelte |
 | **Interface** | MUI, Tailwind, Sass, Storybook, Framer Motion, intégration fidèle aux maquettes Figma |
-| **Commerce en ligne** | Parcours d'achat, fiche produit, compte client, acompte et financement, portails B2B multi-acheteurs |
 | **Qualité** | Revue de code, tests end-to-end (CodeceptJS, Playwright), Core Web Vitals, Lighthouse, checklist de mise en production |
 | **Accessibilité** | RGAA 4.1 et WCAG 2.1 AA au quotidien, audits |
 | **Back consommé** | API REST, Symfony et API Platform, types générés depuis OpenAPI, Node.js |
