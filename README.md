@@ -40,7 +40,7 @@
 ### 🚗 Plateforme e-commerce automobile à fort trafic
 *Groupe de distribution automobile, réseau multi-concessions*
 
-**Auteur principal de la refonte**, de l'ancienne application Angular à Next.js : recherche, fiche véhicule, achat avec acompte, financement, reprise, rendez-vous atelier, espace client.
+**Auteur principal de la refonte**, de l'ancienne application Angular à Next.js. Refonte complète : domaines indépendants, design system, rendu serveur, tunnel d’achat, SEO, accessibilité, scénarios e2e, Core Web Vitals.
 Une vingtaine de domaines indépendants, un design system de plus de 40 composants, un thème multi-marques, plus de 250 scénarios end-to-end.
 
 `Next.js` `React` `TypeScript` `Redux Toolkit` `TanStack Query` `MUI` `CodeceptJS`
@@ -48,9 +48,9 @@ Une vingtaine de domaines indépendants, un design system de plus de 40 composan
 ### 🛍️ Portails de commande B2B
 *Distribution professionnelle et grande consommation*
 
-Quatre déclinaisons clientes d'une même base, sur une solution e-commerce B2B du marché : **catalogues, comptes multi-acheteurs, circuits de commande et back-offices**. Front développé en Vue (Nuxt) et TypeScript, composants documentés dans Storybook.
+Sur une solution B2B du marché : **quatre déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
 
-`Nuxt` `Vue.js` `TypeScript` `Storybook`
+`Nuxt 2` `TypeScript` `Storybook`
 
 ### 📦 Refonte d'un site de transport express
 *Transporteur express international*
