@@ -48,9 +48,9 @@ Une vingtaine de domaines indépendants, un design system de plus de 40 composan
 ### 🛍️ Portails de commande B2B
 *Distribution professionnelle et grande consommation*
 
-Quatre déclinaisons clientes d'une même base, sur une solution e-commerce B2B du marché : **catalogues, comptes multi-acheteurs, circuits de commande et back-offices**. Front développé en React et TypeScript, composants documentés dans Storybook.
+Quatre déclinaisons clientes d'une même base, sur une solution e-commerce B2B du marché : **catalogues, comptes multi-acheteurs, circuits de commande et back-offices**. Front développé en Vue (Nuxt) et TypeScript, composants documentés dans Storybook.
 
-`React` `TypeScript` `Storybook`
+`Nuxt` `Vue.js` `TypeScript` `Storybook`
 
 ### 📦 Refonte d'un site de transport express
 *Transporteur express international*
