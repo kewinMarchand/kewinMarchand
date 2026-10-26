@@ -25,15 +25,15 @@
 
 ## En chiffres
 
-| **8 ans** | **50+** | **950+** | **250+** | **40+** | **1 260 h** |
+| **8 ans** | **50+** | **~1 000** | **200+** | **~40** | **1 260 h** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| de front-end React et TypeScript | projets clients | actes de revue de code | scénarios end-to-end | composants de design system | de formation dispensée |
+| de front-end React et TypeScript | projets clients | revues de code | scénarios end-to-end | composants de design system | de formation dispensée |
 
 ## Ce que j'apporte
 
 | 🧱 Construire | ✅ Fiabiliser |
 |---|---|
-| Applications React, Next.js et TypeScript en `strict`, découpées en domaines, avec un design system qui isole l'application des librairies tierces. | Revue de code d'une trentaine de développeurs, une trentaine de décisions d'architecture écrites, tests end-to-end desktop et mobile, Core Web Vitals et accessibilité contrôlés. |
+| Applications React, Next.js et TypeScript en `strict`, découpées en domaines, avec un design system qui isole l'application des librairies tierces. | Revue de code des développeurs internes et prestataires, décisions d'architecture front écrites, tests end-to-end desktop et mobile, Core Web Vitals et accessibilité contrôlés. |
 
 ## Réalisations
 
@@ -41,14 +41,14 @@
 *Groupe de distribution automobile, réseau multi-concessions*
 
 **Auteur principal de la refonte**, de l'ancienne application Angular à Next.js. Refonte complète : domaines indépendants, design system, rendu serveur, tunnel d’achat, SEO, accessibilité, scénarios e2e, Core Web Vitals.
-Une vingtaine de domaines indépendants, un design system de plus de 40 composants, un thème multi-marques, plus de 250 scénarios end-to-end.
+Des domaines indépendants, un design system d'une quarantaine de composants, un thème multi-marques, plus de deux cents scénarios end-to-end.
 
 `Next.js` `React` `TypeScript` `Redux Toolkit` `TanStack Query` `MUI` `CodeceptJS`
 
 ### 🛍️ Portails de commande B2B
 *Distribution professionnelle et grande consommation*
 
-Sur une solution B2B du marché : **quatre déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
+Sur une solution B2B du marché : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
 
 `Nuxt 2` `TypeScript` `Storybook`
 
@@ -64,7 +64,7 @@ Refonte graphique complète du front, **plus de 260 templates**, site maintenu d
 
 &nbsp;
 
-- **Audits d'accessibilité RGAA 4.1** : un fournisseur de solutions de paiement (conformité mesurée sur 52 critères applicables, 26 non-conformités, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
+- **Audits d'accessibilité RGAA 4.1** : un fournisseur de solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
 - **Sport automobile** : sites de l'événementiel et des stages de pilotage, pages produit animées au défilement. `Next.js` `Framer Motion`
 - **Média de vulgarisation statistique** : site web et application mobile publiée sur le Play Store. `React` `React Native`
 - **E-commerce de pièces auto et moto** : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
