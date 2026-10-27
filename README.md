@@ -60,11 +60,11 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 &nbsp;
 
-- **Audits d'accessibilité RGAA 4.1** : un fournisseur de solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
+- **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
 - **ORECA et Alpine** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
 - **Datagora**, média de vulgarisation statistique : site web et application mobile publiée sur le Play Store. `React` `React Native`
 - **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
-- **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain utilisable hors ligne. `Vue.js` `Twig`
+- **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
 - **Une vingtaine de sites vitrines et institutionnels**, plusieurs multilingues. `React` `Next.js` `Vue.js` `Svelte` `WordPress`
 
 </details>
