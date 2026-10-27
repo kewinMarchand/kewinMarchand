@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/images/me.png" width="160" alt="Portrait de Kewin Marchand">
-</p>
-
 <h1 align="center">Kewin Marchand</h1>
 
 <p align="center">
