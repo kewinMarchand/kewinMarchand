@@ -34,7 +34,7 @@
 ## Réalisations
 
 ### 🚗 Plateforme e-commerce automobile à fort trafic
-*Groupe de distribution automobile, réseau multi-concessions*
+*Retail Renault Group (RRG), réseau multi-concessions*
 
 **Auteur principal de la refonte**, de l'ancienne application Angular à Next.js. Refonte complète : domaines indépendants, design system, rendu serveur, tunnel d’achat, SEO, accessibilité, scénarios e2e, Core Web Vitals.
 Des domaines indépendants, un design system d'une quarantaine de composants, un thème multi-marques, plus de deux cents scénarios end-to-end.
@@ -42,16 +42,16 @@ Des domaines indépendants, un design system d'une quarantaine de composants, un
 `Next.js` `React` `TypeScript` `Redux Toolkit` `TanStack Query` `MUI` `CodeceptJS`
 
 ### 🛍️ Portails de commande B2B
-*Distribution professionnelle et grande consommation*
+*Sur Djust · distribution professionnelle et grande consommation*
 
-Sur une solution B2B du marché : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
+Sur la solution B2B Djust : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
 
 `Nuxt 2` `TypeScript` `Storybook`
 
-### 📦 Refonte d'un site de transport express
-*Transporteur express international*
+### 📦 Refonte du site DHL Express France
+*DHL Express, transport express international*
 
-Refonte graphique complète du front, **plus de 260 templates**, site maintenu dans la durée et audité au regard du RGAA. Plan de mesure GA4 et son contrôle qualité.
+Refonte graphique complète du front, site maintenu dans la durée et audité au regard du RGAA. Plan de mesure GA4 et son contrôle qualité.
 
 `Symfony` `Laravel` `JavaScript` `GA4`
 
@@ -61,10 +61,10 @@ Refonte graphique complète du front, **plus de 260 templates**, site maintenu d
 &nbsp;
 
 - **Audits d'accessibilité RGAA 4.1** : un fournisseur de solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
-- **Sport automobile** : sites de l'événementiel et des stages de pilotage, pages produit animées au défilement. `Next.js` `Framer Motion`
-- **Média de vulgarisation statistique** : site web et application mobile publiée sur le Play Store. `React` `React Native`
-- **E-commerce de pièces auto et moto** : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
-- **Applications métier** : plateforme de recrutement d'un groupe automobile, application tablette d'audits terrain utilisable hors ligne. `Vue.js` `Twig`
+- **ORECA et Alpine** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
+- **Datagora**, média de vulgarisation statistique : site web et application mobile publiée sur le Play Store. `React` `React Native`
+- **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
+- **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain utilisable hors ligne. `Vue.js` `Twig`
 - **Une vingtaine de sites vitrines et institutionnels**, plusieurs multilingues. `React` `Next.js` `Vue.js` `Svelte` `WordPress`
 
 </details>
