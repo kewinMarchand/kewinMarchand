@@ -37,14 +37,14 @@
 *Retail Renault Group (RRG), réseau multi-concessions*
 
 **Auteur principal de la refonte**, de l'ancienne application Angular à Next.js. Refonte complète : domaines indépendants, design system, rendu serveur, tunnel d’achat, SEO, accessibilité, scénarios e2e, Core Web Vitals.
-Des domaines indépendants, un design system d'une quarantaine de composants, un thème multi-marques, plus de deux cents scénarios end-to-end.
+Des domaines indépendants, un design system d'une quarantaine de composants, un thème multi-marques, plus de deux cents scénarios end-to-end. Plus de 6 500 heures sur les sites du groupe depuis 2018.
 
 `Next.js` `React` `TypeScript` `Redux Toolkit` `TanStack Query` `MUI` `CodeceptJS`
 
 ### 🛍️ Portails de commande B2B
 *Sur Djust · distribution professionnelle et grande consommation*
 
-Sur la solution B2B Djust : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook.
+Sur la solution B2B Djust : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook. Plus de 850 heures sur ces portails depuis 2022.
 
 `Nuxt 2` `TypeScript` `Storybook`
 
