@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="cv-kewin-marchand.pdf"><img alt="Mon CV en PDF" src="https://img.shields.io/badge/Mon%20CV-PDF-1f4e79?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/kewin-marchand/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profil-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kewin-marchand/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profil-0a66c2?style=for-the-badge"></a>
 </p>
 
 ---
