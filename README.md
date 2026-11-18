@@ -4,12 +4,12 @@
 
 > Huit ans de front-end en React et TypeScript, dont trois comme référent front-end. Mon terrain : des applications que les équipes peuvent faire évoluer sans casse — design system, revue de code, tests end-to-end.
 
-## 🚀 Réalisations
+## 🚀 Mes réalisations professionnelles
 
 <p align="center">
   <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
-  <br><sub>Refonte et nouvelles features + maintenance pendant 8 ans — intégrateur / développeur front-end.</sub>
+  <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <br>
   <b>SPK</b> — intégrateur / développeur front-end.
   &nbsp;&nbsp;
-  <b>Datagora</b> — intégrateur / développeur (site web et application mobile).
+  <b>Datagora</b> — intégrateur / développeur.
 </p>
 
 <p align="center">
@@ -56,6 +56,11 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 **Autres réalisations**
 
+- **aa-biomasse** : site vitrine. `React` `Next.js`
+- **Jantes et Pneus** : boutique e-commerce et configurateur de compatibilité véhicule. `Symfony` `Twig` `Vue.js`
+- **Quartier des Jantes** : boutique e-commerce et configurateur de compatibilité véhicule. `Symfony` `Twig` `Vue.js`
+- **Dépamoto** : boutique e-commerce de pièces moto. `Symfony` `Twig` `Vue.js`
+- **AD13** : site vitrine associatif. `React` `React admin`
 - **Datagora** : média de vulgarisation statistique, site web et application mobile sur le Play Store. `React` `React Native`
 - **Radio Guira** : site radio (Symfony, SPA React, lecteur audio, RGAA). `Symfony` `React` `TypeScript`
 - **Oreca Experience** : sites d'Oreca Events et du Driving Center. `Next.js` `Framer Motion`
