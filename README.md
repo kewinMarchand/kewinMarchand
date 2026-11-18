@@ -17,16 +17,17 @@
 <td align="center" valign="top">
   <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
+  <br><sub>Auteur principal de la refonte Angular → Next.js.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
   <table width="100%"><tr>
-  <td align="center" width="50%"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="100%" alt="SPK"></a><br><b>SPK</b></td>
-  <td align="center" width="50%"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+  <td align="center" width="50%"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="100%" alt="SPK"></a><br><b>SPK</b><br><sub>Site vitrine et projets (Next.js, React).</sub></td>
+  <td align="center" width="50%"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Site web et application mobile (React, React Native).</sub></td>
   </tr><tr>
-  <td align="center" width="50%"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="100%" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
-  <td align="center" width="50%"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+  <td align="center" width="50%"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="100%" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Site radio Symfony + SPA React, lecteur audio, RGAA.</sub></td>
+  <td align="center" width="50%"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Sites Oreca Events et Driving Center, pages produit Alpine.</sub></td>
   </tr></table>
 </td>
 </tr>
