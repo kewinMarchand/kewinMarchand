@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
-  <br><sub>Intégrateur / développeur front-end. RGAA, SEO, Core Web Vitals.</sub>
+  <br><sub>Intégrateur / développeur front-end. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</sub>
 </p>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
@@ -25,7 +25,7 @@
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end. RGAA, GA4.</sub></td>
+<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</sub></td>
 <td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
 <td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
 </tr>
