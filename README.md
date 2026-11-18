@@ -9,29 +9,30 @@
 <p align="center">
   <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
+  <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
-<table>
+<table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="390"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b></td>
-<td align="center" width="390"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+<td align="center" width="390" style="border:none"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Intégrateur / développeur.</sub></td>
 </tr>
 <tr>
-<td align="center" width="390"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
-<td align="center" width="390"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+<td align="center" width="390" style="border:none"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 </table>
 
-<table>
+<table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="260"><a href="https://www.dhl.fr/" target="_blank"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b></td>
-<td align="center" width="260"><a href="#" target="_blank"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b></td>
-<td align="center" width="260"><a href="#" target="_blank"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b></td>
+<td align="center" width="260" style="border:none"><a href="https://www.dhl.fr/" target="_blank"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 <tr>
-<td align="center" width="260"><a href="#" target="_blank"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b></td>
-<td align="center" width="260"><a href="#" target="_blank"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b></td>
-<td align="center" width="260"><a href="#" target="_blank"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b></td>
+<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 </table>
 
@@ -148,7 +149,7 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 <tr><th width="22%" style="white-space:nowrap">Période</th><th width="50%">Formation</th><th width="28%">Structure</th></tr>
 <tr><td style="white-space:nowrap">2017 &rarr; 2018</td><td>Titre professionnel <b>Designer web</b> (niveau 5)</td><td>AFPA</td></tr>
 <tr><td style="white-space:nowrap">2014</td><td><b>DAO — Professionnaliser sa pratique</b> (AutoCAD, SketchUp, SolidWorks)</td><td>GRETA Occitanie</td></tr>
-<tr><td style="white-space:nowrap">2003 &rarr; 2005</td><td>BTSA Aménagement de l'espace paysager</td><td>en apprentissage</td></tr>
+<tr><td style="white-space:nowrap">2003 &rarr; 2005</td><td>BTSA Aménagement de l'espace paysager</td><td>CFPPA Auzeville-Tolosane</td></tr>
 </table>
 
 </details>
