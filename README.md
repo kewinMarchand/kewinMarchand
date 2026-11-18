@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
 </p>
-<h4 align="center">retail-renault-group.fr</h3>
+<h3 align="center">retail-renault-group.fr</h3>
 <p align="center">
   <span style="font-size:13px">Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. Mise en place des push GTM à grande échelle, intégration d'une solution pour le contenu administrable, création des domaines, repositories et services, conception et mise en place de l'architecture. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</span>
 </p>
@@ -86,8 +86,8 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><h3>Laboratoire machine learning</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><h3>Pause café</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><h3>Laboratoire machine learning</h3><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><h3>Pause café</h3><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
 </tr>
 </table>
 
