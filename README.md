@@ -9,32 +9,32 @@
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
 </p>
-<h4 align="center">retail-renault-group.fr</h4>
+<h4 align="center">retail-renault-group.fr</h3>
 <p align="center">
   <span style="font-size:13px">Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. Mise en place des push GTM à grande échelle, intégration d'une solution pour le contenu administrable, création des domaines, repositories et services, conception et mise en place de l'architecture. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</span>
 </p>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><h4>spk-group.fr</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
-<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><h4>datagora.fr</h4><br><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></td>
+<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><h3>spk-group.fr</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
+<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><h3>datagora.fr</h3><br><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><h4>radioguira.org</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
-<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><h4>oreca-experiences.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><h3>radioguira.org</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
+<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><h3>oreca-experiences.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
 </tr>
 </table>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><h4>dhlexpress.fr</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></td>
-<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><h4>aa-biomasse.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><h4>jantes-et-pneus.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><h3>dhlexpress.fr</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></td>
+<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><h3>aa-biomasse.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><h3>jantes-et-pneus.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><h4>quartierdesjantes.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><h4>depamoto.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><h4>comites-feux.com</h4><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></td>
+<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><h3>quartierdesjantes.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><h3>depamoto.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><h3>comites-feux.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></td>
 </tr>
 </table>
 
@@ -86,8 +86,8 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><h4>Laboratoire machine learning</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><h4>Pause café</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><h3>Laboratoire machine learning</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><h3>Pause café</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
 </tr>
 </table>
 
