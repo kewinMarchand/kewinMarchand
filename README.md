@@ -7,32 +7,32 @@
 ## 🚀 Mes réalisations professionnelles
 
 <p align="center">
-  <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
+  <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
   <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
 <table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="390" style="border:none"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="390" style="border:none"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Intégrateur / développeur.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Intégrateur / développeur.</sub></td>
 </tr>
 <tr>
-<td align="center" width="390" style="border:none"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="390" style="border:none"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="390" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 </table>
 
 <table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="260" style="border:none"><a href="https://www.dhl.fr/" target="_blank"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="https://www.dhl.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 <tr>
-<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#" target="_blank"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="260" style="border:none"><a href="#"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 </tr>
 </table>
 
@@ -80,7 +80,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/tensor-lab" target="_blank"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
   <br>
   <b>Laboratoire machine learning</b>
   <br>
@@ -89,7 +89,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
   <a href="https://kewinmarchand.github.io/tensor-lab/" title="Démo">🌐</a>
 </td>
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/neon-games" target="_blank"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
   <br>
   <b>Pause café</b>
   <br>
