@@ -87,7 +87,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
 <td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><h3 align="center">Laboratoire machine learning</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><h3 align="center">Pause café</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games - douze mini-jeux jouables dans le navigateur"></a><h3 align="center">Pause café</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
 </tr>
 </table>
 
