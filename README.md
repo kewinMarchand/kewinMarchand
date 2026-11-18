@@ -152,8 +152,4 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 
 </details>
 
-<p align="center">
-  <img src="assets/bulle-arbre.jpg" alt="Bulle et arbre" width="60%">
-</p>
-
 <sub>Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire) · Passionné de botanique</sub>
