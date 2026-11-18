@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>renault-retail-group</b>
-  <br><sub>Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</sub>
+  <br><sub>Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. Mise en place des push GTM à grande échelle, intégration de builder.io pour le contenu administrable, création des domaines, repositories et services, conception et mise en place de l'architecture. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</sub>
 </p>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
