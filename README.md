@@ -155,11 +155,14 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 </p>
 
 <details>
-<summary><b>Permis B · Langues</b></summary>
+<summary><b>autres</b></summary>
 
 &nbsp;
 
-Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire)
+- Permis B
+- Français (langue maternelle)
+- Anglais (lecture technique)
+- Espagnol (intermédiaire)
 
 </details>
 
