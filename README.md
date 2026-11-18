@@ -8,31 +8,31 @@
 
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
-  <br><b>renault-retail-group</b>
-  <br><sub>Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. Mise en place des push GTM à grande échelle, intégration de builder.io pour le contenu administrable, création des domaines, repositories et services, conception et mise en place de l'architecture. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</sub>
+  <br><b style="font-size:16px">retail-renault-group.fr</b>
+  <br><span style="font-size:13px">Reprise d'un site Angular.js porté en React puis Next.js, maintenu et enrichi au quotidien pendant 8 ans. Travail avec graphiste, product owner, chef de projet. Rôle de garant / référent front / standards digitaux. Mise en place des push GTM à grande échelle, intégration de builder.io pour le contenu administrable, création des domaines, repositories et services, conception et mise en place de l'architecture. RGAA, SEO, Core Web Vitals, GA4, Sentry, GTM.</span>
 </p>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>spk-group</b><br><sub>Intégrateur / développeur front-end. RGAA, SEO.</sub></td>
-<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>datagora</b><br><sub>Intégrateur / développeur. RGAA.</sub></td>
+<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b style="font-size:16px">spk-group.fr</b><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
+<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b style="font-size:16px">datagora.fr</b><br><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>radioguira</b><br><sub>Intégrateur / développeur front-end. RGAA, SEO.</sub></td>
-<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>oreca-experiences</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
+<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b style="font-size:16px">radioguira.org</b><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
+<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b style="font-size:16px">oreca-experiences.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
 </tr>
 </table>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>dhlexpress</b><br><sub>Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</sub></td>
-<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
-<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>jantes-et-pneus</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
+<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b style="font-size:16px">dhlexpress.fr</b><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></td>
+<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b style="font-size:16px">aa-biomasse.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b style="font-size:16px">jantes-et-pneus.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>quartierdesjantes</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
-<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>depamoto</b><br><sub>Intégrateur / développeur front-end. SEO.</sub></td>
-<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>comites-feux</b><br><sub>Intégrateur / développeur front-end. RGAA.</sub></td>
+<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b style="font-size:16px">quartierdesjantes.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b style="font-size:16px">depamoto.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b style="font-size:16px">comites-feux.com</b><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></td>
 </tr>
 </table>
 
@@ -84,8 +84,8 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><b>Laboratoire machine learning</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><b>Pause café</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><b style="font-size:16px">Laboratoire machine learning</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><b style="font-size:16px">Pause café</b><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
 </tr>
 </table>
 
@@ -162,4 +162,4 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
   <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 </p>
 
-<sub>Passionné de botanique</sub>
+<sub>Passionné de botanique</span>
