@@ -144,7 +144,7 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 </details>
 
 <details>
-<summary><b>Autres</b></summary>
+<summary><b>📌 Autres</b></summary>
 
 &nbsp;
 
