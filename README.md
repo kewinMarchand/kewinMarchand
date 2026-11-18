@@ -77,18 +77,12 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 ## 🛠️ Mes dépôts test
 
-<div align="center">
-  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
-    <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
-    <br><b>Laboratoire machine learning</b>
-    <br><sub>Intégrateur / développeur front-end.</sub>
-  </div>
-  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
-    <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
-    <br><b>Pause café</b>
-    <br><sub>Intégrateur / développeur front-end.</sub>
-  </div>
-</div>
+<table border="0" cellpadding="8" cellspacing="8">
+<tr>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><b>Laboratoire machine learning</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><b>Pause café</b><br><sub>Intégrateur / développeur front-end.</sub></td>
+</tr>
+</table>
 
 <details>
 <summary><b>🧰 Compétences</b></summary>
