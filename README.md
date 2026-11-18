@@ -23,40 +23,23 @@
 
 ## 🛠️ Mes dépôts
 
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/tensor-lab">
-    <img src="assets/tensor-lab.svg" width="100%" alt="Tensor Lab — Fear & Greed Tensor, application de machine learning">
-  </a>
-  <br><br>
-  <b>Tensor Lab</b> — portail d'applications de machine learning interactives (TensorFlow.js), sur un thème Graphite sombre et bleu acier.
-  <br>
-  <a href="https://github.com/kewinMarchand/tensor-lab">Dépôt</a> · <a href="https://kewinmarchand.github.io/tensor-lab/">Démo</a>
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-</td>
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/neon-games">
-    <img src="assets/neon-games.svg" width="100%" alt="Neon Games — Neon Invaders, mini-jeu néon">
-  </a>
-  <br><br>
-  <b>Neon Games</b> — neuf mini-jeux indépendants, gratuits et jouables dans le navigateur, sur une base CSS partagée.
-  <br>
-  <a href="https://github.com/kewinMarchand/neon-games">Dépôt</a> · <a href="https://kewinmarchand.github.io/neon-games/">Démo</a>
-  <br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="49%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="49%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
+</p>
 
-## 🚀 Réalisations
+<p align="center">
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9p%C3%B4t-6f93b8?style=for-the-badge"></a>
+  <a href="https://kewinmarchand.github.io/tensor-lab/"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9mo-22d3ee?style=for-the-badge"></a>
+  &emsp;
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9p%C3%B4t-48e2c3?style=for-the-badge"></a>
+  <a href="https://kewinmarchand.github.io/neon-games/"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9mo-ff65b5?style=for-the-badge"></a>
+</p>
+
+<details>
+<summary><b>🚀 Réalisations</b></summary>
+
+&nbsp;
 
 ### 🚗 Plateforme e-commerce automobile à fort trafic
 *Retail Renault Group (RRG), réseau multi-concessions*
@@ -80,10 +63,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 `Symfony` `Laravel` `JavaScript` `GA4`
 
-<details>
-<summary><b>Autres réalisations</b></summary>
-
-&nbsp;
+**Autres réalisations**
 
 - **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
 - **ORECA et Alpine** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
