@@ -154,4 +154,13 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
   <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 </p>
 
-<sub>Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire) · Passionné de botanique</sub>
+<details>
+<summary><b>Permis B · Langues</b></summary>
+
+&nbsp;
+
+Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire)
+
+</details>
+
+<sub>Passionné de botanique</sub>
