@@ -12,7 +12,7 @@
   <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
-<table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
+<table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
 <td align="center" width="390" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 <td align="center" width="390" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Intégrateur / développeur.</sub></td>
@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-<table style="border:none;border-collapse:collapse" border="0" cellpadding="0" cellspacing="0">
+<table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
 <td align="center" width="260" style="border:none"><a href="https://www.dhl.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end.</sub></td>
 <td align="center" width="260" style="border:none"><a href="#"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end.</sub></td>
