@@ -131,7 +131,7 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 | 2018 → 2026 | **Développeur front-end et référent front-end** | PURJUS Communication, agence digitale, Vauvenargues |
 | 2017 → 2018 | **Formateur « Web designer »** | AFPA, Le Pontet et Salon-de-Provence |
 | 2017 | **Intégrateur web** | Agence Hors Pistes, Venelles |
-| 2015 → 2017 | **Infographiste paysager** | Star's Jardin (Thibaud de Beschart) |
+| 2015 → 2017 | **Infographiste paysager** | Star's Jardin, Thibaud de Beschart |
 | 2015 | Vendeur conseil jardinerie | Botanic |
 | 2010 → 2013 | Ouvrier paysagiste | Les Jardins Sestian, Maniebat |
 | 2005 → 2010 | Jardinier-paysagiste | Particuliers employeurs (CESU) |
