@@ -7,28 +7,33 @@
 ## 🚀 Mes réalisations professionnelles
 
 <p align="center">
-  <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
+  <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
-  <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
-<p align="center">
-  <a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="49%" alt="SPK"></a>
-  <a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="49%" alt="Datagora — média statistique"></a>
-  <br>
-  <b>SPK</b> — intégrateur / développeur front-end.
-  &nbsp;&nbsp;
-  <b>Datagora</b> — intégrateur / développeur.
-</p>
+<table>
+<tr>
+<td align="center" width="390"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b></td>
+<td align="center" width="390"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+</tr>
+<tr>
+<td align="center" width="390"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
+<td align="center" width="390"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="49%" alt="Radio Guira"></a>
-  <a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="49%" alt="Oreca Experience"></a>
-  <br>
-  <b>Radio Guira</b> — intégrateur / développeur front-end.
-  &nbsp;&nbsp;
-  <b>Oreca Experience</b> — intégrateur / développeur front-end.
-</p>
+<table>
+<tr>
+<td align="center" width="260"><a href="https://www.dhl.fr/" target="_blank"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b></td>
+<td align="center" width="260"><a href="#" target="_blank"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b></td>
+<td align="center" width="260"><a href="#" target="_blank"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b></td>
+</tr>
+<tr>
+<td align="center" width="260"><a href="#" target="_blank"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b></td>
+<td align="center" width="260"><a href="#" target="_blank"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b></td>
+<td align="center" width="260"><a href="#" target="_blank"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b></td>
+</tr>
+</table>
 
 ### Détail des réalisations
 
