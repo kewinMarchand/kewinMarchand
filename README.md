@@ -2,36 +2,33 @@
   <img src="assets/banner.svg" alt="Kewin Marchand — développeur front-end" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kewin-marchand/"><img src="https://img.shields.io/badge/LinkedIn-kewin--marchand-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/kewinMarchand"><img src="https://img.shields.io/badge/GitHub-kewinMarchand-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/CV-PDF-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"></a>
-</p>
-
 > Huit ans de front-end en React et TypeScript, dont trois comme référent front-end. Mon terrain : des applications que les équipes peuvent faire évoluer sans casse — design system, revue de code, tests end-to-end.
 
 ## 🚀 Réalisations
 
-<table width="100%">
-<tr>
-<td align="center" valign="top">
+<p align="center">
   <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
-  <br><sub>Auteur principal de la refonte Angular → Next.js.</sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-  <table width="100%"><tr>
-  <td align="center" width="50%"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="100%" alt="SPK"></a><br><b>SPK</b><br><sub>Site vitrine et projets (Next.js, React).</sub></td>
-  <td align="center" width="50%"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Site web et application mobile (React, React Native).</sub></td>
-  </tr><tr>
-  <td align="center" width="50%"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="100%" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Site radio Symfony + SPA React, lecteur audio, RGAA.</sub></td>
-  <td align="center" width="50%"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Sites Oreca Events et Driving Center, pages produit Alpine.</sub></td>
-  </tr></table>
-</td>
-</tr>
-</table>
+  <br><sub>Refonte et nouvelles features + maintenance pendant 8 ans — intégrateur / développeur front-end.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="49%" alt="SPK"></a>
+  <a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="49%" alt="Datagora — média statistique"></a>
+  <br>
+  <b>SPK</b> — intégrateur / développeur front-end.
+  &nbsp;&nbsp;
+  <b>Datagora</b> — intégrateur / développeur (site web et application mobile).
+</p>
+
+<p align="center">
+  <a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="49%" alt="Radio Guira"></a>
+  <a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="49%" alt="Oreca Experience"></a>
+  <br>
+  <b>Radio Guira</b> — intégrateur / développeur front-end.
+  &nbsp;&nbsp;
+  <b>Oreca Experience</b> — intégrateur / développeur front-end.
+</p>
 
 ### Détail des réalisations
 
@@ -61,7 +58,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 - **Datagora** : média de vulgarisation statistique, site web et application mobile sur le Play Store. `React` `React Native`
 - **Radio Guira** : site radio (Symfony, SPA React, lecteur audio, RGAA). `Symfony` `React` `TypeScript`
-- **Oreca Experience** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
+- **Oreca Experience** : sites d'Oreca Events et du Driving Center. `Next.js` `Framer Motion`
 - **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
 - **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
 - **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
@@ -153,5 +150,11 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 - **2003 → 2005** · BTSA Aménagement de l'espace paysager, en apprentissage
 
 </details>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kewin-marchand/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/kewinMarchand"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+</p>
 
 <sub>Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire) · Passionné de botanique</sub>
