@@ -22,36 +22,12 @@
 <tr>
 <td align="center" valign="top">
   <table width="100%"><tr>
-  <td align="center" width="25%"><a href="https://spk.fr/"><img src="assets/spk.jpg" width="180" alt="SPK"></a><br><b>SPK</b></td>
-  <td align="center" width="25%"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="180" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
-  <td align="center" width="25%"><a href="https://www.radioguira.com/"><img src="assets/guira.png" width="180" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
-  <td align="center" width="25%"><a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="180" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+  <td align="center" width="50%"><a href="https://spk.fr/"><img src="assets/spk.jpg" width="180" alt="SPK"></a><br><b>SPK</b></td>
+  <td align="center" width="50%"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="180" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+  </tr><tr>
+  <td align="center" width="50%"><a href="https://www.radioguira.com/"><img src="assets/guira.jpg" width="180" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
+  <td align="center" width="50%"><a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="180" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
   </tr></table>
-</td>
-</tr>
-</table>
-
-## 🛠️ Mes dépôts test
-
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
-  <br>
-  <b>Laboratoire machine learning</b>
-  <br>
-  <a href="https://github.com/kewinMarchand/tensor-lab" title="Dépôt">📦</a>
-  &nbsp;
-  <a href="https://kewinmarchand.github.io/tensor-lab/" title="Démo">🌐</a>
-</td>
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
-  <br>
-  <b>Pause café</b>
-  <br>
-  <a href="https://github.com/kewinMarchand/neon-games" title="Dépôt">📦</a>
-  &nbsp;
-  <a href="https://kewinmarchand.github.io/neon-games/" title="Démo">🌐</a>
 </td>
 </tr>
 </table>
@@ -86,10 +62,34 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 - **Radio Guira** : site radio (Symfony, SPA React, lecteur audio, RGAA). `Symfony` `React` `TypeScript`
 - **Oreca Experience** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
 - **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
-- **Datagora**, média de vulgarisation statistique : site web et application mobile publiée sur le Play Store. `React` `React Native`
 - **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
 - **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
 - **Une vingtaine de sites vitrines et institutionnels**, plusieurs multilingues. `React` `Next.js` `Vue.js` `Svelte` `WordPress`
+
+## 🛠️ Mes dépôts test
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
+  <br>
+  <b>Laboratoire machine learning</b>
+  <br>
+  <a href="https://github.com/kewinMarchand/tensor-lab" title="Dépôt">📦</a>
+  &nbsp;
+  <a href="https://kewinmarchand.github.io/tensor-lab/" title="Démo">🌐</a>
+</td>
+<td align="center" width="50%" valign="top">
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
+  <br>
+  <b>Pause café</b>
+  <br>
+  <a href="https://github.com/kewinMarchand/neon-games" title="Dépôt">📦</a>
+  &nbsp;
+  <a href="https://kewinmarchand.github.io/neon-games/" title="Démo">🌐</a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🧭 Ce que j'apporte</b></summary>
@@ -126,16 +126,17 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 
 &nbsp;
 
-| Période | Poste | Structure |
-|---|---|---|
-| 2018 → 2026 | **Développeur front-end et référent front-end** | PURJUS Communication, agence digitale, Vauvenargues |
-| 2017 → 2018 | **Formateur « Web designer »** | AFPA, Le Pontet et Salon-de-Provence |
-| 2017 | **Intégrateur web** | Agence Hors Pistes, Venelles |
-| 2015 → 2017 | **Infographiste paysager** | Star's Jardin, Thibaud de Beschart |
-| 2015 | Vendeur conseil jardinerie | Botanic |
-| 2010 → 2013 | Ouvrier paysagiste | Les Jardins Sestian, Maniebat |
-| 2005 → 2010 | Jardinier-paysagiste | Particuliers employeurs (CESU) |
-| 1999 → 2005 | Apprenti paysagiste, du BEPA au BTSA | Jardin Vert, Mondouzil |
+<table>
+<tr><th width="22%" style="white-space:nowrap">Période</th><th width="38%">Poste</th><th width="40%">Structure</th></tr>
+<tr><td style="white-space:nowrap">2018 &rarr; 2026</td><td><b>Développeur front-end et référent front-end</b></td><td>PURJUS Communication, agence digitale</td></tr>
+<tr><td style="white-space:nowrap">2017 &rarr; 2018</td><td><b>Formateur « Web designer »</b></td><td>AFPA</td></tr>
+<tr><td style="white-space:nowrap">2017</td><td><b>Intégrateur web</b></td><td>Agence Hors Pistes</td></tr>
+<tr><td style="white-space:nowrap">2015 &rarr; 2017</td><td><b>Infographiste paysager</b></td><td>Star's Jardin, Thibaud de Beschart</td></tr>
+<tr><td style="white-space:nowrap">2015</td><td>Vendeur conseil jardinerie</td><td>Botanic</td></tr>
+<tr><td style="white-space:nowrap">2010 &rarr; 2013</td><td>Ouvrier paysagiste</td><td>Les Jardins Sestian</td></tr>
+<tr><td style="white-space:nowrap">2005 &rarr; 2010</td><td>Jardinier-paysagiste</td><td>Particuliers employeurs (CESU)</td></tr>
+<tr><td style="white-space:nowrap">1999 &rarr; 2005</td><td>Apprenti paysagiste, du BEPA au BTSA</td><td>Jardin Vert</td></tr>
+</table>
 
 2005 : Prix de l'apprentissage Midi-Pyrénées.
 
