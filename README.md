@@ -10,18 +10,30 @@
 
 > Huit ans de front-end en React et TypeScript, dont trois comme référent front-end. Mon terrain : des applications que les équipes peuvent faire évoluer sans casse — design system, revue de code, tests end-to-end.
 
-## 📊 En chiffres
+## 🚀 Réalisations
 
-<div align="center">
-  <img src="https://img.shields.io/badge/8_ans-front--end_React_%26_TypeScript-64748b?style=for-the-badge" alt="8 ans de front-end React et TypeScript">
-  <img src="https://img.shields.io/badge/50%2B-projets_clients-0284c7?style=for-the-badge" alt="50+ projets clients">
-  <img src="https://img.shields.io/badge/1%20000%2B-revues_de_code-d97706?style=for-the-badge" alt="Plus de 1 000 revues de code">
-  <img src="https://img.shields.io/badge/200%2B-tests_end--to--end-059669?style=for-the-badge" alt="200+ tests end-to-end">
-  <img src="https://img.shields.io/badge/40%2B-composants_design_system-db2777?style=for-the-badge" alt="40+ composants de design system">
-  <img src="https://img.shields.io/badge/1%20260_h-formation_dispensee-7c3aed?style=for-the-badge" alt="1 260 heures de formation dispensée">
-</div>
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+  <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
+  <br><b>RRG</b>
+</td>
+<td align="center" width="25%" valign="top">
+  <a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a>
+  <br><b>Datagora</b>
+</td>
+<td align="center" width="25%" valign="top">
+  <a href="https://www.radioguira.com/"><img src="assets/guira.png" width="100%" alt="Radio Guira"></a>
+  <br><b>Radio Guira</b>
+</td>
+<td align="center" width="25%" valign="top">
+  <a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a>
+  <br><b>Oreca Experience</b>
+</td>
+</tr>
+</table>
 
-## 🛠️ Mes dépôts
+## 🛠️ Mes dépôts test
 
 <table>
 <tr>
@@ -30,24 +42,23 @@
   <br>
   <b>Laboratoire machine learning</b>
   <br>
-  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9p%C3%B4t-64748b?style=for-the-badge"></a>
-  <a href="https://kewinmarchand.github.io/tensor-lab/"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9mo-38bdf8?style=for-the-badge"></a>
+  <a href="https://github.com/kewinMarchand/tensor-lab" title="Dépôt">📦</a>
+  &nbsp;
+  <a href="https://kewinmarchand.github.io/tensor-lab/" title="Démo">🌐</a>
 </td>
 <td align="center" width="50%" valign="top">
   <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
   <br>
   <b>Pause café</b>
   <br>
-  <a href="https://github.com/kewinMarchand/neon-games"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9p%C3%B4t-2dd4bf?style=for-the-badge"></a>
-  <a href="https://kewinmarchand.github.io/neon-games/"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9mo-f472b6?style=for-the-badge"></a>
+  <a href="https://github.com/kewinMarchand/neon-games" title="Dépôt">📦</a>
+  &nbsp;
+  <a href="https://kewinmarchand.github.io/neon-games/" title="Démo">🌐</a>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🚀 Réalisations</b></summary>
-
-&nbsp;
+### Détail des réalisations
 
 ### 🚗 Plateforme e-commerce automobile à fort trafic
 *Retail Renault Group (RRG), réseau multi-concessions*
@@ -81,8 +92,6 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 - **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
 - **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
 - **Une vingtaine de sites vitrines et institutionnels**, plusieurs multilingues. `React` `Next.js` `Vue.js` `Svelte` `WordPress`
-
-</details>
 
 <details>
 <summary><b>🧭 Ce que j'apporte</b></summary>
