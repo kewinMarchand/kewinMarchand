@@ -16,25 +16,25 @@
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><h3>spk-group.fr</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
-<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><h3>datagora.fr</h3><br><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></td>
+<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><h3 align="center">spk-group.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><h3 align="center">datagora.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></p></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><h3>radioguira.org</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></td>
-<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><h3>oreca-experiences.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><h3 align="center">radioguira.org</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><h3 align="center">oreca-experiences.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
 </tr>
 </table>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><h3>dhlexpress.fr</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></td>
-<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><h3>aa-biomasse.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><h3>jantes-et-pneus.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
+<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><h3 align="center">dhlexpress.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><h3 align="center">aa-biomasse.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><h3 align="center">jantes-et-pneus.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><h3>quartierdesjantes.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><h3>depamoto.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></td>
-<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><h3>comites-feux.com</h3><br><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></td>
+<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><h3 align="center">quartierdesjantes.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><h3 align="center">depamoto.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><h3 align="center">comites-feux.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></p></td>
 </tr>
 </table>
 
@@ -86,8 +86,8 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><br><h3>Laboratoire machine learning</h3><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><br><h3>Pause café</h3><br><span style="font-size:13px">Intégrateur / développeur front-end.</span></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><h3 align="center">Laboratoire machine learning</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a><h3 align="center">Pause café</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
 </tr>
 </table>
 
