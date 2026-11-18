@@ -143,19 +143,8 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 
 </details>
 
-<p align="center">
-  <img src="assets/bulle-arbre.jpg" alt="Bulle et arbre" width="260">
-  <br><sub>Passionné de botanique</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kewin-marchand/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/kewinMarchand"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
-</p>
-
 <details>
-<summary><b>autres</b></summary>
+<summary><b>Autres</b></summary>
 
 &nbsp;
 
@@ -163,7 +152,14 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 - Français (langue maternelle)
 - Anglais (lecture technique)
 - Espagnol (intermédiaire)
+- Passionné de botanique
 
 </details>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kewin-marchand/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/kewinMarchand"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+</p>
 
 <sub>Passionné de botanique</sub>
