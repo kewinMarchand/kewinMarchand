@@ -95,17 +95,6 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 </table>
 
 <details>
-<summary><b>🧭 Ce que j'apporte</b></summary>
-
-&nbsp;
-
-| 🧱 Construire | ✅ Fiabiliser |
-|---|---|
-| Applications React, Next.js et TypeScript en `strict`, découpées en domaines, avec un design system qui isole l'application des librairies tierces. | Revue de code des développeurs internes et prestataires, décisions d'architecture front écrites, tests end-to-end desktop et mobile, Core Web Vitals et accessibilité contrôlés. |
-
-</details>
-
-<details>
 <summary><b>🧰 Compétences</b></summary>
 
 &nbsp;
@@ -150,9 +139,12 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 
 &nbsp;
 
-- **2017 → 2018** · Titre professionnel **Designer web**, AFPA (niveau 5)
-- **2014** · **DAO — Professionnaliser sa pratique** (AutoCAD, SketchUp, SolidWorks), GRETA Occitanie
-- **2003 → 2005** · BTSA Aménagement de l'espace paysager, en apprentissage
+<table>
+<tr><th width="22%" style="white-space:nowrap">Période</th><th width="50%">Formation</th><th width="28%">Structure</th></tr>
+<tr><td style="white-space:nowrap">2017 &rarr; 2018</td><td>Titre professionnel <b>Designer web</b> (niveau 5)</td><td>AFPA</td></tr>
+<tr><td style="white-space:nowrap">2014</td><td><b>DAO — Professionnaliser sa pratique</b> (AutoCAD, SketchUp, SolidWorks)</td><td>GRETA Occitanie</td></tr>
+<tr><td style="white-space:nowrap">2003 &rarr; 2005</td><td>BTSA Aménagement de l'espace paysager</td><td>en apprentissage</td></tr>
+</table>
 
 </details>
 

@@ -17,7 +17,7 @@
   <circle cx="110" cy="70" r="160" fill="#2dd4bf" opacity="0.35" filter="url(#soft)"/>
   <circle cx="710" cy="460" r="170" fill="#f472b6" opacity="0.30" filter="url(#soft)"/>
 
-  <rect x="28" y="44" width="744" height="384" rx="18" fill="#0b1117" stroke="url(#frame)" stroke-width="2"/>
+  <rect x="28" y="44" width="744" height="384" rx="18" fill="#0b1117"/>
   <path d="M28 62 a18 18 0 0 1 18 -18 h708 a18 18 0 0 1 18 18 v20 h-744 z" fill="#111a24"/>
   <line x1="28" y1="82" x2="772" y2="82" stroke="#263241"/>
   <circle cx="52" cy="63" r="6" fill="#ff5f57"/>
