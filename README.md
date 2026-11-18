@@ -12,29 +12,65 @@
   <br><sub>Intégrateur / développeur front-end.</sub>
 </p>
 
-<table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
-<tr>
-<td align="center" width="390" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><br><b>SPK</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="390" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><br><b>Datagora</b><br><sub>Intégrateur / développeur.</sub></td>
-</tr>
-<tr>
-<td align="center" width="390" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><br><b>Radio Guira</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="390" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><br><b>Oreca Experience</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-</tr>
-</table>
+<div align="center">
+  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="100%" alt="SPK"></a>
+    <br><b>SPK</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a>
+    <br><b>Datagora</b>
+    <br><sub>Intégrateur / développeur.</sub>
+  </div>
+</div>
+<div align="center">
+  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="100%" alt="Radio Guira"></a>
+    <br><b>Radio Guira</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:49%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a>
+    <br><b>Oreca Experience</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+</div>
 
-<table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
-<tr>
-<td align="center" width="260" style="border:none"><a href="https://www.dhl.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><br><b>DHL Express</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><br><b>aa-biomasse</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><br><b>Jantes et Pneus</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-</tr>
-<tr>
-<td align="center" width="260" style="border:none"><a href="#"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><br><b>Quartier des Jantes</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><br><b>Dépamoto</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-<td align="center" width="260" style="border:none"><a href="#"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><br><b>AD13</b><br><sub>Intégrateur / développeur front-end.</sub></td>
-</tr>
-</table>
+<div align="center">
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="https://www.dhl.fr/"><img src="assets/dhl.jpg" width="100%" alt="DHL Express France"></a>
+    <br><b>DHL Express</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="#"><img src="assets/aa-biomasse.jpg" width="100%" alt="aa-biomasse"></a>
+    <br><b>aa-biomasse</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="#"><img src="assets/jantes-pneus.jpg" width="100%" alt="Jantes et Pneus"></a>
+    <br><b>Jantes et Pneus</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+</div>
+<div align="center">
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="#"><img src="assets/quartier-jantes.jpg" width="100%" alt="Quartier des Jantes"></a>
+    <br><b>Quartier des Jantes</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="#"><img src="assets/depamoto.jpg" width="100%" alt="Dépamoto"></a>
+    <br><b>Dépamoto</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+  <div style="display:inline-block; width:32%; vertical-align:top; text-align:center; padding:8px;">
+    <a href="#"><img src="assets/ad13.jpg" width="100%" alt="AD13"></a>
+    <br><b>AD13</b>
+    <br><sub>Intégrateur / développeur front-end.</sub>
+  </div>
+</div>
 
 ### Détail des réalisations
 
