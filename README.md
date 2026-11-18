@@ -22,10 +22,10 @@
 <tr>
 <td align="center" valign="top">
   <table width="100%"><tr>
-  <td align="center" width="25%"><a href="https://spk.fr/"><img src="assets/spk.jpg" width="100%" alt="SPK"></a><br><b>SPK</b></td>
-  <td align="center" width="25%"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
-  <td align="center" width="25%"><a href="https://www.radioguira.com/"><img src="assets/guira.png" width="100%" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
-  <td align="center" width="25%"><a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+  <td align="center" width="25%"><a href="https://spk.fr/"><img src="assets/spk.jpg" width="180" alt="SPK"></a><br><b>SPK</b></td>
+  <td align="center" width="25%"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="180" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+  <td align="center" width="25%"><a href="https://www.radioguira.com/"><img src="assets/guira.png" width="180" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
+  <td align="center" width="25%"><a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="180" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
   </tr></table>
 </td>
 </tr>
