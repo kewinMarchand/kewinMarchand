@@ -12,21 +12,21 @@
 
 ## 🚀 Réalisations
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" valign="top">
-  <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
+  <a href="https://www.renault-retail-group.fr/" target="_blank"><img src="assets/rrg.jpg" width="100%" alt="RRG — plateforme e-commerce automobile"></a>
   <br><b>RRG</b>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
   <table width="100%"><tr>
-  <td align="center" width="50%"><a href="https://spk.fr/"><img src="assets/spk.jpg" width="180" alt="SPK"></a><br><b>SPK</b></td>
-  <td align="center" width="50%"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="180" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
+  <td align="center" width="50%"><a href="https://www.spk-group.fr/fr" target="_blank"><img src="assets/spk.jpg" width="100%" alt="SPK"></a><br><b>SPK</b></td>
+  <td align="center" width="50%"><a href="https://datagora.fr/" target="_blank"><img src="assets/datagora.jpg" width="100%" alt="Datagora — média statistique"></a><br><b>Datagora</b></td>
   </tr><tr>
-  <td align="center" width="50%"><a href="https://www.radioguira.com/"><img src="assets/guira.jpg" width="180" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
-  <td align="center" width="50%"><a href="https://www.oreca.com/"><img src="assets/oreca.jpg" width="180" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
+  <td align="center" width="50%"><a href="https://www.radioguira.org/" target="_blank"><img src="assets/guira.jpg" width="100%" alt="Radio Guira"></a><br><b>Radio Guira</b></td>
+  <td align="center" width="50%"><a href="https://oreca-experiences.com/fr" target="_blank"><img src="assets/oreca.jpg" width="100%" alt="Oreca Experience"></a><br><b>Oreca Experience</b></td>
   </tr></table>
 </td>
 </tr>
@@ -71,7 +71,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
+  <a href="https://github.com/kewinMarchand/tensor-lab" target="_blank"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
   <br>
   <b>Laboratoire machine learning</b>
   <br>
@@ -80,7 +80,7 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
   <a href="https://kewinmarchand.github.io/tensor-lab/" title="Démo">🌐</a>
 </td>
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
+  <a href="https://github.com/kewinMarchand/neon-games" target="_blank"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
   <br>
   <b>Pause café</b>
   <br>
