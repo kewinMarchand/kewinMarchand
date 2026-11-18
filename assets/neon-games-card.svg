@@ -4,18 +4,18 @@
   <desc id="d">Neon Games : neuf mini-jeux ind&#233;pendants jouables dans le navigateur.</desc>
   <defs>
     <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071713"/>
-      <stop offset="1" stop-color="#06100f"/>
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
     </linearGradient>
     <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#48e2c3"/>
-      <stop offset="1" stop-color="#ff65b5"/>
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#f472b6"/>
     </linearGradient>
     <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="42"/></filter>
   </defs>
   <rect width="800" height="520" fill="url(#cardbg)"/>
-  <circle cx="110" cy="70" r="160" fill="#48e2c3" opacity="0.35" filter="url(#soft)"/>
-  <circle cx="710" cy="460" r="170" fill="#ff65b5" opacity="0.30" filter="url(#soft)"/>
+  <circle cx="110" cy="70" r="160" fill="#2dd4bf" opacity="0.35" filter="url(#soft)"/>
+  <circle cx="710" cy="460" r="170" fill="#f472b6" opacity="0.30" filter="url(#soft)"/>
 
   <rect x="28" y="44" width="744" height="384" rx="18" fill="#0b1117" stroke="url(#frame)" stroke-width="2"/>
   <path d="M28 62 a18 18 0 0 1 18 -18 h708 a18 18 0 0 1 18 18 v20 h-744 z" fill="#111a24"/>
@@ -172,6 +172,6 @@
   </svg>
 
   <text x="40" y="472" fill="#f8fafc" font-family="system-ui, 'Segoe UI', sans-serif" font-size="25" font-weight="800">Neon Games</text>
-  <text x="40" y="498" fill="#ff65b5" font-family="'Cascadia Code', Consolas, monospace" font-size="14">9 mini-jeux &#183; navigateur</text>
+  <text x="40" y="498" fill="#f472b6" font-family="'Cascadia Code', Consolas, monospace" font-size="14">9 mini-jeux &#183; navigateur</text>
   <text x="760" y="498" text-anchor="end" fill="#7d8ea3" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13">HTML &#183; CSS &#183; JS &#183; GitHub Pages</text>
 </svg>

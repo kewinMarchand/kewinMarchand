@@ -13,28 +13,36 @@
 ## 📊 En chiffres
 
 <div align="center">
-  <img src="https://img.shields.io/badge/8_ans-front--end_React_%26_TypeScript-6366f1?style=for-the-badge" alt="8 ans de front-end React et TypeScript">
-  <img src="https://img.shields.io/badge/50%2B-projets_clients-0ea5e9?style=for-the-badge" alt="50+ projets clients">
-  <img src="https://img.shields.io/badge/1%20000%2B-revues_de_code-f59e0b?style=for-the-badge" alt="Plus de 1 000 revues de code">
-  <img src="https://img.shields.io/badge/200%2B-tests_end--to--end-10b981?style=for-the-badge" alt="200+ tests end-to-end">
-  <img src="https://img.shields.io/badge/40%2B-composants_design_system-ec4899?style=for-the-badge" alt="40+ composants de design system">
-  <img src="https://img.shields.io/badge/1%20260_h-formation_dispensee-8b5cf6?style=for-the-badge" alt="1 260 heures de formation dispensée">
+  <img src="https://img.shields.io/badge/8_ans-front--end_React_%26_TypeScript-64748b?style=for-the-badge" alt="8 ans de front-end React et TypeScript">
+  <img src="https://img.shields.io/badge/50%2B-projets_clients-0284c7?style=for-the-badge" alt="50+ projets clients">
+  <img src="https://img.shields.io/badge/1%20000%2B-revues_de_code-d97706?style=for-the-badge" alt="Plus de 1 000 revues de code">
+  <img src="https://img.shields.io/badge/200%2B-tests_end--to--end-059669?style=for-the-badge" alt="200+ tests end-to-end">
+  <img src="https://img.shields.io/badge/40%2B-composants_design_system-db2777?style=for-the-badge" alt="40+ composants de design system">
+  <img src="https://img.shields.io/badge/1%20260_h-formation_dispensee-7c3aed?style=for-the-badge" alt="1 260 heures de formation dispensée">
 </div>
 
 ## 🛠️ Mes dépôts
 
-<p align="center">
-  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="49%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
-  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="49%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9p%C3%B4t-6f93b8?style=for-the-badge"></a>
-  <a href="https://kewinmarchand.github.io/tensor-lab/"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9mo-22d3ee?style=for-the-badge"></a>
-  &emsp;
-  <a href="https://github.com/kewinMarchand/neon-games"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9p%C3%B4t-48e2c3?style=for-the-badge"></a>
-  <a href="https://kewinmarchand.github.io/neon-games/"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9mo-ff65b5?style=for-the-badge"></a>
-</p>
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a>
+  <br>
+  <b>Laboratoire machine learning</b>
+  <br>
+  <a href="https://github.com/kewinMarchand/tensor-lab"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9p%C3%B4t-64748b?style=for-the-badge"></a>
+  <a href="https://kewinmarchand.github.io/tensor-lab/"><img src="https://img.shields.io/badge/Tensor_Lab-D%C3%A9mo-38bdf8?style=for-the-badge"></a>
+</td>
+<td align="center" width="50%" valign="top">
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games — neuf mini-jeux jouables dans le navigateur"></a>
+  <br>
+  <b>Pause café</b>
+  <br>
+  <a href="https://github.com/kewinMarchand/neon-games"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9p%C3%B4t-2dd4bf?style=for-the-badge"></a>
+  <a href="https://kewinmarchand.github.io/neon-games/"><img src="https://img.shields.io/badge/Neon_Games-D%C3%A9mo-f472b6?style=for-the-badge"></a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🚀 Réalisations</b></summary>
@@ -65,8 +73,10 @@ Refonte graphique complète du front, site maintenu dans la durée et audité au
 
 **Autres réalisations**
 
+- **Datagora** : média de vulgarisation statistique, site web et application mobile sur le Play Store. `React` `React Native`
+- **Radio Guira** : site radio (Symfony, SPA React, lecteur audio, RGAA). `Symfony` `React` `TypeScript`
+- **Oreca Experience** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
 - **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
-- **ORECA et Alpine** : sites d'Oreca Events et du Driving Center, pages produit Alpine animées au défilement. `Next.js` `Framer Motion`
 - **Datagora**, média de vulgarisation statistique : site web et application mobile publiée sur le Play Store. `React` `React Native`
 - **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
 - **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
@@ -112,18 +122,10 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 | Période | Poste | Structure |
 |---|---|---|
 | 2018 → 2026 | **Développeur front-end et référent front-end** | PURJUS Communication, agence digitale, Vauvenargues |
-| 2017 → 2018 | **Formateur « Web designer »**, seul formateur de la session : 16 stagiaires, 1 260 heures | AFPA, Le Pontet et Salon-de-Provence |
+| 2017 → 2018 | **Formateur « Web designer »** | AFPA, Le Pontet et Salon-de-Provence |
 | 2017 | **Intégrateur web** | Agence Hors Pistes, Venelles |
-
-<details>
-<summary><b>🌳 Avant le web : quatorze ans de paysagisme</b></summary>
-
-&nbsp;
-
-| Période | Poste | Structure |
-|---|---|---|
-| 2015 → 2017 | Graphiste, dessin de plans d'aménagement | Star's Jardin |
-| 05/2015 → 08/2015 | Vendeur conseil jardinerie | Botanic |
+| 2015 → 2017 | **Infographiste paysager** | Star's Jardin (Thibaud de Beschart) |
+| 2015 | Vendeur conseil jardinerie | Botanic |
 | 2010 → 2013 | Ouvrier paysagiste | Les Jardins Sestian, Maniebat |
 | 2005 → 2010 | Jardinier-paysagiste | Particuliers employeurs (CESU) |
 | 1999 → 2005 | Apprenti paysagiste, du BEPA au BTSA | Jardin Vert, Mondouzil |
@@ -132,19 +134,15 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 
 </details>
 
-</details>
-
 <details>
-<summary><b>🎓 Formation & langues</b></summary>
+<summary><b>🎓 Formation</b></summary>
 
 &nbsp;
 
-- **2017** · Titre professionnel **Designer web**, AFPA (niveau 5)
-- **Autoformation** · une vingtaine de certificats OpenClassrooms, dont le parcours **Intégrateur web**
+- **2017 → 2018** · Titre professionnel **Designer web**, AFPA (niveau 5)
+- **2014** · **DAO — Professionnaliser sa pratique** (AutoCAD, SketchUp, SolidWorks), GRETA Occitanie
 - **2003 → 2005** · BTSA Aménagement de l'espace paysager, en apprentissage
-
-Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire)
 
 </details>
 
-<sub>Permis B · Passionné de botanique</sub>
+<sub>Permis B · Français (langue maternelle) · Anglais (lecture technique) · Espagnol (intermédiaire) · Passionné de botanique</sub>
