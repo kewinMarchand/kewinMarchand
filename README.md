@@ -26,6 +26,9 @@
 </tr>
 </table>
 
+> **♿ Accessibilité numérique (RGAA)**  
+> Intégration et amélioration de l’accessibilité au quotidien dans une démarche RGAA/WCAG : audits, relevés de non-conformités, plans de remédiation et accompagnement de la mise en conformité sur des parcours et services variés.
+
 <details>
 <summary><b>📂 Autres réalisations professionnelles</b></summary>
 
@@ -49,51 +52,6 @@
 <td align="center" valign="top" width="50%" style="border:none;width:50%"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="390" height="234" alt="Comités Feux"></a><h3 align="center">comites-feux.com</h3><p align="center"><span style="font-size:15px;color:#24292f"><strong>Site institutionnel associatif</strong></span></p><p align="center"><span style="font-size:13px">Comités communaux feux de forêts des Bouches-du-Rhône (AD13) : développement front de A à Z (actualités, formations, espace adhérents, documents), avec un espace d’administration dédié pour faciliter l’information du public et la gestion des bénévoles.</span></p></td>
 </tr>
 </table>
-
-</details>
-
-<details>
-<summary><b>📌 Détail des réalisations</b></summary>
-
-&nbsp;
-
-### 🛒 Plateforme e-commerce automobile à fort trafic
-*Plateforme e-commerce et de services — Retail Renault Group (RRG), réseau multi-concessions*
-
-**Rôle** : auteur principal de la refonte front, de l’application historique jusqu’à la plateforme actuelle, avec une présence continue sur plus de huit ans.
-
-**Réalisation** : structuration par domaines, design system multi-marques, parcours de recherche/réservation de véhicules (neuf et occasion), après-vente et recrutement, outillage de mesure et d’observabilité. Plus de 200 scénarios de tests automatisés, forte attention portée au référencement, à l’accessibilité, à la performance et à la stabilité des parcours. **Volume** : plus de 6&nbsp;500 heures sur les sites du groupe.
-
-### 🏢 Portails de commande B2B
-*Plateformes e-commerce B2B — déclinaisons pour la distribution professionnelle et la grande consommation*
-
-**Rôle** : développeur/intégrateur front-end sur une base commune déclinée pour de nombreux clients.
-
-**Réalisation** : adaptation de catalogues, comptes multi-acheteurs, circuits de commande et interfaces d’administration, avec une bibliothèque de composants documentée et une montée en qualité progressive. Parmi les réalisations présentables : **Pharmaspace**, projet Djust parmi plusieurs autres, place de marché B2B pharmaceutique (comptes clients/vendeurs, recherche produit, demandes de devis et suivi). **Volume** : plus de 850 heures sur ces portails depuis 2022.
-
-### 📦 Refonte du site DHL Express France
-*Site de commande et d’expédition en ligne — DHL Express, transport express international*
-
-**Rôle** : développeur/intégrateur front-end sur la refonte et la maintenance.
-
-**Réalisation** : refonte graphique complète des parcours (devis, expédition, paiement, suivi, compte, points de service), correctifs à la suite d’audits de sécurité, améliorations d’accessibilité et mise en place/suivi de la mesure d’audience.
-
-**Autres réalisations**
-
-- **SPK** — *Site vitrine bilingue d’agence* : création complète du front (contenus, expertises, projets, recrutement) avec animations et attention au rendu responsive.
-- **Datagora** — *Site média et application mobile de données publiques* : développement et évolution du front du site média et de l’application mobile (articles par rubriques, pages éditoriales), en lien avec les enjeux de lisibilité des données.
-- **Pharmaspace** — *Place de marché B2B pharmaceutique* : projet Djust parmi plusieurs autres réalisations sur la plateforme, contribution aux parcours du portail (accès, comptes clients/vendeurs, recherche produit, demandes de devis et suivi des opérations).
-- **Yekrak** — *Site e-commerce de livres personnalisés* : développement des parcours avec système de configuration interactive du livre (personnalisation du personnage, aperçu), puis commande et paiement, en plusieurs langues.
-- **Radio Guira** — *Site de webradio et d’actualités* : application web avec lecteur audio persistant, actualités et émissions pour la radio de la MINUSCA en RCA.
-- **Oreca Experiences** — *Site expérientiel premium* : développement du front du site d’expériences de pilotage (Circuit Paul Ricard), avec transitions, animations et optimisation des médias.
-- **aa-biomasse** — *Site vitrine industriel bilingue* : développement de A à Z du front (solutions, réalisations, actualités, formulaires) connecté à l’administration.
-- **Jantes et Pneus** — *Site e-commerce de jantes et pneus* : création et évolution du front (configurateur véhicule, listings, fiches, packs, tunnel d’achat).
-- **Quartier des Jantes** — *Site e-commerce de jantes et pneus* : maintenance et évolutions fonctionnelles de la boutique (catalogue, recherche, commande), en appui des opérations quotidiennes.
-- **Dépamoto** — *Site e-commerce de motos et pièces d’occasion* : maintenance et enrichissements des parcours véhicules/pièces et du tunnel de commande.
-- **Comités Feux (AD13)** — *Site institutionnel associatif* : développement front de A à Z (actualités, formations, espace adhérents, documents) et intégration avec l’administration.
-- **Audits d’accessibilité RGAA** : notamment pour Monext (solutions de paiement) — mesure du taux de conformité, relevé des non-conformités, plan de remédiation chiffré puis accompagnement de la mise en conformité — ainsi que plusieurs audits ciblés.
-- **Applications métier** : plateforme de recrutement Jobs by RRG et application tablette d’audits terrain pour Montaclair, utilisable hors ligne.
-- **Sites vitrines et institutionnels** : une vingtaine de réalisations, dont plusieurs multilingues, aux périmètres et enjeux variés (présentation, acquisition, contenus éditoriaux).
 
 </details>
 
