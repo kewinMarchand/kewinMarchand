@@ -4,7 +4,7 @@
 
 > Huit ans de front-end en React et TypeScript, dont trois comme référent front-end. Mon terrain : des applications que les équipes peuvent faire évoluer sans casse — design system, revue de code, tests end-to-end.
 
-## 🚀 Mes réalisations professionnelles
+## ✦ Mes réalisations professionnelles
 
 <p align="center">
   <a href="https://www.renault-retail-group.fr/"><img src="assets/rrg.jpg" width="780" alt="RRG — plateforme e-commerce automobile"></a>
@@ -16,34 +16,34 @@
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><h3 align="center">spk-group.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></p></td>
-<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><h3 align="center">datagora.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur. RGAA.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.spk-group.fr/fr"><img src="assets/spk.jpg" width="390" alt="SPK"></a><h3 align="center">spk-group.fr</h3><p align="center"><span style="font-size:13px">Création complète du site, avec de nombreuses animations.</span></p></td>
+<td align="center" style="border:none"><a href="https://datagora.fr/"><img src="assets/datagora.jpg" width="390" alt="Datagora — média statistique"></a><h3 align="center">datagora.fr</h3><p align="center"><span style="font-size:13px">Création d'un site et d'une application mobile liés au même back-end.</span></p></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><h3 align="center">radioguira.org</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, SEO.</span></p></td>
-<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><h3 align="center">oreca-experiences.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.radioguira.org/"><img src="assets/guira.jpg" width="390" alt="Radio Guira"></a><h3 align="center">radioguira.org</h3><p align="center"><span style="font-size:13px">Application SPA pour la MINUSCA, avec lecteur audio.</span></p></td>
+<td align="center" style="border:none"><a href="https://oreca-experiences.com/fr"><img src="assets/oreca.jpg" width="390" alt="Oreca Experience"></a><h3 align="center">oreca-experiences.com</h3><p align="center"><span style="font-size:13px">Création complète du site, avec de nombreuses animations.</span></p></td>
 </tr>
 </table>
 
 <table style="border:none;border-collapse:separate;border-spacing:12px" border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><h3 align="center">dhlexpress.fr</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA, GA4, Sentry, GTM.</span></p></td>
-<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><h3 align="center">aa-biomasse.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
-<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><h3 align="center">jantes-et-pneus.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.dhlexpress.fr/"><img src="assets/dhl.jpg" width="260" alt="DHL Express France"></a><h3 align="center">dhlexpress.fr</h3><p align="center"><span style="font-size:13px">Refonte graphique complète et correctifs liés aux pentests.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.aa-biomasse.com/fr"><img src="assets/aa-biomasse.jpg" width="260" alt="aa-biomasse"></a><h3 align="center">aa-biomasse.com</h3><p align="center"><span style="font-size:13px">Développement de A à Z du front-end.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.jantes-et-pneus.com/"><img src="assets/jantes-pneus.jpg" width="260" alt="Jantes et Pneus"></a><h3 align="center">jantes-et-pneus.com</h3><p align="center"><span style="font-size:13px">Développement de A à Z du front-end.</span></p></td>
 </tr>
 <tr>
-<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><h3 align="center">quartierdesjantes.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
-<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><h3 align="center">depamoto.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. SEO.</span></p></td>
-<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="AD13"></a><h3 align="center">comites-feux.com</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end. RGAA.</span></p></td>
+<td align="center" style="border:none"><a href="https://www.quartierdesjantes.com/"><img src="assets/quartier-jantes.jpg" width="260" alt="Quartier des Jantes"></a><h3 align="center">quartierdesjantes.com</h3><p align="center"><span style="font-size:13px">Maintenance dans le temps et évolutions.</span></p></td>
+<td align="center" style="border:none"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="260" alt="Dépamoto"></a><h3 align="center">depamoto.com</h3><p align="center"><span style="font-size:13px">Maintenance dans le temps et évolutions.</span></p></td>
+<td align="center" style="border:none"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="260" alt="Comités Feux"></a><h3 align="center">comites-feux.com</h3><p align="center"><span style="font-size:13px">Développement de A à Z du front-end.</span></p></td>
 </tr>
 </table>
 
 <details>
-<summary><b>📋 Détail des réalisations</b></summary>
+<summary><b>📌 Détail des réalisations</b></summary>
 
 &nbsp;
 
-### 🚗 Plateforme e-commerce automobile à fort trafic
+### 🛒 Plateforme e-commerce automobile à fort trafic
 *Retail Renault Group (RRG), réseau multi-concessions*
 
 **Auteur principal de la refonte**, de l'ancienne application Angular à Next.js. Refonte complète : domaines indépendants, design system, rendu serveur, tunnel d’achat, SEO, accessibilité, scénarios e2e, Core Web Vitals.
@@ -51,8 +51,8 @@ Des domaines indépendants, un design system d'une quarantaine de composants, un
 
 `Next.js` `React` `TypeScript` `Redux Toolkit` `TanStack Query` `MUI` `CodeceptJS`
 
-### 🛍️ Portails de commande B2B
-*Sur Djust · distribution professionnelle et grande consommation*
+### 🏢 Portails de commande B2B
+*Sur Djust — distribution professionnelle et grande consommation*
 
 Sur la solution B2B Djust : **une dizaine de déclinaisons clientes d’une même base**, avec catalogues, comptes multi-acheteurs, circuits de commande et back-offices. Front en Nuxt 2 et TypeScript, composants documentés dans Storybook. Plus de 850 heures sur ces portails depuis 2022.
 
@@ -61,38 +61,38 @@ Sur la solution B2B Djust : **une dizaine de déclinaisons clientes d’une mêm
 ### 📦 Refonte du site DHL Express France
 *DHL Express, transport express international*
 
-Refonte graphique complète du front, site maintenu dans la durée et audité au regard du RGAA. Plan de mesure GA4 et son contrôle qualité.
+Refonte graphique complète du front, correctifs liés aux pentests, site maintenu dans la durée et audité au regard du RGAA. Plan de mesure GA4 et son contrôle qualité.
 
 `Symfony` `Laravel` `JavaScript` `GA4`
 
 **Autres réalisations**
 
-- **aa-biomasse** : site vitrine. `React` `Next.js`
-- **Jantes et Pneus** : boutique e-commerce et configurateur de compatibilité véhicule. `Symfony` `Twig` `Vue.js`
-- **Quartier des Jantes** : boutique e-commerce et configurateur de compatibilité véhicule. `Symfony` `Twig` `Vue.js`
-- **Dépamoto** : boutique e-commerce de pièces moto. `Symfony` `Twig` `Vue.js`
-- **AD13** : site vitrine associatif. `React` `React admin`
-- **Datagora** : média de vulgarisation statistique, site web et application mobile sur le Play Store. `React` `React Native`
-- **Radio Guira** : site radio (Symfony, SPA React, lecteur audio, RGAA). `Symfony` `React` `TypeScript`
-- **Oreca Experience** : sites d'Oreca Events et du Driving Center. `Next.js` `Framer Motion`
+- **SPK** : création complète du site, avec de nombreuses animations. `Front-end` `Animations` `RGAA` `SEO`
+- **Datagora** : création d'un site et d'une application mobile liés au même back-end (média de vulgarisation statistique, site web et application mobile sur le Play Store). `React` `React Native`
+- **Radio Guira** : application SPA pour la MINUSCA, avec lecteur audio. `Symfony` `React` `TypeScript`
+- **Oreca Experience** : création complète du site, avec de nombreuses animations (sites d'Oreca Events et du Driving Center). `Next.js` `Framer Motion`
+- **aa-biomasse** : développement de A à Z du front-end (site vitrine). `React` `Next.js`
+- **Jantes et Pneus** : développement de A à Z du front-end (boutique e-commerce et configurateur de compatibilité véhicule). `Symfony` `Twig` `Vue.js`
+- **Quartier des Jantes** : maintenance dans le temps et évolutions (boutique e-commerce et configurateur de compatibilité véhicule). `Symfony` `Twig` `Vue.js`
+- **Dépamoto** : maintenance dans le temps et évolutions (boutique e-commerce de pièces moto). `Symfony` `Twig` `Vue.js`
+- **Comités Feux** : développement de A à Z du front-end (site vitrine associatif). `React` `React admin`
 - **Audits d'accessibilité RGAA 4.1** : Monext, solutions de paiement (taux de conformité mesuré, non-conformités relevées, plan de remédiation chiffré en jours, puis mise en conformité) et trois audits plus ciblés. `RGAA 4.1` `WCAG 2.1 AA`
-- **E-commerce de pièces auto et moto** (Dépamoto, Quartier des Jantes, Jantes et Pneus) : boutiques et configurateur de compatibilité véhicule, maintenu plusieurs années. `Symfony` `Twig` `Vue.js`
 - **Applications métier** : plateforme de recrutement Jobs by RRG, application tablette d'audits terrain pour Montaclair, utilisable hors ligne. `Vue.js` `Twig`
 - **Une vingtaine de sites vitrines et institutionnels**, plusieurs multilingues. `React` `Next.js` `Vue.js` `Svelte` `WordPress`
 
 </details>
 
-## 🛠️ Mes dépôts test
+## 🧪 Mes dépôts test
 
 <table border="0" cellpadding="8" cellspacing="8">
 <tr>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><h3 align="center">Laboratoire machine learning</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
-<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/neon-games"><img src="assets/neon-games-card.svg" width="100%" alt="Neon Games - douze mini-jeux jouables dans le navigateur"></a><h3 align="center">Pause café</h3><p align="center"><span style="font-size:13px">Intégrateur / développeur front-end.</span></p></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/tensor-lab"><img src="assets/tensor-lab-card.svg" width="100%" alt="Tensor Lab — portail d'applications de machine learning (TensorFlow.js)"></a><h3 align="center">Laboratoire machine learning</h3></td>
+<td align="center" width="50%" style="border:none"><a href="https://github.com/kewinMarchand/arcade-collection"><img src="assets/neon-games-card.svg" width="100%" alt="Arcade Collection — mini-jeux jouables dans le navigateur"></a><h3 align="center">Pause café</h3></td>
 </tr>
 </table>
 
 <details>
-<summary><b>🧰 Compétences</b></summary>
+<summary><b>🛠️ Compétences</b></summary>
 
 &nbsp;
 
@@ -111,7 +111,7 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 </details>
 
 <details>
-<summary><b>💼 Parcours</b></summary>
+<summary><b>👤 Parcours</b></summary>
 
 &nbsp;
 
@@ -146,7 +146,7 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
 </details>
 
 <details>
-<summary><b>📌 Autres</b></summary>
+<summary><b>🌿 Autres</b></summary>
 
 &nbsp;
 
@@ -164,4 +164,4 @@ Ce que je ne fais pas : modélisation de bases de données, administration syst�
   <a href="cv-kewin-marchand.pdf"><img src="https://img.shields.io/badge/-CV-1f4e79?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 </p>
 
-<sub>Passionné de botanique</span>
+<sub>Passionné de botanique</sub>
