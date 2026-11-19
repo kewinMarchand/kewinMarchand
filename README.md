@@ -4,6 +4,9 @@
 
 > Huit ans de front-end en React et TypeScript, dont trois comme référent front-end. Mon terrain : des applications que les équipes peuvent faire évoluer sans casse — design system, revue de code, tests end-to-end.
 
+> **♿ Accessibilité numérique (RGAA)**  
+> Référent sur les sujets d’accessibilité, j’ai notamment été en charge de l’audit de solutions bancaires, puis de leur remédiation — en direct dans le code ou en tant qu’expert et force de proposition auprès des équipes. De façon générale, sur l’ensemble des projets, j’accorde une attention particulière à l’accessibilité (RGAA/WCAG), de la conception à la mise en conformité.
+
 ## ✦ Mes réalisations professionnelles
 
 <p align="center">
@@ -25,9 +28,6 @@
 <td align="center" valign="top" width="50%" style="border:none;width:50%"><a href="https://yekrak.com/fr/"><img src="assets/yekrak.jpg" width="390" height="234" alt="Yekrak"></a><h3 align="center">yekrak.com</h3><p align="center"><span style="font-size:15px;color:#24292f"><strong>Site e-commerce de livres personnalisés</strong></span></p><p align="center"><span style="font-size:13px">Création et vente de livres personnalisés pour enfants, avec un système de configuration interactive du livre (personnalisation du personnage, aperçu), commande et paiement en ligne, dans un parcours multilingue pensé pour les familles.</span></p></td>
 </tr>
 </table>
-
-> **♿ Accessibilité numérique (RGAA)**  
-> Intégration et amélioration de l’accessibilité au quotidien dans une démarche RGAA/WCAG : audits, relevés de non-conformités, plans de remédiation et accompagnement de la mise en conformité sur des parcours et services variés.
 
 <details>
 <summary><b>📂 Autres réalisations professionnelles</b></summary>
