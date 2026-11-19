@@ -47,6 +47,10 @@
 <td align="center" valign="top" width="50%" style="border:none;width:50%"><a href="https://depamoto.com/fr-FR"><img src="assets/depamoto.jpg" width="390" height="234" alt="Dépamoto"></a><h3 align="center">depamoto.com</h3><p align="center"><sub><strong>Site e-commerce de motos et pièces d’occasion</strong></sub></p><p align="center"><span style="font-size:11px;color:#6a737d"><em>👥 chef de projet et équipes du client, notamment les équipes commerciales et vendeuses</em></span></p><p align="center"><span style="font-size:13px">Maintenance et enrichissements du parcours d’achat (véhicules, pièces détachées, recherche, commande), afin de garder un catalogue vivant et des parcours clairs pour des produits techniques.</span></p></td>
 <td align="center" valign="top" width="50%" style="border:none;width:50%"><a href="https://comites-feux.com/"><img src="assets/ad13.jpg" width="390" height="234" alt="Comités Feux"></a><h3 align="center">comites-feux.com</h3><p align="center"><sub><strong>Site institutionnel associatif</strong></sub></p><p align="center"><span style="font-size:11px;color:#6a737d"><em>👥 chef de projet et responsables associatifs</em></span></p><p align="center"><span style="font-size:13px">Comités communaux feux de forêts des Bouches-du-Rhône (AD13) : développement front de A à Z (actualités, formations, espace adhérents, documents), avec un espace d’administration dédié pour faciliter l’information du public et la gestion des bénévoles.</span></p></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="50%" style="border:none;width:50%"><img src="assets/pharmaspace.jpg" width="390" height="234" alt="Pharmaspace"><h3 align="center">Pharmaspace</h3><p align="center"><sub><strong>Place de marché B2B pharmaceutique</strong></sub></p><p align="center"><span style="font-size:11px;color:#6a737d"><em>👥 chef de projet, équipes produit et client</em></span></p><p align="center"><span style="font-size:13px">Réalisation sur la plateforme Djust : parcours de présentation et d’accès, comptes clients et vendeurs, recherche et consultation des produits, demandes de devis et suivi des opérations pour les professionnels du secteur pharmaceutique.</span></p></td>
+<td align="center" valign="top" width="50%" style="border:none;width:50%"></td>
+</tr>
 </table>
 
 </details>
@@ -72,7 +76,7 @@
 
 **Rôle** : développeur/intégrateur front-end sur une base commune déclinée pour de nombreux clients.
 
-**Réalisation** : adaptation de catalogues, comptes multi-acheteurs, circuits de commande et interfaces d’administration, avec une bibliothèque de composants documentée et une montée en qualité progressive. **Volume** : plus de 850 heures sur ces portails depuis 2022.
+**Réalisation** : adaptation de catalogues, comptes multi-acheteurs, circuits de commande et interfaces d’administration, avec une bibliothèque de composants documentée et une montée en qualité progressive. Parmi les réalisations présentables : **Pharmaspace**, place de marché B2B pharmaceutique (comptes clients/vendeurs, recherche produit, demandes de devis et suivi). **Volume** : plus de 850 heures sur ces portails depuis 2022.
 
 ### 📦 Refonte du site DHL Express France
 *Site de commande et d’expédition en ligne — DHL Express, transport express international*
@@ -87,6 +91,7 @@
 
 - **SPK** — *Site vitrine bilingue d’agence* : création complète du front (contenus, expertises, projets, recrutement) avec animations et attention au rendu responsive. <sub><em>👥 chef de projet et équipe créative/client</em></sub>
 - **Datagora** — *Site média et application mobile de données publiques* : développement et évolution du front du site média et de l’application mobile (articles par rubriques, pages éditoriales), en lien avec les enjeux de lisibilité des données. <sub><em>👥 chef de projet et équipes éditoriales/produit</em></sub>
+- **Pharmaspace** — *Place de marché B2B pharmaceutique* : contribution aux parcours du portail (accès, comptes clients/vendeurs, recherche produit, demandes de devis et suivi des opérations) sur la plateforme Djust. <sub><em>👥 chef de projet, équipes produit et client</em></sub>
 - **Radio Guira** — *Site de webradio et d’actualités* : application web avec lecteur audio persistant, actualités et émissions pour la radio de la MINUSCA en RCA. <sub><em>👥 chef de projet et équipes de la radio</em></sub>
 - **Oreca Experiences** — *Site expérientiel premium* : développement du front du site d’expériences de pilotage (Circuit Paul Ricard), avec transitions, animations et optimisation des médias. <sub><em>👥 chef de projet et équipes créatives/client</em></sub>
 - **aa-biomasse** — *Site vitrine industriel bilingue* : développement de A à Z du front (solutions, réalisations, actualités, formulaires) connecté à l’administration. <sub><em>👥 chef de projet et équipes métier du client</em></sub>

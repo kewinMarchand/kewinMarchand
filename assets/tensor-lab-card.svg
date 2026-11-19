@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
   <title id="t">Tensor Lab</title>
-  <desc id="d">Tensor Lab : portail d'applications de machine learning interactives (TensorFlow.js).</desc>
+  <desc id="d">Portail d'expérimentations autour des tenseurs et du machine learning dans le navigateur.</desc>
   <defs>
     <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f172a"/>
       <stop offset="1" stop-color="#1e293b"/>
     </linearGradient>
-    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#64748b"/>
-      <stop offset="1" stop-color="#38bdf8"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="cube" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
     </linearGradient>
     <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="42"/></filter>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <rect width="800" height="520" fill="url(#cardbg)"/>
-  <circle cx="110" cy="70" r="160" fill="#64748b" opacity="0.35" filter="url(#soft)"/>
-  <circle cx="710" cy="460" r="170" fill="#38bdf8" opacity="0.30" filter="url(#soft)"/>
+  <circle cx="110" cy="70" r="160" fill="#38bdf8" opacity="0.30" filter="url(#soft)"/>
+  <circle cx="710" cy="460" r="170" fill="#818cf8" opacity="0.28" filter="url(#soft)"/>
 
   <rect x="28" y="44" width="744" height="384" rx="18" fill="#0b1117"/>
   <path d="M28 62 a18 18 0 0 1 18 -18 h708 a18 18 0 0 1 18 18 v20 h-744 z" fill="#111a24"/>
@@ -23,74 +28,81 @@
   <circle cx="52" cy="63" r="6" fill="#ff5f57"/>
   <circle cx="74" cy="63" r="6" fill="#febc2e"/>
   <circle cx="96" cy="63" r="6" fill="#28c840"/>
-  <rect x="122" y="51" width="310" height="24" rx="12" fill="#0b1117" stroke="#263241"/>
-  <text x="277" y="67" text-anchor="middle" fill="#8b9eb3" font-family="'Cascadia Code', Consolas, monospace" font-size="12">kewinmarchand.github.io/tensor-lab</text>
+  <rect x="122" y="51" width="320" height="24" rx="12" fill="#0b1117" stroke="#263241"/>
+  <text x="282" y="67" text-anchor="middle" fill="#8b9eb3" font-family="'Cascadia Code', Consolas, monospace" font-size="12">kewinmarchand.github.io/tensor-lab</text>
 
-  <svg x="44" y="96" width="712" height="330" viewBox="0 0 800 420" preserveAspectRatio="xMidYMid meet">
-<title id="title">Fear &amp; Greed Tensor</title>
-  <desc id="desc">Indice Fear &amp; Greed BTC/USD, jauge et graphique de prix avec TensorFlow.js</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111821"/>
-      <stop offset="1" stop-color="#0b1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6f93b8"/>
-      <stop offset="1" stop-color="#8fb3cc"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="420" fill="url(#bg)"/>
-  <rect x="12" y="12" width="776" height="396" rx="18" fill="#151d27" stroke="#263241"/>
+  <g transform="translate(44,96)">
+    <rect width="712" height="332" rx="14" fill="#0b1220"/>
 
-  <text x="36" y="50" fill="#e6edf3" font-family="'Space Grotesk', system-ui, sans-serif" font-size="22" font-weight="700">Fear &amp; Greed <tspan fill="#6f93b8">Tensor</tspan></text>
-  <text x="36" y="72" fill="#8b9eb3" font-family="'DM Mono', monospace" font-size="12">Laboratoire d&#39;inférence · TensorFlow.js · séries temporelles</text>
-  <circle cx="742" cy="46" r="5" fill="#8fb3cc"/>
-  <text x="706" y="50" fill="#8b9eb3" font-family="'DM Mono', monospace" font-size="11" text-anchor="end">live</text>
+    <!-- tensor cube / matrix stack -->
+    <g transform="translate(356,150)" filter="url(#glow)">
+      <!-- back layer -->
+      <g transform="translate(-70,-40)" opacity="0.55">
+        <polygon points="0,40 80,0 160,40 80,80" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+        <polygon points="0,40 80,80 80,160 0,120" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+        <polygon points="80,80 160,40 160,120 80,160" fill="#0f172a" stroke="#818cf8" stroke-width="2"/>
+        <g stroke="#334155" stroke-width="1">
+          <line x1="20" y1="50" x2="100" y2="10"/><line x1="40" y1="60" x2="120" y2="20"/><line x1="60" y1="70" x2="140" y2="30"/>
+          <line x1="20" y1="50" x2="20" y2="130"/><line x1="40" y1="60" x2="40" y2="140"/><line x1="60" y1="70" x2="60" y2="150"/>
+          <line x1="100" y1="90" x2="180" y2="50"/><line x1="100" y1="110" x2="180" y2="70"/><line x1="100" y1="130" x2="180" y2="90"/>
+        </g>
+      </g>
+      <!-- middle layer -->
+      <g transform="translate(-20,-10)" opacity="0.8">
+        <polygon points="0,40 80,0 160,40 80,80" fill="#1e293b" stroke="#38bdf8" stroke-width="2.2"/>
+        <polygon points="0,40 80,80 80,160 0,120" fill="#111827" stroke="#38bdf8" stroke-width="2.2"/>
+        <polygon points="80,80 160,40 160,120 80,160" fill="#0f172a" stroke="#818cf8" stroke-width="2.2"/>
+        <g stroke="#475569" stroke-width="1">
+          <line x1="20" y1="50" x2="100" y2="10"/><line x1="40" y1="60" x2="120" y2="20"/><line x1="60" y1="70" x2="140" y2="30"/>
+          <line x1="20" y1="50" x2="20" y2="130"/><line x1="40" y1="60" x2="40" y2="140"/><line x1="60" y1="70" x2="60" y2="150"/>
+          <line x1="100" y1="90" x2="180" y2="50"/><line x1="100" y1="110" x2="180" y2="70"/><line x1="100" y1="130" x2="180" y2="90"/>
+        </g>
+      </g>
+      <!-- front layer -->
+      <g transform="translate(30,20)">
+        <polygon points="0,40 80,0 160,40 80,80" fill="#243447" stroke="#7dd3fc" stroke-width="2.5"/>
+        <polygon points="0,40 80,80 80,160 0,120" fill="#162033" stroke="#38bdf8" stroke-width="2.5"/>
+        <polygon points="80,80 160,40 160,120 80,160" fill="#0f172a" stroke="#818cf8" stroke-width="2.5"/>
+        <g stroke="#64748b" stroke-width="1.2">
+          <line x1="20" y1="50" x2="100" y2="10"/><line x1="40" y1="60" x2="120" y2="20"/><line x1="60" y1="70" x2="140" y2="30"/>
+          <line x1="20" y1="50" x2="20" y2="130"/><line x1="40" y1="60" x2="40" y2="140"/><line x1="60" y1="70" x2="60" y2="150"/>
+          <line x1="100" y1="90" x2="180" y2="50"/><line x1="100" y1="110" x2="180" y2="70"/><line x1="100" y1="130" x2="180" y2="90"/>
+        </g>
+        <!-- highlighted cells / activations -->
+        <circle cx="40" cy="60" r="5" fill="#38bdf8"/>
+        <circle cx="120" cy="20" r="5" fill="#818cf8"/>
+        <circle cx="60" cy="110" r="5" fill="#22d3ee"/>
+        <circle cx="140" cy="70" r="5" fill="#38bdf8"/>
+        <circle cx="100" cy="130" r="5" fill="#a78bfa"/>
+      </g>
 
-  <g transform="translate(36,96)">
-    <rect width="250" height="286" rx="14" fill="#111821" stroke="#263241"/>
-    <text x="20" y="30" fill="#8b9eb3" font-family="'DM Mono', monospace" font-size="11" letter-spacing="1">INDICE FEAR &amp; GREED</text>
-    <g transform="translate(125,150)">
-      <path d="M -86 0 A 86 86 0 0 1 -53 -67" fill="none" stroke="#c06b6b" stroke-width="14" stroke-linecap="round"/>
-      <path d="M -47 -72 A 86 86 0 0 1 0 -86" fill="none" stroke="#c08a5a" stroke-width="14"/>
-      <path d="M 8 -86 A 86 86 0 0 1 53 -67" fill="none" stroke="#c4a86a" stroke-width="14"/>
-      <path d="M 59 -62 A 86 86 0 0 1 86 0" fill="none" stroke="#6f93b8" stroke-width="14" stroke-linecap="round"/>
-      <line x1="0" y1="0" x2="34" y2="-58" stroke="#e6edf3" stroke-width="4" stroke-linecap="round"/>
-      <circle cx="0" cy="0" r="7" fill="#e6edf3"/>
-      <circle cx="0" cy="0" r="3" fill="#151d27"/>
-      <text x="0" y="46" fill="#e6edf3" font-family="'Space Grotesk', system-ui, sans-serif" font-size="34" font-weight="700" text-anchor="middle">62</text>
-      <text x="0" y="66" fill="#8fb3cc" font-family="'DM Mono', monospace" font-size="12" text-anchor="middle">GREED</text>
+      <!-- connection nodes around tensor -->
+      <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.8">
+        <path d="M-110 40 C-60 40, -40 60, -10 70"/>
+        <path d="M230 10 C190 20, 170 40, 150 50"/>
+        <path d="M210 170 C170 150, 150 140, 130 140"/>
+      </g>
+      <g fill="#0b1220" stroke-width="3">
+        <circle cx="-110" cy="40" r="10" stroke="#38bdf8"/>
+        <circle cx="230" cy="10" r="10" stroke="#818cf8"/>
+        <circle cx="210" cy="170" r="10" stroke="#22d3ee"/>
+        <circle cx="-110" cy="40" r="4" fill="#38bdf8" stroke="none"/>
+        <circle cx="230" cy="10" r="4" fill="#818cf8" stroke="none"/>
+        <circle cx="210" cy="170" r="4" fill="#22d3ee" stroke="none"/>
+      </g>
     </g>
-    <g font-family="'DM Mono', monospace" font-size="10" fill="#8b9eb3">
-      <text x="20" y="246">Biais modèle</text><text x="230" y="246" text-anchor="end" fill="#8fb3cc">+0.12</text>
-      <text x="20" y="266">BTC</text><text x="230" y="266" text-anchor="end" fill="#e6edf3">$67 420</text>
+
+    <!-- axis labels -->
+    <g font-family="'Cascadia Code', Consolas, monospace" font-size="13" fill="#94a3b8">
+      <text x="110" y="286">x</text>
+      <text x="604" y="286">y</text>
+      <text x="356" y="70" text-anchor="middle">z · dimensions</text>
     </g>
+
+    <text x="356" y="314" text-anchor="middle" fill="#e2e8f0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="26" font-weight="800" letter-spacing="4">TENSOR LAB</text>
   </g>
-
-  <g transform="translate(302,96)">
-    <rect width="462" height="286" rx="14" fill="#111821" stroke="#263241"/>
-    <text x="20" y="30" fill="#8b9eb3" font-family="'DM Mono', monospace" font-size="11" letter-spacing="1">PRIX &amp; PRÉVISIONS</text>
-    <g stroke="#263241" stroke-width="1">
-      <line x1="20" y1="70" x2="442" y2="70"/>
-      <line x1="20" y1="120" x2="442" y2="120"/>
-      <line x1="20" y1="170" x2="442" y2="170"/>
-      <line x1="20" y1="220" x2="442" y2="220"/>
-    </g>
-    <polyline points="20,200 70,188 120,194 170,160 220,150 270,132 320,140 370,110 420,98 442,88" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <polyline points="442,88 442,220 20,220 20,200 70,188 120,194 170,160 220,150 270,132 320,140 370,110 420,98" fill="#6f93b8" fill-opacity="0.08" stroke="none"/>
-    <polyline points="370,110 400,104 430,92 442,84" fill="none" stroke="#8fb3cc" stroke-width="2" stroke-dasharray="6 6" stroke-linecap="round"/>
-    <g font-family="'DM Mono', monospace" font-size="10">
-      <rect x="20" y="240" width="130" height="30" rx="8" fill="#151d27" stroke="#263241"/>
-      <text x="34" y="259" fill="#8b9eb3">+1h</text><text x="140" y="259" text-anchor="end" fill="#8fb3cc">$67 910</text>
-      <rect x="160" y="240" width="130" height="30" rx="8" fill="#151d27" stroke="#263241"/>
-      <text x="174" y="259" fill="#8b9eb3">+4h</text><text x="280" y="259" text-anchor="end" fill="#8fb3cc">$68 240</text>
-      <rect x="300" y="240" width="142" height="30" rx="8" fill="#151d27" stroke="#263241"/>
-      <text x="314" y="259" fill="#8b9eb3">+12h</text><text x="432" y="259" text-anchor="end" fill="#8fb3cc">$68 780</text>
-    </g>
-  </g>
-  </svg>
 
   <text x="40" y="472" fill="#f8fafc" font-family="system-ui, 'Segoe UI', sans-serif" font-size="25" font-weight="800">Tensor Lab</text>
-  <text x="40" y="498" fill="#38bdf8" font-family="'Cascadia Code', Consolas, monospace" font-size="14">portail ML &#183; TensorFlow.js</text>
-  <text x="760" y="498" text-anchor="end" fill="#7d8ea3" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13">TensorFlow.js &#183; Node.js &#183; Socket.IO</text>
+  <text x="40" y="498" fill="#38bdf8" font-family="'Cascadia Code', Consolas, monospace" font-size="14">expérimentations · tenseurs</text>
+  <text x="760" y="498" text-anchor="end" fill="#7d8ea3" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13">HTML · CSS · JS · GitHub Pages</text>
 </svg>
